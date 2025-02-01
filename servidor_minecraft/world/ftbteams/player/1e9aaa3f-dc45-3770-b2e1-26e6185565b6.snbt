@@ -1,0 +1,17 @@
+{
+	id: "1e9aaa3f-dc45-3770-b2e1-26e6185565b6"
+	type: "player"
+	player_name: "PawAngAng"
+	ranks: {
+		1e9aaa3f-dc45-3770-b2e1-26e6185565b6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "PawAngAng"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFC759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

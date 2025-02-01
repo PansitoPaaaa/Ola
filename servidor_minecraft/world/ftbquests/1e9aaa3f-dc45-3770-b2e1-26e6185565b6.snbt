@@ -1,0 +1,28 @@
+{
+	version: 1
+	uuid: "1e9aaa3fdc453770b2e126e6185565b6"
+	name: "PawAngAng"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+		2394AAEC1A9810DD: 1
+	}
+	started: {
+		2C6177EDC934F9DC: 1738451617228L
+		7CE16FEEA03DBE1F: 1738451617228L
+		047C5CB3ED9A8E47: 1738451617228L
+		4523079E2318BD94: 1738451617228L
+		2583DDB195B6CFEA: 1738451617228L
+		0000000000000001: 1738451617228L
+		2394AAEC1A9810DD: 1738451860476L
+		103C05E04D0AEB52: 1738451860476L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

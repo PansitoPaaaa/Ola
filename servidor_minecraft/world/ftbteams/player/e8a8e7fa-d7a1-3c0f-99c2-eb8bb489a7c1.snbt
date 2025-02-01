@@ -1,0 +1,17 @@
+{
+	id: "e8a8e7fa-d7a1-3c0f-99c2-eb8bb489a7c1"
+	type: "player"
+	player_name: "PansitoPa"
+	ranks: {
+		e8a8e7fa-d7a1-3c0f-99c2-eb8bb489a7c1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "PansitoPa"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
