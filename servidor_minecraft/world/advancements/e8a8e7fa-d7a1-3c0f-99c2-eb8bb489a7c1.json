@@ -423,6 +423,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-02 01:29:13 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-01 23:11:41 +0000"
@@ -542,6 +548,12 @@
   "pfm:recipes/root": {
     "criteria": {
       "has_planks": "2025-02-01 23:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-02 01:34:52 +0000"
     },
     "done": true
   },
