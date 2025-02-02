@@ -1120,3 +1120,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 20:32:43.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
 [02Feb2025 20:32:47.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
 [02Feb2025 20:32:54.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 20:41:13.206] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[02Feb2025 20:41:13.207] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2025-02-02_01-11-43.zip"
+[02Feb2025 20:42:57.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa was slain by Zombie
+[02Feb2025 20:42:58.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Feb2025 20:42:58.508] [Server thread/INFO] [tac/]: PENDING
+[02Feb2025 20:43:09.658] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5330 in minecraft:the_end
+[02Feb2025 20:43:09.658] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5330 in minecraft:the_nether
+[02Feb2025 20:43:09.659] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5330 in lostcities:lostcity
+[02Feb2025 20:43:09.660] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5330 in deceasedcraft:abyss
+[02Feb2025 20:43:09.697] [Server thread/INFO] [sereneseasons/]: Season time skipped by 5330 in minecraft:overworld
+[02Feb2025 20:43:47.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Teleported PansitoPa to -440.500000, 38.500000, 378.500000]
