@@ -1100,3 +1100,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 20:12:40.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [02Feb2025 20:12:40.925] [Server thread/INFO] [tac/]: PENDING
 [02Feb2025 20:12:45.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 20:22:27.906] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[02Feb2025 20:23:59.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa has completed the challenge [Yo mama so fat, she can summon zombies]
+[02Feb2025 20:25:19.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 20:25:23.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 20:26:41.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 20:28:05.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa was slain by Zombie
+[02Feb2025 20:28:07.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Feb2025 20:28:07.277] [Server thread/INFO] [tac/]: PENDING
+[02Feb2025 20:28:18.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 20:28:34.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
