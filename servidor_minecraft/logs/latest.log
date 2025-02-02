@@ -24,3 +24,5 @@
 [02Feb2025 00:09:35.572] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:00:00 at 61693, 61693
 [02Feb2025 00:09:35.732] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PansitoPa (17)
 [02Feb2025 00:09:35.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PansitoPa
+[02Feb2025 00:16:40.514] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[02Feb2025 00:23:22.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa has made the advancement [Hot Stuff]
