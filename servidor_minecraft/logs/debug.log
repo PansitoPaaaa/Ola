@@ -22085,3 +22085,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 00:43:39.295] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
 [02Feb2025 00:43:39.296] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
 [02Feb2025 00:44:44.483] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[02Feb2025 00:44:47.515] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[02Feb2025 00:45:09.017] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[02Feb2025 00:45:09.017] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[02Feb2025 00:45:13.248] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, 0] Saved.
+[02Feb2025 00:45:13.248] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[02Feb2025 00:45:13.248] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[02Feb2025 00:45:13.250] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[02Feb2025 00:45:13.250] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[02Feb2025 00:45:13.252] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -2] Saved.
+[02Feb2025 00:45:13.253] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[02Feb2025 00:45:13.275] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[02Feb2025 00:45:13.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 00:45:13.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 00:45:17.734] [Worker-Main19/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, 1]
+[02Feb2025 00:45:31.631] [Worker-Main11/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, 1]
+[02Feb2025 00:45:44.101] [Worker-Main14/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, 1]
+[02Feb2025 00:47:14.170] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[02Feb2025 00:48:29.216] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[02Feb2025 00:48:44.078] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[02Feb2025 00:50:13.239] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, 1] Saved.
+[02Feb2025 00:50:13.240] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, 0] Saved.
+[02Feb2025 00:50:13.240] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[02Feb2025 00:50:13.240] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[02Feb2025 00:50:13.242] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[02Feb2025 00:50:13.242] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[02Feb2025 00:50:13.246] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 0] Saved.
+[02Feb2025 00:50:13.246] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, 1] Saved.
+[02Feb2025 00:50:13.247] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[02Feb2025 00:50:13.255] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 1] Saved.
+[02Feb2025 00:50:13.255] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[02Feb2025 00:50:13.263] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[02Feb2025 00:50:13.264] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[02Feb2025 00:50:13.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 00:50:13.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 00:51:49.166] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
