@@ -26,3 +26,27 @@
 [02Feb2025 00:09:35.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PansitoPa
 [02Feb2025 00:16:40.514] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [02Feb2025 00:23:22.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa has made the advancement [Hot Stuff]
+[02Feb2025 00:30:37.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 00:31:13.353] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.maxhenkel.car.entity.car.base.EntityCarInventoryBase from class de.maxhenkel.car.entity.car.base.EntityCarLockBase
+[02Feb2025 00:31:24.580] [Worker-Main4/WARN] [ModernFix/]: The namespace apocalypsenow contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Feb2025 00:31:40.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.882477252832075
+[02Feb2025 00:31:41.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.5063256440320174
+[02Feb2025 00:31:41.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.6354247138806386
+[02Feb2025 00:31:41.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.26660524032780586
+[02Feb2025 00:31:41.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.28629981365099866
+[02Feb2025 00:31:41.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.3032116709002821
+[02Feb2025 00:31:41.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.318308716889419
+[02Feb2025 00:31:42.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.8251520234180703
+[02Feb2025 00:31:42.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 1.0
+[02Feb2025 00:31:42.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 1.0
+[02Feb2025 00:31:43.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.3187246646199924
+[02Feb2025 00:31:43.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.5
+[02Feb2025 00:31:57.965] [Worker-Main20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-420, y=90, z=-381}
+[02Feb2025 00:32:00.005] [Worker-Main13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-429, y=96, z=-397}
+[02Feb2025 00:32:00.005] [Worker-Main13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-429, y=96, z=-397}
+[02Feb2025 00:32:03.439] [Worker-Main18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-423, y=94, z=-417}
+[02Feb2025 00:33:13.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa was slain by Zombie Squid
+[02Feb2025 00:33:14.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Feb2025 00:33:14.719] [Server thread/INFO] [tac/]: PENDING
+[02Feb2025 00:33:24.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Teleported PansitoPa to -224.500000, 60.500000, -360.500000]
+[02Feb2025 00:33:41.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]

@@ -21923,3 +21923,119 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 00:24:11.730] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
 [02Feb2025 00:24:11.730] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
 [02Feb2025 00:24:11.730] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[02Feb2025 00:25:08.966] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[02Feb2025 00:25:08.966] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[02Feb2025 00:25:13.224] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[02Feb2025 00:25:13.225] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[02Feb2025 00:25:13.226] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[02Feb2025 00:25:13.234] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[02Feb2025 00:25:13.234] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[02Feb2025 00:25:13.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 00:25:13.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 00:27:22.478] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[02Feb2025 00:28:29.116] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[02Feb2025 00:28:52.195] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[02Feb2025 00:28:52.195] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[02Feb2025 00:30:13.229] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -1] Saved.
+[02Feb2025 00:30:13.230] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[02Feb2025 00:30:13.240] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[02Feb2025 00:30:13.240] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[02Feb2025 00:30:13.241] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[02Feb2025 00:30:13.242] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[02Feb2025 00:30:13.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 00:30:13.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 00:30:33.998] [Worker-Main10/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:lighthouse
+[02Feb2025 00:30:37.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 00:30:51.168] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gasstation
+[02Feb2025 00:30:51.170] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store1
+[02Feb2025 00:30:51.176] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store2
+[02Feb2025 00:30:51.204] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store3
+[02Feb2025 00:30:51.296] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store5
+[02Feb2025 00:30:51.330] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farm
+[02Feb2025 00:30:51.372] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:hospital
+[02Feb2025 00:30:51.445] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militaryairport
+[02Feb2025 00:30:51.546] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:refugecamp
+[02Feb2025 00:30:51.619] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarybase
+[02Feb2025 00:30:51.635] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farmacia
+[02Feb2025 00:30:51.691] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acidentedeaviao
+[02Feb2025 00:30:51.705] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acampamentinho
+[02Feb2025 00:30:51.710] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:campoderefugiados2
+[02Feb2025 00:30:51.715] [Worker-Main6/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarycamp2
+[02Feb2025 00:31:13.353] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.maxhenkel.car.entity.car.base.EntityCarInventoryBase from class de.maxhenkel.car.entity.car.base.EntityCarLockBase
+[02Feb2025 00:31:14.747] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa1
+[02Feb2025 00:31:14.752] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa2
+[02Feb2025 00:31:14.753] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruinas1
+[02Feb2025 00:31:14.755] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower1
+[02Feb2025 00:31:14.757] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa3
+[02Feb2025 00:31:14.760] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa4
+[02Feb2025 00:31:14.764] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa5
+[02Feb2025 00:31:14.766] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa6
+[02Feb2025 00:31:14.772] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa7
+[02Feb2025 00:31:14.775] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa8
+[02Feb2025 00:31:14.779] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa9
+[02Feb2025 00:31:14.781] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina3
+[02Feb2025 00:31:14.783] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina4
+[02Feb2025 00:31:14.785] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina5
+[02Feb2025 00:31:14.786] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina6
+[02Feb2025 00:31:14.789] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina7
+[02Feb2025 00:31:14.792] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina8
+[02Feb2025 00:31:14.799] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina9
+[02Feb2025 00:31:14.801] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina10
+[02Feb2025 00:31:14.803] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina11
+[02Feb2025 00:31:14.805] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina12
+[02Feb2025 00:31:14.806] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina13
+[02Feb2025 00:31:14.808] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina14
+[02Feb2025 00:31:14.812] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina15
+[02Feb2025 00:31:14.823] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina16
+[02Feb2025 00:31:14.841] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:factory
+[02Feb2025 00:31:14.868] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:firefighter
+[02Feb2025 00:31:14.927] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:prision
+[02Feb2025 00:31:15.008] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:bases
+[02Feb2025 00:31:15.040] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:baselooters
+[02Feb2025 00:31:15.046] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:policestation1
+[02Feb2025 00:31:15.056] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:policestation2
+[02Feb2025 00:31:15.061] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:medic1
+[02Feb2025 00:31:15.062] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:17
+[02Feb2025 00:31:15.063] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:1234
+[02Feb2025 00:31:15.067] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower3
+[02Feb2025 00:31:15.073] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina18
+[02Feb2025 00:31:15.090] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina19
+[02Feb2025 00:31:15.100] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa10
+[02Feb2025 00:31:15.114] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:construction1
+[02Feb2025 00:31:15.127] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gunstore
+[02Feb2025 00:31:15.183] [Worker-Main22/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:city1
+[02Feb2025 00:31:19.531] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$c1fc90b4c46b4468bee98ad4562ca9c4 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[02Feb2025 00:31:21.379] [Worker-Main14/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[02Feb2025 00:31:24.544] [Worker-Main4/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:camp1
+[02Feb2025 00:31:24.547] [Worker-Main4/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:camp2
+[02Feb2025 00:31:24.550] [Worker-Main4/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:cabine
+[02Feb2025 00:31:24.580] [Worker-Main4/WARN] [ModernFix/]: The namespace apocalypsenow contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Feb2025 00:31:24.580] [Worker-Main4/DEBUG] [ModernFix/]: Structure apocalypsenow:canada1 is being run through DFU (hash 8c407e7210e3c61e93b817b8690295fc4e9469dc3628a0a0a972bbb502919c1e), this will cause launch time delays
+[02Feb2025 00:31:26.539] [Worker-Main4/DEBUG] [ModernFix/]: Structure apocalypsenow:desert1 is being run through DFU (hash 9be86c2534efaed3823107768eaae5b4f2ca43bc8f5bcc55ec365e5662e829f8), this will cause launch time delays
+[02Feb2025 00:31:40.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.882477252832075
+[02Feb2025 00:31:41.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.5063256440320174
+[02Feb2025 00:31:41.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.6354247138806386
+[02Feb2025 00:31:41.365] [Worker-Main7/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, -1]
+[02Feb2025 00:31:41.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.26660524032780586
+[02Feb2025 00:31:41.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.28629981365099866
+[02Feb2025 00:31:41.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.3032116709002821
+[02Feb2025 00:31:41.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.318308716889419
+[02Feb2025 00:31:42.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.8251520234180703
+[02Feb2025 00:31:42.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 1.0
+[02Feb2025 00:31:42.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 1.0
+[02Feb2025 00:31:43.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.3187246646199924
+[02Feb2025 00:31:43.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of PansitoPa) moved wrongly! 0.5
+[02Feb2025 00:31:49.066] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[02Feb2025 00:31:57.965] [Worker-Main20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-420, y=90, z=-381}
+[02Feb2025 00:32:00.005] [Worker-Main13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-429, y=96, z=-397}
+[02Feb2025 00:32:00.005] [Worker-Main13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-429, y=96, z=-397}
+[02Feb2025 00:32:03.439] [Worker-Main18/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-423, y=94, z=-417}
+[02Feb2025 00:32:10.339] [Worker-Main11/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, -2]
+[02Feb2025 00:32:42.506] [Worker-Main14/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, 0]
+[02Feb2025 00:32:59.044] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[02Feb2025 00:33:13.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa was slain by Zombie Squid
+[02Feb2025 00:33:14.186] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[02Feb2025 00:33:14.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[02Feb2025 00:33:14.719] [Server thread/INFO] [tac/]: PENDING
+[02Feb2025 00:33:24.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Teleported PansitoPa to -224.500000, 60.500000, -360.500000]
+[02Feb2025 00:33:41.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
