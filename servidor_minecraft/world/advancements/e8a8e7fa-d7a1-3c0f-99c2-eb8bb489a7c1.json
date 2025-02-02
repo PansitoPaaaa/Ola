@@ -501,6 +501,12 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-02-02 18:45:45 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-01 23:11:41 +0000"

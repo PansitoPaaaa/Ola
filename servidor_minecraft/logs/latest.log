@@ -1100,3 +1100,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 18:41:17.936] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.maxhenkel.car.entity.car.base.EntityCarInventoryBase from class de.maxhenkel.car.entity.car.base.EntityCarLockBase
 [02Feb2025 18:41:19.568] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c8e1f84
 [02Feb2025 18:41:52.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 18:47:05.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 18:47:23.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 18:50:27.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 18:53:14.876] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3385 in deceasedcraft:abyss
+[02Feb2025 18:53:14.877] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3385 in minecraft:the_nether
+[02Feb2025 18:53:14.878] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3385 in lostcities:lostcity
+[02Feb2025 18:53:14.878] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3385 in minecraft:the_end
+[02Feb2025 18:53:14.903] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3385 in minecraft:overworld
+[02Feb2025 18:55:43.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
