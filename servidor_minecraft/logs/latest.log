@@ -50,3 +50,5 @@
 [02Feb2025 00:33:14.719] [Server thread/INFO] [tac/]: PENDING
 [02Feb2025 00:33:24.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Teleported PansitoPa to -224.500000, 60.500000, -360.500000]
 [02Feb2025 00:33:41.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 00:35:05.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Teleported PansitoPa to -315.500000, 89.459280, -531.500000]
+[02Feb2025 00:35:05.860] [Worker-Main17/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-445, y=96, z=-596}
