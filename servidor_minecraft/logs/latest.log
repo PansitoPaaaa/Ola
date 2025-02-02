@@ -1109,3 +1109,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 18:53:14.878] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3385 in minecraft:the_end
 [02Feb2025 18:53:14.903] [Server thread/INFO] [sereneseasons/]: Season time skipped by 3385 in minecraft:overworld
 [02Feb2025 18:55:43.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 18:56:39.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 19:00:06.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 19:00:48.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 19:04:14.310] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10812 in deceasedcraft:abyss
+[02Feb2025 19:04:14.311] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10812 in minecraft:the_nether
+[02Feb2025 19:04:14.311] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10812 in lostcities:lostcity
+[02Feb2025 19:04:14.312] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10812 in minecraft:the_end
+[02Feb2025 19:04:14.353] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10812 in minecraft:overworld

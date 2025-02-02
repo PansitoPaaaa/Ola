@@ -21585,3 +21585,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 18:54:13.403] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [02Feb2025 18:55:43.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
 [02Feb2025 18:56:02.163] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[02Feb2025 18:56:20.288] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[02Feb2025 18:56:39.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 18:57:33.353] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[02Feb2025 18:57:33.354] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[02Feb2025 18:57:42.966] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[02Feb2025 18:57:42.967] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[02Feb2025 18:57:42.977] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[02Feb2025 18:57:42.978] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[02Feb2025 18:57:42.978] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[02Feb2025 18:57:42.979] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[02Feb2025 18:57:42.980] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[02Feb2025 18:57:42.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 18:57:43.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 18:59:04.390] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph_integrations.mixins.json into shadows.fastbench.util.FastBenchUtil
+[02Feb2025 18:59:04.390] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:fastbench.MixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[02Feb2025 19:00:06.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 19:00:48.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 19:00:53.553] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[02Feb2025 19:01:24.278] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[02Feb2025 19:02:42.964] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[02Feb2025 19:02:42.965] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[02Feb2025 19:02:42.973] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[02Feb2025 19:02:42.974] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[02Feb2025 19:02:42.974] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[02Feb2025 19:02:42.975] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[02Feb2025 19:02:42.976] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[02Feb2025 19:02:42.977] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[02Feb2025 19:02:42.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 19:02:43.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 19:04:13.453] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[02Feb2025 19:04:14.310] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10812 in deceasedcraft:abyss
+[02Feb2025 19:04:14.311] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10812 in minecraft:the_nether
+[02Feb2025 19:04:14.311] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10812 in lostcities:lostcity
+[02Feb2025 19:04:14.312] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10812 in minecraft:the_end
+[02Feb2025 19:04:14.353] [Server thread/INFO] [sereneseasons/]: Season time skipped by 10812 in minecraft:overworld
+[02Feb2025 19:06:05.868] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
