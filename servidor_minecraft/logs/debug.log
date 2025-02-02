@@ -22147,3 +22147,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 01:03:27.692] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [02Feb2025 01:04:44.874] [IO-Worker-129/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
 [02Feb2025 01:05:02.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 01:05:09.116] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[02Feb2025 01:05:09.116] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[02Feb2025 01:05:13.234] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-135
+[02Feb2025 01:05:13.235] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-136
+[02Feb2025 01:05:13.235] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[02Feb2025 01:05:13.235] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[02Feb2025 01:05:13.236] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[02Feb2025 01:05:13.236] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[02Feb2025 01:05:13.236] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
+[02Feb2025 01:05:13.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 01:05:13.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 01:06:45.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 01:07:34.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 01:08:29.316] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[02Feb2025 01:09:34.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 01:09:43.475] [IO-Worker-138/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[02Feb2025 01:10:13.227] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
+[02Feb2025 01:10:13.227] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-144
+[02Feb2025 01:10:13.227] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-145
+[02Feb2025 01:10:13.232] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-146
+[02Feb2025 01:10:13.233] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-147
+[02Feb2025 01:10:13.233] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-148
+[02Feb2025 01:10:13.234] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-149
+[02Feb2025 01:10:13.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 01:10:13.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 01:11:43.822] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[02Feb2025 01:11:49.266] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[02Feb2025 01:13:49.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 01:14:02.874] [IO-Worker-148/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-150
+[02Feb2025 01:14:02.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 01:15:09.166] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[02Feb2025 01:15:09.166] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
