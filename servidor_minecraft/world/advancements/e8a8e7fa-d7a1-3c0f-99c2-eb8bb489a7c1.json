@@ -477,6 +477,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2025-02-02 01:39:55 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-01 23:11:41 +0000"

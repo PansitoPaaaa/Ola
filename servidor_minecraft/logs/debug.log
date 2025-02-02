@@ -22251,3 +22251,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 01:35:13.233] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
 [02Feb2025 01:35:13.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Feb2025 01:35:13.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 01:36:47.941] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph_integrations.mixins.json into shadows.fastbench.util.FastBenchUtil
+[02Feb2025 01:36:47.941] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:fastbench.MixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[02Feb2025 01:38:29.466] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[02Feb2025 01:38:39.076] [IO-Worker-181/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[02Feb2025 01:39:55.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa has made the advancement [Immersive Engineering]
+[02Feb2025 01:40:13.226] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-190
+[02Feb2025 01:40:13.227] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
+[02Feb2025 01:40:13.227] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[02Feb2025 01:40:13.227] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-193
+[02Feb2025 01:40:13.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 01:40:13.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 01:41:43.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 01:41:49.416] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[02Feb2025 01:42:07.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 01:44:04.282] [IO-Worker-193/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-194
+[02Feb2025 01:45:05.173] [IO-Worker-192/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-195
+[02Feb2025 01:45:09.316] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[02Feb2025 01:45:09.316] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[02Feb2025 01:45:11.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 01:45:13.225] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-196
+[02Feb2025 01:45:13.225] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-197
+[02Feb2025 01:45:13.226] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-198
+[02Feb2025 01:45:13.234] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-199
+[02Feb2025 01:45:13.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 01:45:13.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
