@@ -5,3 +5,22 @@
 [02Feb2025 00:00:15.194] [Server thread/INFO] [tac/]: PENDING
 [02Feb2025 00:00:19.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
 [02Feb2025 00:01:47.864] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[02Feb2025 00:04:19.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 00:05:23.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 00:05:46.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 00:06:19.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa has made the advancement [Isn't It Iron Pick]
+[02Feb2025 00:06:33.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
+[02Feb2025 00:09:35.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PansitoPa lost connection: You logged in from another location
+[02Feb2025 00:09:35.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa left the game
+[02Feb2025 00:09:35.423] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e8a8e7fa-d7a1-3c0f-99c2-eb8bb489a7c1
+[02Feb2025 00:09:35.425] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 61693, 61693
+[02Feb2025 00:09:35.427] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PansitoPa
+[02Feb2025 00:09:35.440] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@636c2b5d
+[02Feb2025 00:09:35.491] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Feb2025 00:09:35.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PansitoPa[/127.194.79.56:39457] logged in with entity id 83348 at (810.9067922973646, 72.0, 25.625137026404712)
+[02Feb2025 00:09:35.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa joined the game
+[02Feb2025 00:09:35.525] [Server thread/INFO] [tac/]: PENDING
+[02Feb2025 00:09:35.557] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e8a8e7fa-d7a1-3c0f-99c2-eb8bb489a7c1
+[02Feb2025 00:09:35.572] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:00:00 at 61693, 61693
+[02Feb2025 00:09:35.732] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PansitoPa (17)
+[02Feb2025 00:09:35.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PansitoPa
