@@ -92,3 +92,27 @@
 [02Feb2025 02:17:47.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
 [02Feb2025 02:21:14.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Creative Mode]
 [02Feb2025 02:23:02.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 02:27:31.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PansitoPa lost connection: Disconnected
+[02Feb2025 02:27:31.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa left the game
+[02Feb2025 02:27:31.573] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e8a8e7fa-d7a1-3c0f-99c2-eb8bb489a7c1
+[02Feb2025 02:27:31.573] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 227215, 246183
+[02Feb2025 02:27:31.574] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PansitoPa
+[02Feb2025 02:27:53.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[02Feb2025 02:27:53.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Feb2025 02:27:53.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Feb2025 02:27:53.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Feb2025 02:27:53.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Feb2025 02:27:54.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Feb2025 02:27:54.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deceasedcraft:abyss
+[02Feb2025 02:27:54.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Feb2025 02:27:54.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[02Feb2025 02:27:54.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Feb2025 02:27:54.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Feb2025 02:27:54.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (abyss): All chunks are saved
+[02Feb2025 02:27:54.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Feb2025 02:27:54.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[02Feb2025 02:27:54.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Feb2025 02:27:54.145] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[02Feb2025 02:27:54.150] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[02Feb2025 02:27:54.151] [Server thread/INFO] [configured/]: Unloading server configs...
+[02Feb2025 02:27:54.152] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
