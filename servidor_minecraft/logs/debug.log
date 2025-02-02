@@ -21931,3 +21931,36 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 23:42:19.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Teleported PawAngAng to PansitoPa]
 [02Feb2025 23:42:19.925] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
 [02Feb2025 23:42:26.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 23:44:39.165] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[02Feb2025 23:44:39.166] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[02Feb2025 23:44:53.130] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, 1] Saved.
+[02Feb2025 23:44:53.144] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[02Feb2025 23:44:53.144] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[02Feb2025 23:44:53.144] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[02Feb2025 23:44:53.145] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[02Feb2025 23:44:53.145] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[02Feb2025 23:44:53.146] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[02Feb2025 23:44:53.147] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[02Feb2025 23:44:53.147] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[02Feb2025 23:44:53.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:44:53.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:46:57.720] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[02Feb2025 23:47:11.184] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph_integrations.mixins.json into shadows.fastbench.util.FastBenchUtil
+[02Feb2025 23:47:11.184] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:fastbench.MixinFastBenchUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[02Feb2025 23:47:59.365] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[02Feb2025 23:49:18.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PawAngAng has made the advancement [Sweet Dreams]
+[02Feb2025 23:49:23.579] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11153 in minecraft:the_nether
+[02Feb2025 23:49:23.580] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11153 in minecraft:the_end
+[02Feb2025 23:49:23.581] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11153 in lostcities:lostcity
+[02Feb2025 23:49:23.581] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11153 in deceasedcraft:abyss
+[02Feb2025 23:49:23.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PawAngAng has made the advancement [First Day]
+[02Feb2025 23:49:23.616] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11153 in minecraft:overworld
+[02Feb2025 23:49:53.130] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[02Feb2025 23:49:53.131] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[02Feb2025 23:49:53.131] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[02Feb2025 23:49:53.132] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[02Feb2025 23:49:53.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 23:49:53.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 23:51:08.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Teleported PawAngAng to PansitoPa]
+[02Feb2025 23:51:19.265] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[02Feb2025 23:52:41.173] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51

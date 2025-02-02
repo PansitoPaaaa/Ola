@@ -1117,3 +1117,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Feb2025 23:41:49.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Spectator Mode]
 [02Feb2025 23:42:19.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Teleported PawAngAng to PansitoPa]
 [02Feb2025 23:42:26.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Set own game mode to Survival Mode]
+[02Feb2025 23:49:18.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PawAngAng has made the advancement [Sweet Dreams]
+[02Feb2025 23:49:23.579] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11153 in minecraft:the_nether
+[02Feb2025 23:49:23.580] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11153 in minecraft:the_end
+[02Feb2025 23:49:23.581] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11153 in lostcities:lostcity
+[02Feb2025 23:49:23.581] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11153 in deceasedcraft:abyss
+[02Feb2025 23:49:23.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PawAngAng has made the advancement [First Day]
+[02Feb2025 23:49:23.616] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11153 in minecraft:overworld
+[02Feb2025 23:51:08.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [PansitoPa: Teleported PawAngAng to PansitoPa]
