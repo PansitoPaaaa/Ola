@@ -886,3 +886,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 04:32:00.769] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "ravager" (that team probably doesn't exist)
 [30May2025 04:35:26.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Alex's Mobs]
 [30May2025 04:36:44.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[30May2025 04:38:26.536] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "ravager" (that team probably doesn't exist)
+[30May2025 04:38:26.537] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "ravager" (that team probably doesn't exist)
+[30May2025 04:38:26.538] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "ravager" (that team probably doesn't exist)
+[30May2025 04:38:34.325] [Server thread/WARN] [tombstone/]: The death event of the player ZeroTwooo was canceled by another mod
+[30May2025 04:38:34.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo was slain by Skeleton Thrasher
+[30May2025 04:38:34.392] [Server thread/INFO] [tombstone/]: The player ZeroTwooo has successfully been saved
+[30May2025 04:38:34.392] [Server thread/INFO] [tombstone/]: The player ZeroTwooo has successfully been saved
+[30May2025 04:39:25.775] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "ravager" (that team probably doesn't exist)
+[30May2025 04:39:25.776] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "ravager" (that team probably doesn't exist)
+[30May2025 04:39:25.776] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "ravager" (that team probably doesn't exist)
+[30May2025 04:40:50.493] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=stick@luck=-1
+[30May2025 04:42:21.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Monster Hunter]
+[30May2025 04:45:30.620] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=entity,ID=egg,NBTTag=(Motion=#randLaunchMotion(0.6,15)),amount=40;type=entity,ID=item,NBTTag=(Item=(id=diamond,Count=1),Motion=#randLaunchMotion(0.7,18)),amount=20)@luck=2
+[30May2025 04:45:30.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Diamonds!]
+[30May2025 04:46:30.443] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=bow;ID=arrow,amount=#rand(16,32))@luck=1
