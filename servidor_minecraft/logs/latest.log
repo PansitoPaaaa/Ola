@@ -1,1 +1,792 @@
-[03Feb2025 00:02:50.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PansitoPa has made the advancement [HAMMAH!]
+[30May2025 01:39:03.700] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[30May2025 01:39:03.704] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[30May2025 01:39:07.033] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[30May2025 01:39:07.088] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Ola/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[30May2025 01:39:07.457] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ola/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[30May2025 01:39:07.460] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ola/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[30May2025 01:39:07.461] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ola/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[30May2025 01:39:07.462] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ola/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[30May2025 01:39:07.793] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[30May2025 01:39:07.794] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[30May2025 01:39:11.839] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30May2025 01:39:12.044] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.robertx22.mmorpg.MixinConnector]
+[30May2025 01:39:12.045] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.robertx22.library_of_exile.MixinConnector]
+[30May2025 01:39:12.047] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[30May2025 01:39:12.173] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.23.0+mc1.20.1: 95 options available, 0 override(s) found
+[30May2025 01:39:12.174] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[30May2025 01:39:12.189] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[30May2025 01:39:12.378] [main/WARN] [mixin/]: Reference map 'packetfixer-forge-forge-refmap.json' for packetfixer.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[30May2025 01:39:12.943] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/layers/ItemInHandLayer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.ItemInHandLayer)
+[30May2025 01:39:12.943] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.layers.ItemInHandLayer was not found mmorpg-mixins.json:PlayerAnimMixin
+[30May2025 01:39:13.943] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
+[30May2025 01:39:13.944] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
+[30May2025 01:39:13.944] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found mixins.prehistoricfauna.json:GuiMixin
+[30May2025 01:39:14.297] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[30May2025 01:39:14.297] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[30May2025 01:39:14.590] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER
+[30May2025 01:39:14.591] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/vertex/VertexFormat$Mode (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/VertexFormat$Mode for invalid dist DEDICATED_SERVER)
+[30May2025 01:39:14.715] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[30May2025 01:39:15.214] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (13.92 s after launch)
+[30May2025 01:39:15.353] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[30May2025 01:39:15.354] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[30May2025 01:39:16.001] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity::handler$zpj000$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[30May2025 01:39:17.120] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$bjf000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[30May2025 01:39:18.516] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3299 milliseconds
+[30May2025 01:39:18.709] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in mmorpg-mixins.json:FallingBlockEntityMixin, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[30May2025 01:39:19.469] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[30May2025 01:39:19.470] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[30May2025 01:39:21.330] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[30May2025 01:39:21.331] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[30May2025 01:39:21.331] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[30May2025 01:39:21.331] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[30May2025 01:39:21.375] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$bli000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[30May2025 01:39:22.466] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[30May2025 01:39:23.354] [modloading-worker-0/INFO] [Exile Log: com.robertx22.library_of_exile.registry.helpers.OrderedModConstructor/]: Mod Constructor Registered : mmorpg
+[30May2025 01:39:23.375] [modloading-worker-0/INFO] [Exile Log: com.robertx22.library_of_exile.registry.helpers.OrderedModConstructor/]: Mod Constructor Registered : the_harvest
+[30May2025 01:39:23.723] [modloading-worker-0/INFO] [Exile Log: com.robertx22.library_of_exile.registry.helpers.OrderedModConstructor/]: Mod Constructor Registered : dungeon_realm
+[30May2025 01:39:23.834] [modloading-worker-0/INFO] [STDOUT/]: [com.robertx22.the_harvest.main.HarvestMain:<init>:221]: The Harvest loaded.
+[30May2025 01:39:23.908] [modloading-worker-0/INFO] [dungeon_realm/]: Dungeon Realm loaded.
+[30May2025 01:39:23.961] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[30May2025 01:39:23.968] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: IceAndFireCompat
+[30May2025 01:39:23.969] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: CuriosCompat
+[30May2025 01:39:23.969] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: PlayerAnimatorCompat
+[30May2025 01:39:24.202] [modloading-worker-0/INFO] [STDOUT/]: [com.tiviacz.travelersbackpack.TravelersBackpack:readOldCommonConfig:178]: curiosIntegration not found in the [common.backpackSettings] section.
+[30May2025 01:39:24.319] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
+[30May2025 01:39:24.778] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[30May2025 01:39:24.780] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[30May2025 01:39:25.605] [modloading-worker-0/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
+[30May2025 01:39:26.429] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Ola/servidor_minecraft/config/mowziesmobs-common.toml is not correct. Correcting
+[30May2025 01:39:26.431] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.sculptor.trade_which_item was corrected from mowziesmobs:bluff_rod to its default, mowziesmobs:bluff_rod. 
+[30May2025 01:39:26.716] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[30May2025 01:39:27.213] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
+[30May2025 01:39:27.361] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[30May2025 01:39:27.660] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
+[30May2025 01:39:28.594] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
+[30May2025 01:39:28.596] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
+[30May2025 01:39:28.597] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
+[30May2025 01:39:28.601] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
+[30May2025 01:39:28.602] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
+[30May2025 01:39:28.603] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
+[30May2025 01:39:28.603] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
+[30May2025 01:39:28.603] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
+[30May2025 01:39:28.604] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
+[30May2025 01:39:28.608] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
+[30May2025 01:39:28.608] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
+[30May2025 01:39:28.608] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
+[30May2025 01:39:28.611] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
+[30May2025 01:39:28.611] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
+[30May2025 01:39:28.611] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
+[30May2025 01:39:28.614] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
+[30May2025 01:39:28.614] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
+[30May2025 01:39:28.616] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Colonial
+[30May2025 01:39:28.617] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
+[30May2025 01:39:28.619] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
+[30May2025 01:39:28.619] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
+[30May2025 01:39:28.620] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Ancient Athens
+[30May2025 01:39:28.621] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
+[30May2025 01:39:28.622] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
+[30May2025 01:39:28.624] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
+[30May2025 01:39:28.624] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
+[30May2025 01:39:28.673] [modloading-worker-0/INFO] [Exile Log: com.robertx22.library_of_exile.registry.helpers.OrderedModConstructor/]: Mod Constructor Registered : library_of_exile
+[30May2025 01:39:29.048] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[30May2025 01:39:29.049] [modloading-worker-0/ERROR] [structurize/]: ----------------------------------------------------------------- 
+ Invalid DataFixer detected, schematics might not paste correctly! 
+The following DataFixer was added: class org.embeddedt.modernfix.dfu.LazyDataFixer
+-----------------------------------------------------------------
+[30May2025 01:39:29.435] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[30May2025 01:39:29.904] [modloading-worker-0/INFO] [dev.tonimatas.packetfixer.PacketFixer/]: Packet Fixer has been initialized successfully
+[30May2025 01:39:30.849] [modloading-worker-0/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[30May2025 01:39:32.689] [main/INFO] [STDOUT/]: [com.razz.decocraft.utils.JsonParser:parseFiles:27]: union:/workspaces/Ola/servidor_minecraft/mods/decocraft-3.0.0.10-beta-1.20.1.jar%23194!/assets/decocraft/decocraft.json
+[30May2025 01:39:46.854] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[30May2025 01:39:49.051] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[30May2025 01:39:49.065] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[30May2025 01:39:49.089] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.090] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.090] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.090] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.090] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.090] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.091] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.091] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:39:49.092] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.092] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.093] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.093] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.093] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.093] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.093] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.093] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.093] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.094] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.094] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.094] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:39:49.094] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.097] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.097] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:39:49.098] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.098] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:39:49.098] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:39:49.098] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.098] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.098] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.099] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.099] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.101] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.105] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.105] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.106] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.106] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.106] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:39:49.107] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:39:49.128] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 01:39:49.128] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 01:39:49.128] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 01:39:49.128] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 01:39:49.128] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 01:39:49.129] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 01:39:49.129] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 01:39:49.129] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 01:39:49.129] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[30May2025 01:39:49.701] [modloading-worker-0/INFO] [tv.mapper.mapperbase.MapperBase/]: Mapper Base setup started! Thank you for using my mods!
+[30May2025 01:39:49.727] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[30May2025 01:39:49.810] [modloading-worker-0/INFO] [tv.mapper.embellishcraft.EmbellishCraft/]: EmbellishCraft: setup started.
+[30May2025 01:39:49.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[30May2025 01:39:49.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[30May2025 01:39:49.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.38 Target: null
+[30May2025 01:39:49.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30May2025 01:39:49.959] [modloading-worker-0/WARN] [Exile Log: com.robertx22.library_of_exile.registry.ExileRegistryContainer/]: Entry of type: mmorpg_stat_condition already exists as seriazable: random_roll
+[30May2025 01:39:50.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[30May2025 01:39:50.071] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[30May2025 01:39:50.144] [modloading-worker-0/WARN] [Exile Log: com.robertx22.library_of_exile.registry.ExileRegistryContainer/]: Entry of type: mmorpg_gear_rarity already exists as seriazable: common
+[30May2025 01:39:50.145] [modloading-worker-0/WARN] [Exile Log: com.robertx22.library_of_exile.registry.ExileRegistryContainer/]: Entry of type: mmorpg_gear_rarity already exists as seriazable: uncommon
+[30May2025 01:39:50.147] [modloading-worker-0/WARN] [Exile Log: com.robertx22.library_of_exile.registry.ExileRegistryContainer/]: Entry of type: library_of_exile_item_requirement already exists as seriazable: is_map
+[30May2025 01:39:50.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[30May2025 01:39:50.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
+[30May2025 01:39:50.211] [main/INFO] [journeymap/]: Initializing Packet Registries
+[30May2025 01:39:50.245] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[30May2025 01:39:50.245] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[30May2025 01:39:50.245] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[30May2025 01:39:50.246] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[30May2025 01:39:50.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[30May2025 01:39:50.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[30May2025 01:39:50.263] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[30May2025 01:39:50.263] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[30May2025 01:39:50.263] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[30May2025 01:39:50.263] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[30May2025 01:39:50.263] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[30May2025 01:39:50.263] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[30May2025 01:39:50.263] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[30May2025 01:39:50.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[30May2025 01:39:50.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[30May2025 01:39:50.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: AHEAD Current: 8.9.6 Target: null
+[30May2025 01:39:50.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Starting version check at https://api.modrinth.com/updates/critters-and-companions/forge_updates.json
+[30May2025 01:39:50.451] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crittersandcompanions] Found status: UP_TO_DATE Current: 2.2.2 Target: null
+[30May2025 01:39:50.451] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[30May2025 01:39:50.456] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[30May2025 01:39:50.576] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23254!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23254!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[30May2025 01:39:50.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Starting version check at https://api.modrinth.com/updates/packet-fixer/forge_updates.json
+[30May2025 01:39:50.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Found status: UP_TO_DATE Current: 2.0.0 Target: null
+[30May2025 01:39:50.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
+[30May2025 01:39:50.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: UP_TO_DATE Current: 1.15.20 Target: null
+[30May2025 01:39:50.768] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[30May2025 01:39:50.881] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[30May2025 01:39:51.365] [main/INFO] [epicfight/]: Data keys [epicfight:basic_attack_active, epicfight:combo_counter] for epicfight:basic_attack
+[30May2025 01:39:51.365] [main/INFO] [epicfight/]: Data keys [epicfight:penalty_restore_counter, epicfight:penalty] for epicfight:guard
+[30May2025 01:39:51.365] [main/INFO] [epicfight/]: Data keys [epicfight:penalty_restore_counter, epicfight:last_active, epicfight:penalty, epicfight:parry_motion_counter] for epicfight:parrying
+[30May2025 01:39:51.365] [main/INFO] [epicfight/]: Data keys [epicfight:penalty_restore_counter, epicfight:penalty] for epicfight:impact_guard
+[30May2025 01:39:51.365] [main/INFO] [epicfight/]: Data keys [epicfight:slam_protect_next_fall, epicfight:fall_distance] for epicfight:meteor_slam
+[30May2025 01:39:51.365] [main/INFO] [epicfight/]: Data keys [epicfight:stacks] for epicfight:revelation
+[30May2025 01:39:51.365] [main/INFO] [epicfight/]: Data keys [epicfight:slam_protect_next_fall] for epicfight:demolition_leap
+[30May2025 01:39:51.365] [main/INFO] [epicfight/]: Data keys [epicfight:slam_protect_next_fall, epicfight:jump_key_pressed_last_tick, epicfight:jump_count] for epicfight:phantom_ascent
+[30May2025 01:39:51.366] [main/INFO] [epicfight/]: Data keys [epicfight:last_hit_count] for epicfight:grasping_spire
+[30May2025 01:39:51.366] [main/INFO] [epicfight/]: Data keys [epicfight:charging_power] for epicfight:steel_whirlwind
+[30May2025 01:39:51.366] [main/INFO] [epicfight/]: Data keys [epicfight:sheath] for epicfight:battojutsu_passive
+[30May2025 01:39:51.366] [main/INFO] [epicfight/]: Data keys [epicfight:sheath] for epicfight:battojutsu
+[30May2025 01:39:51.366] [main/INFO] [epicfight/]: Data keys [epicfight:combo_counter] for epicfight:blade_rush
+[30May2025 01:39:51.366] [main/INFO] [epicfight/]: Data keys [epicfight:thrown_trident_entity_id] for epicfight:everlasting_allegiance
+[30May2025 01:39:51.697] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30May2025 01:39:52.375] [main/INFO] [epicfight/]: Data keys [epicfight:basic_attack_active, epicfight:combo_counter] for epicfight:basic_attack
+[30May2025 01:39:52.375] [main/INFO] [epicfight/]: Data keys [epicfight:penalty_restore_counter, epicfight:penalty] for epicfight:guard
+[30May2025 01:39:52.376] [main/INFO] [epicfight/]: Data keys [epicfight:penalty_restore_counter, epicfight:last_active, epicfight:penalty, epicfight:parry_motion_counter] for epicfight:parrying
+[30May2025 01:39:52.376] [main/INFO] [epicfight/]: Data keys [epicfight:penalty_restore_counter, epicfight:penalty] for epicfight:impact_guard
+[30May2025 01:39:52.376] [main/INFO] [epicfight/]: Data keys [epicfight:slam_protect_next_fall, epicfight:fall_distance] for epicfight:meteor_slam
+[30May2025 01:39:52.376] [main/INFO] [epicfight/]: Data keys [epicfight:stacks] for epicfight:revelation
+[30May2025 01:39:52.376] [main/INFO] [epicfight/]: Data keys [epicfight:slam_protect_next_fall] for epicfight:demolition_leap
+[30May2025 01:39:52.376] [main/INFO] [epicfight/]: Data keys [epicfight:slam_protect_next_fall, epicfight:jump_key_pressed_last_tick, epicfight:jump_count] for epicfight:phantom_ascent
+[30May2025 01:39:52.376] [main/INFO] [epicfight/]: Data keys [epicfight:last_hit_count] for epicfight:grasping_spire
+[30May2025 01:39:52.376] [main/INFO] [epicfight/]: Data keys [epicfight:charging_power] for epicfight:steel_whirlwind
+[30May2025 01:39:52.376] [main/INFO] [epicfight/]: Data keys [epicfight:sheath] for epicfight:battojutsu_passive
+[30May2025 01:39:52.376] [main/INFO] [epicfight/]: Data keys [epicfight:sheath] for epicfight:battojutsu
+[30May2025 01:39:52.376] [main/INFO] [epicfight/]: Data keys [epicfight:combo_counter] for epicfight:blade_rush
+[30May2025 01:39:52.377] [main/INFO] [epicfight/]: Data keys [epicfight:thrown_trident_entity_id] for epicfight:everlasting_allegiance
+[30May2025 01:39:52.568] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Ola/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23253!/assets/.mcassetsroot' uses unexpected schema
+[30May2025 01:39:52.568] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Ola/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23253!/data/.mcassetsroot' uses unexpected schema
+[30May2025 01:39:52.984] [main/INFO] [com.simibubi.create.Create/]: Created 866 recipes which will be injected into the game
+[30May2025 01:39:53.019] [main/INFO] [com.simibubi.create.Create/]: Created 32 tags which will be injected into the game
+[30May2025 01:39:53.124] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinServerPlayerGameMode::handler$zpn000$destroyBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[30May2025 01:39:56.636] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
+[30May2025 01:39:56.763] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[30May2025 01:39:56.782] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
+[30May2025 01:39:57.600] [Worker-Main-3/INFO] [STDOUT/]: [earth.terrarium.botarium.common.energy.EnergyApi:finalizeItemRegistration:54]: Finalizing energy item registration
+[30May2025 01:39:57.602] [Worker-Main-3/INFO] [STDOUT/]: [earth.terrarium.botarium.common.fluid.FluidApi:finalizeItemRegistration:55]: Finalizing fluid item registration
+[30May2025 01:39:59.722] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:decocraft:blocks/laptop_silver
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'decocraft:laptop'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23258!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23258!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[30May2025 01:39:59.883] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:decocraft:blocks/laptop_closed_pink
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'decocraft:laptop'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23258!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23258!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[30May2025 01:40:00.026] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:decocraft:blocks/laptop_pink
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'decocraft:laptop'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23258!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23258!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[30May2025 01:40:00.184] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:decocraft:blocks/laptop_closed_black
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'decocraft:laptop'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23258!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23258!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[30May2025 01:40:00.262] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:decocraft:blocks/laptop_black
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'decocraft:laptop'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23258!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23258!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[30May2025 01:40:00.322] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:decocraft:blocks/laptop_closed_silver
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'decocraft:laptop'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.4.0-universal.jar%23258!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.4.0-universal.jar%23258!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[30May2025 01:40:00.875] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.875] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.875] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:hopo:entities/piglins/piglin_ruin}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[1].term[3]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[2]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.876] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].functions[0]: Parameters [<parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[1].term[2]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[3]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30May2025 01:40:00.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:hopo:entities/piglins/piglin_ruin}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.877] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[1].term[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:hopo:entities/piglins/piglin_ruin}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].functions[0]: Parameters [<parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[1].term[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.878] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[1].term[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30May2025 01:40:00.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:hopo:entities/piglins/piglin_ruin}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[1].term[3]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[2]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.879] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[1].term[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[3]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[2]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30May2025 01:40:00.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[1].term[2]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[1].term[2]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.880] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:hopo:entities/piglins/piglin_ruin}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[1].term[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[1].term[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[1].term[3]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.881] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[1].term[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:hopo:entities/piglins/piglin_ruin}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[1].term[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.882] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[1].term[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:hopo:entities/piglins/piglin_ruin}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[1].term[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[3]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].functions[0]: Parameters [<parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[3]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[0].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.883] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[3].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.884] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/ankylosaurus_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[1].term[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.884] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.884] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[6].condition[0]: Parameters [<parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.884] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/typothorax_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[5].condition[0]: Parameters [<parameter minecraft:origin>, <parameter minecraft:last_damage_player>] are not provided in this context
+[30May2025 01:40:00.884] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/enchantment_loottable}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[4].condition[2]: Parameters [<parameter minecraft:killer_entity>] are not provided in this context
+[30May2025 01:40:00.884] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:prehistoricfauna:entities/exaeretodon_digging}.pools[1].entries[0]->{botania:elementium_axe_beheading}.pools[2].condition[1].term[1]: Parameters [<parameter minecraft:origin>, <parameter minecraft:this_entity>] are not provided in this context
+[30May2025 01:40:00.955] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[30May2025 01:40:01.026] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[30May2025 01:40:01.084] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod_element'
+[30May2025 01:40:01.135] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[30May2025 01:40:01.155] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[30May2025 01:40:01.181] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[30May2025 01:40:01.222] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[30May2025 01:40:01.247] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[30May2025 01:40:01.263] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[30May2025 01:40:01.272] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 56 recipes
+[30May2025 01:40:01.579] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 10314 advancements
+[30May2025 01:40:02.071] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[30May2025 01:40:02.075] [main/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Data loader for prehistoricfauna/paleontology_table loaded 3 jsons
+[30May2025 01:40:02.752] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 15 curio slots
+[30May2025 01:40:02.755] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[30May2025 01:40:03.360] [main/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[30May2025 01:40:03.368] [main/INFO] [minecolonies/]: Loaded 159 recipes for 16 crafters
+[30May2025 01:40:03.368] [main/INFO] [minecolonies/]: Beginning load of research for University.
+[30May2025 01:40:03.415] [main/INFO] [minecolonies/]: Loaded 204 recipes for 4 research branches
+[30May2025 01:40:03.417] [main/INFO] [minecolonies/]: Loading quests from data
+[30May2025 01:40:03.427] [main/INFO] [minecolonies/]: Finished loading quests from data
+[30May2025 01:40:03.432] [main/WARN] [minecolonies/]: Read 1545 items with their nbt keys for compatibility.
+[30May2025 01:40:03.437] [main/INFO] [botania/]: Loaded 30 Loonium configurations
+[30May2025 01:40:03.495] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[30May2025 01:40:03.548] [main/WARN] [ModernFix/]: Initial datapack load took 10.43 s
+[30May2025 01:40:04.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[30May2025 01:40:04.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30May2025 01:40:04.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30May2025 01:40:04.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30May2025 01:40:04.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30May2025 01:40:04.217] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30May2025 01:40:04.300] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30May2025 01:40:04.301] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30May2025 01:40:04.301] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30May2025 01:40:04.301] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30May2025 01:40:04.326] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30May2025 01:40:05.060] [Server thread/INFO] [Framework/]: Loading server configs...
+[30May2025 01:40:05.088] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[30May2025 01:40:05.789] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[30May2025 01:40:05.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30May2025 01:40:07.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:40:07.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:40:07.097] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.098] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.098] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.098] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.098] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.099] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.099] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.099] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:40:07.099] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.100] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.100] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.100] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.100] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.101] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.101] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.101] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.102] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.102] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.102] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.102] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:40:07.103] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.103] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.103] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:40:07.104] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.104] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:40:07.104] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30May2025 01:40:07.104] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.105] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.105] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.105] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.106] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.106] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.106] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.106] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.107] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.109] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.109] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30May2025 01:40:07.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30May2025 01:40:09.425] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 01:40:09.426] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 01:40:09.427] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 01:40:09.427] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 01:40:09.586] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30May2025 01:40:09.868] [Server thread/INFO] [STDOUT/]: [earth.terrarium.botarium.common.energy.EnergyApi:finalizeBlockRegistration:39]: Finalizing energy block registration
+[30May2025 01:40:09.868] [Server thread/INFO] [STDOUT/]: [earth.terrarium.botarium.common.fluid.FluidApi:finalizeBlockRegistration:42]: Finalizing fluid block registration
+[30May2025 01:40:10.337] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2752 ms
+[30May2025 01:40:10.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.024s)! For help, type "help"
+[30May2025 01:40:10.459] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30May2025 01:40:10.507] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[30May2025 01:40:10.507] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[30May2025 01:40:10.508] [Server thread/INFO] [superlord.prehistoricfauna.common.recipes.PaleontologyTableRecipeJsonManager/]: Registered 3 jsons with items!
+[30May2025 01:40:11.235] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 62 65
+[30May2025 01:40:11.236] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 84
+[30May2025 01:40:11.236] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[30May2025 01:40:11.236] [Server thread/INFO] [minecolonies/]: Finished discovering food 661 730
+[30May2025 01:40:11.236] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 1300
+[30May2025 01:40:11.236] [Server thread/INFO] [minecolonies/]: Finished discovering flowers 131
+[30May2025 01:40:11.237] [Server thread/INFO] [minecolonies/]: Finished discovering items 16309
+[30May2025 01:40:11.238] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 841
+[30May2025 01:40:11.479] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:check_enabled
+[30May2025 01:40:11.479] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:random_in_tag
+[30May2025 01:40:11.479] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:check_enabled
+[30May2025 01:40:11.479] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:random_magic_tablet
+[30May2025 01:40:11.479] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[30May2025 01:40:11.479] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[30May2025 01:40:11.480] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:check_enabled
+[30May2025 01:40:11.480] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[30May2025 01:40:11.480] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[30May2025 01:40:11.480] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:delayed_nbt_loot
+[30May2025 01:40:11.480] [Server thread/WARN] [minecolonies/]: Unhandled modifier in loot table: tombstone:check_enabled
+[30May2025 01:40:11.486] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[30May2025 01:40:11.487] [Server thread/WARN] [ModernFix/]: Dedicated server took 70.191 seconds to load
+[30May2025 01:40:11.617] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Couldn't load server icon
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:502) ~[guava-31.1-jre.jar%2374!/:?]
+	at net.minecraft.server.MinecraftServer.m_271593_(MinecraftServer.java:784) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.Optional.flatMap(Optional.java:289) ~[?:?]
+	at net.minecraft.server.MinecraftServer.m_272273_(MinecraftServer.java:781) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:640) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[30May2025 01:40:14.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
