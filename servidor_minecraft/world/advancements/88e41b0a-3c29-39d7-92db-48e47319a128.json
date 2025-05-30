@@ -1,0 +1,184 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-30 19:26:05 +0000"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_ingot": {
+    "criteria": {
+      "has_raw_steel": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/allosaurus_skeleton": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "shrubland": "2025-05-30 19:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-30 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/plesiohadros_skeleton": {
+    "criteria": {
+      "has_skull": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-05-30 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-30 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 19:23:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/coelophysis_skeleton": {
+    "criteria": {
+      "has_skull": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 19:23:52 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/root": {
+    "criteria": {
+      "tick": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2025-05-30 19:30:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/ankylosaurus_chestplate": {
+    "criteria": {
+      "has_ankylosaurus_scute": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cladophlebis_on_a_stick": {
+    "criteria": {
+      "has_cladophlebis": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 19:23:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 19:23:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/paleoscribe": {
+    "criteria": {
+      "has_fossils": "2025-05-30 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-05-30 19:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-05-30 19:23:52 +0000",
+      "minecraft:plains": "2025-05-30 19:25:42 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

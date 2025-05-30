@@ -735,3 +735,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 19:00:34.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa was slain by Zombie
 [30May2025 19:10:10.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Sky of Beginning]
 [30May2025 19:15:38.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Digger Man]
+[30May2025 19:23:51.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: saber3333[/127.252.161.211:46537] logged in with entity id 20190 at (3.5, 74.0, -1.5)
+[30May2025 19:23:52.046] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player saber3333
+[30May2025 19:23:52.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 joined the game
+[30May2025 19:23:52.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 has made the advancement [Ice and Fire]
+[30May2025 19:25:20.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=73, z=1}
+[30May2025 19:25:20.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=73, z=1}
+[30May2025 19:25:23.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=72, z=1}
+[30May2025 19:25:23.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=73, z=1}
+[30May2025 19:25:25.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=72, z=1}
+[30May2025 19:25:25.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=72, z=1}
+[30May2025 19:25:26.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=72, z=1}
+[30May2025 19:25:27.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=72, z=1}
+[30May2025 19:25:27.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=73, z=1}
+[30May2025 19:25:40.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=72, z=1}
+[30May2025 19:25:42.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported saber3333 to PansitoPa]
+[30May2025 19:26:05.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 has made the advancement [Sweet Dreams]
+[30May2025 19:35:06.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: saber3333 lost connection: Disconnected
+[30May2025 19:35:06.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 left the game
