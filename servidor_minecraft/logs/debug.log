@@ -10521,3 +10521,17 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [30May2025 01:40:14.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
 [30May2025 01:45:13.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30May2025 01:45:13.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 01:50:13.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 01:50:13.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 01:55:13.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 01:55:13.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 02:00:13.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 02:00:13.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 02:00:23.992] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing Varint21FrameDecoderMixin from packetfixer.common.mixins.json into net.minecraft.network.Varint21FrameDecoder
+[30May2025 02:00:23.998] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing Varint21LengthFieldPrependerMixin from packetfixer.common.mixins.json into net.minecraft.network.Varint21LengthFieldPrepender
+[30May2025 02:00:24.002] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing PacketEncoderMixin from packetfixer.common.mixins.json into net.minecraft.network.PacketEncoder
+[30May2025 02:00:24.037] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing ClientboundMapItemDataPacketMixin from create.mixins.json into net.minecraft.network.protocol.game.ClientboundMapItemDataPacket
+[30May2025 02:00:24.431] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[30May2025 02:00:24.432] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[30May2025 02:00:24.432] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[30May2025 02:00:24.432] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
