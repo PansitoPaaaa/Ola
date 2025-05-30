@@ -4098,6 +4098,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-30 18:45:05 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/blue_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2025-05-30 18:26:28 +0000"
@@ -4161,6 +4167,12 @@
   "embellishcraft:recipes/embellishcraft_furniture_group/light_blue_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2025-05-30 18:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/fish_n_chips": {
+    "criteria": {
+      "has_durum": "2025-05-30 18:46:23 +0000"
     },
     "done": true
   },
@@ -4272,9 +4284,21 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2025-05-30 18:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-05-30 18:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/pasta_plain": {
+    "criteria": {
+      "has_durum": "2025-05-30 18:46:23 +0000"
     },
     "done": true
   },
@@ -4302,6 +4326,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-05-30 18:49:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-05-30 18:26:28 +0000"
@@ -4314,6 +4344,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-05-30 18:49:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
     "criteria": {
       "has_planks": "2025-05-30 18:26:28 +0000"
@@ -4323,6 +4359,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2025-05-30 18:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/pasta_tomato": {
+    "criteria": {
+      "has_durum": "2025-05-30 18:46:23 +0000"
     },
     "done": true
   },
@@ -4380,6 +4422,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/chicken_broth": {
+    "criteria": {
+      "has_durum": "2025-05-30 18:46:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_cooler": {
     "criteria": {
       "has_planks": "2025-05-30 18:26:28 +0000"
@@ -4422,6 +4470,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/veggie_ravioli": {
+    "criteria": {
+      "has_durum": "2025-05-30 18:46:23 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/red_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2025-05-30 18:26:28 +0000"
@@ -4434,6 +4488,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/cheese_ravioli": {
+    "criteria": {
+      "has_durum": "2025-05-30 18:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-30 18:26:28 +0000"
@@ -4443,6 +4503,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2025-05-30 18:26:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-05-30 18:49:00 +0000"
     },
     "done": true
   },
@@ -4500,9 +4566,21 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/pottage": {
+    "criteria": {
+      "has_durum": "2025-05-30 18:46:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-05-30 18:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/raw_noodle": {
+    "criteria": {
+      "has_durum": "2025-05-30 18:46:23 +0000"
     },
     "done": true
   },
@@ -4539,6 +4617,12 @@
   "mca:recipes/decorations/gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-05-30 18:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/meat_ravioli": {
+    "criteria": {
+      "has_durum": "2025-05-30 18:46:23 +0000"
     },
     "done": true
   },
