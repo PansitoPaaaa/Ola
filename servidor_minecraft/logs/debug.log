@@ -10410,3 +10410,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 18:22:45.428] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
 [30May2025 18:22:45.433] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
 [30May2025 18:22:45.433] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[30May2025 18:27:06.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 18:27:06.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 18:29:57.811] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[30May2025 18:32:06.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 18:32:06.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 18:33:20.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa was slain by Nightmare Stalker
+[30May2025 18:33:20.328] [Server thread/DEBUG] [tombstone/]: A new grave of the player PansitoPa was created at position [x:899, y:66, z:-659, dim:minecraft:overworld]
+[30May2025 18:33:20.358] [Server thread/INFO] [tombstone/]: The player PansitoPa has successfully been saved
