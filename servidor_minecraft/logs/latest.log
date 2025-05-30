@@ -901,3 +901,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 04:45:30.620] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=entity,ID=egg,NBTTag=(Motion=#randLaunchMotion(0.6,15)),amount=40;type=entity,ID=item,NBTTag=(Item=(id=diamond,Count=1),Motion=#randLaunchMotion(0.7,18)),amount=20)@luck=2
 [30May2025 04:45:30.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Diamonds!]
 [30May2025 04:46:30.443] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=bow;ID=arrow,amount=#rand(16,32))@luck=1
+[30May2025 04:51:43.744] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=structure,ID=bedrock_problem,rotation=#pDirect@luck=-1
+[30May2025 04:56:09.596] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30May2025 04:56:09.697] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30May2025 04:56:09.697] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30May2025 04:56:09.698] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30May2025 04:56:09.794] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30May2025 04:56:09.795] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30May2025 04:56:09.796] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30May2025 04:56:09.925] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30May2025 04:56:10.022] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30May2025 04:56:10.063] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30May2025 04:56:10.097] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30May2025 04:56:10.097] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30May2025 04:56:10.880] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30May2025 04:56:10.984] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30May2025 04:56:11.017] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30May2025 04:56:11.017] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30May2025 04:56:11.126] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[30May2025 04:56:15.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: El_monstruos[/127.64.185.181:48683] logged in with entity id 15515 at (-24.5, 70.0, 217.5)
+[30May2025 04:56:15.800] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player El_monstruos
+[30May2025 04:56:15.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos joined the game
+[30May2025 04:56:15.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos has made the advancement [Ice and Fire]
+[30May2025 04:56:20.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeroTwooo lost connection: Disconnected
+[30May2025 04:56:20.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo left the game
+[30May2025 04:56:20.671] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fed8117[id=<null>,name=PansitoPa,properties={},legacy=false] (/127.75.92.28:46677) lost connection: Disconnected
+[30May2025 04:56:20.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_monstruos lost connection: Disconnected
+[30May2025 04:56:20.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos left the game
