@@ -849,3 +849,63 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 04:00:32.779] [Server thread/INFO] [tombstone/]: The player PansitoPa has successfully been saved
 [30May2025 04:00:32.780] [Server thread/INFO] [tombstone/]: The player PansitoPa has successfully been saved
 [30May2025 04:00:44.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has reached the goal [Here They Come]
+[30May2025 04:09:18.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa withered away
+[30May2025 04:09:18.706] [Server thread/INFO] [tombstone/]: The player PansitoPa has successfully been saved
+[30May2025 04:09:43.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Double Trouble]
+[30May2025 04:09:56.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Knowledge of Death]
+[30May2025 04:09:56.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has reached the goal [Chain Death]
+[30May2025 04:09:56.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa withered away
+[30May2025 04:09:56.707] [Server thread/INFO] [tombstone/]: The player PansitoPa has successfully been saved
+[30May2025 04:10:22.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=67, z=211}
+[30May2025 04:10:22.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=67, z=212}
+[30May2025 04:10:22.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=67, z=211}
+[30May2025 04:10:41.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa withered away
+[30May2025 04:10:41.801] [Server thread/INFO] [tombstone/]: The player PansitoPa has successfully been saved
+[30May2025 04:11:22.137] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30May2025 04:11:22.236] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30May2025 04:11:22.237] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30May2025 04:11:22.334] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30May2025 04:11:22.344] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30May2025 04:11:22.437] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30May2025 04:11:22.437] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30May2025 04:11:22.543] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30May2025 04:11:22.546] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30May2025 04:11:22.628] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30May2025 04:11:22.629] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30May2025 04:11:22.696] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30May2025 04:11:25.084] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30May2025 04:11:26.478] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30May2025 04:11:26.499] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30May2025 04:11:26.499] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30May2025 04:11:27.209] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[30May2025 04:11:30.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZeroTwooo[/127.144.244.183:32791] logged in with entity id 5258 at (-24.5, 70.0, 210.5)
+[30May2025 04:11:30.303] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ZeroTwooo
+[30May2025 04:11:30.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo joined the game
+[30May2025 04:11:30.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Ice and Fire]
+[30May2025 04:11:56.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeroTwooo lost connection: Disconnected
+[30May2025 04:11:56.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo left the game
+[30May2025 04:12:50.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa was slain by Siamese Skeletons
+[30May2025 04:12:51.007] [Server thread/INFO] [tombstone/]: The player PansitoPa has successfully been saved
+[30May2025 04:14:56.992] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30May2025 04:14:57.097] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30May2025 04:14:57.097] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30May2025 04:14:57.098] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30May2025 04:14:57.193] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30May2025 04:14:57.210] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30May2025 04:14:57.285] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30May2025 04:14:57.286] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30May2025 04:14:57.378] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30May2025 04:14:57.410] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30May2025 04:14:57.467] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30May2025 04:14:57.508] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30May2025 04:14:59.135] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30May2025 04:14:59.728] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30May2025 04:14:59.749] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30May2025 04:14:59.750] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30May2025 04:15:00.098] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[30May2025 04:15:03.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZeroTwooo[/127.144.244.183:60861] logged in with entity id 6152 at (-24.5, 70.0, 210.5)
+[30May2025 04:15:03.152] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ZeroTwooo
+[30May2025 04:15:03.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo joined the game
+[30May2025 04:15:23.185] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[30May2025 04:15:37.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa was slain by Restless Spirit
+[30May2025 04:16:57.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=63, z=235} BlockPos{x=-15, y=68, z=199}
