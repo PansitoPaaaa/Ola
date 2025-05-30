@@ -731,3 +731,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 18:14:46.926] [Server thread/INFO] [structurize/]: New Server UUID 0fb523a0-6926-4f2c-8b91-6914913db67b
 [30May2025 18:33:20.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa was slain by Nightmare Stalker
 [30May2025 18:33:20.358] [Server thread/INFO] [tombstone/]: The player PansitoPa has successfully been saved
+[30May2025 18:45:05.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [The Parrots and the Bats]

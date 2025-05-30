@@ -10418,3 +10418,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 18:33:20.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa was slain by Nightmare Stalker
 [30May2025 18:33:20.328] [Server thread/DEBUG] [tombstone/]: A new grave of the player PansitoPa was created at position [x:899, y:66, z:-659, dim:minecraft:overworld]
 [30May2025 18:33:20.358] [Server thread/INFO] [tombstone/]: The player PansitoPa has successfully been saved
+[30May2025 18:37:06.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 18:37:06.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 18:40:17.167] [Server thread/DEBUG] [twilightforest/]: Player PansitoPa (e8a8e7fa-d7a1-3c0f-99c2-eb8bb489a7c1) respawned and received items held in storage
+[30May2025 18:42:06.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 18:42:06.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 18:45:05.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [The Parrots and the Bats]
