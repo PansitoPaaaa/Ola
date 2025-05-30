@@ -809,3 +809,161 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 03:18:52.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
 [30May2025 03:22:04.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
 [30May2025 03:22:49.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jagaaaaan has made the advancement [Suit Up]
+[30May2025 03:25:34.013] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30May2025 03:25:34.105] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30May2025 03:25:34.106] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30May2025 03:25:34.191] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30May2025 03:25:34.280] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30May2025 03:25:34.302] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30May2025 03:25:34.371] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30May2025 03:25:34.371] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30May2025 03:25:34.465] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30May2025 03:25:34.465] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30May2025 03:25:34.551] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30May2025 03:25:34.552] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30May2025 03:25:35.307] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30May2025 03:25:35.628] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30May2025 03:25:35.629] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30May2025 03:25:35.629] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30May2025 03:25:35.780] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[30May2025 03:25:40.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juab2as[/127.165.155.158:56711] logged in with entity id 4917 at (-20.5, 70.0, 212.5)
+[30May2025 03:25:40.365] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Juab2as
+[30May2025 03:25:40.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as joined the game
+[30May2025 03:25:40.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [Ice and Fire]
+[30May2025 03:29:53.365] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_break_eff1] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_break]
+[30May2025 03:29:53.365] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_break_eff3] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_break]
+[30May2025 03:29:53.365] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_break_eff5] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_break]
+[30May2025 03:29:53.365] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_break_eff4] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_break]
+[30May2025 03:29:53.365] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_break_eff2] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_break]
+[30May2025 03:29:53.365] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_break_eff0] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_break]
+[30May2025 03:29:53.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_skin_invulnerabilities] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_skin]
+[30May2025 03:29:53.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_skin_color] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/bedrock_skin]
+[30May2025 03:29:53.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/immobile_entity] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/immobile]
+[30May2025 03:29:53.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/immobile_no_move] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/immobile]
+[30May2025 03:29:53.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/immobile_no_jump] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/immobile]
+[30May2025 03:29:53.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/particle_sum] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/particle]
+[30May2025 03:29:53.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/particle_spawn] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/particle]
+[30May2025 03:29:53.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/particle_tp] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/particle]
+[30May2025 03:29:53.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/size_reset] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/size]
+[30May2025 03:29:53.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/size_scale] from power ResourceKey[apoli:configured_power / origins-plus-plus:bedrockean/size]
+[30May2025 03:29:57.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6069ms or 121 ticks behind
+[30May2025 03:29:57.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jagaaaaan moved too quickly! -3.5914960238979745,0.24918707874468282,-9.520001557312696
+[30May2025 03:30:05.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as was slain by Zombie
+[30May2025 03:30:05.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [Your First Grave]
+[30May2025 03:30:05.690] [Server thread/INFO] [tombstone/]: The player Juab2as has successfully been saved
+[30May2025 03:30:15.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
+[30May2025 03:30:28.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juab2as lost connection: Disconnected
+[30May2025 03:30:28.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as left the game
+[30May2025 03:30:31.824] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30May2025 03:30:31.923] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30May2025 03:30:32.007] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30May2025 03:30:32.008] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30May2025 03:30:32.092] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30May2025 03:30:32.092] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30May2025 03:30:32.190] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30May2025 03:30:32.191] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30May2025 03:30:32.281] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30May2025 03:30:32.282] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30May2025 03:30:32.364] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30May2025 03:30:32.406] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30May2025 03:30:33.238] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30May2025 03:30:33.782] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30May2025 03:30:33.782] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30May2025 03:30:33.801] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30May2025 03:30:34.014] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[30May2025 03:30:37.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juab2as[/127.165.155.158:38903] logged in with entity id 6844 at (-20.849999994039536, 67.0, 211.84999999403954)
+[30May2025 03:30:38.162] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Juab2as
+[30May2025 03:30:38.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as joined the game
+[30May2025 03:30:53.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [We Need to Go Deeper]
+[30May2025 03:30:53.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [Incendium]
+[30May2025 03:30:57.886] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7242, l='ServerLevel[world]', x=-56.00, y=31.00, z=54.00] as it would cause deadlock
+[30May2025 03:30:57.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[30May2025 03:31:20.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7448ms or 148 ticks behind
+[30May2025 03:31:30.943] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30May2025 03:31:31.105] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30May2025 03:31:31.264] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30May2025 03:31:31.427] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30May2025 03:31:31.585] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30May2025 03:31:31.586] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30May2025 03:31:31.745] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30May2025 03:31:31.908] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30May2025 03:31:32.065] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30May2025 03:31:32.228] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30May2025 03:31:32.398] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30May2025 03:31:32.557] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30May2025 03:31:33.877] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30May2025 03:31:34.045] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30May2025 03:31:34.045] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30May2025 03:31:34.055] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30May2025 03:31:34.099] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[30May2025 03:31:46.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: saber3333[/127.252.161.211:51215] logged in with entity id 9204 at (-5.5, 72.0, 218.5)
+[30May2025 03:31:46.905] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player saber3333
+[30May2025 03:31:46.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 joined the game
+[30May2025 03:31:47.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Juab2as a server operator
+[30May2025 03:31:47.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 has made the advancement [Ice and Fire]
+[30May2025 03:31:56.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to Jagaaaaan]
+[30May2025 03:31:58.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22823ms or 456 ticks behind
+[30May2025 03:32:13.560] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID=/give #pName gold_nugget{display:{Name:"{\"text\":\"Coin\",\"color\":\"gold\"}"}};type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"$eYour wish came true! (If you like potatoes)\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;ID=potato,amount=128,posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=baked_potato,amount=64,posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=poisonous_potato,amount=32,posY='#'bPosY+10,posOffset='#'circleOffset(2))"]))@luck=1
+[30May2025 03:32:25.056] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=message,ID="Your wish came true! (If you like potatoes)";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;ID=potato,amount=128,posY=#bPosY+10,posOffset=#circleOffset(2);ID=baked_potato,amount=64,posY=#bPosY+10,posOffset=#circleOffset(2);ID=poisonous_potato,amount=32,posY=#bPosY+10,posOffset=#circleOffset(2))
+[30May2025 03:32:32.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jagaaaaan has made the advancement [Bring Home the Beacon]
+[30May2025 03:32:32.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [Bring Home the Beacon]
+[30May2025 03:32:34.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20858ms or 417 ticks behind
+[30May2025 03:33:05.686] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor_chestplate] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor]
+[30May2025 03:33:05.687] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor_boots] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor]
+[30May2025 03:33:05.687] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor_leggings] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor]
+[30May2025 03:33:05.687] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor_helmet] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/armor]
+[30May2025 03:33:05.687] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/big_scale] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/big]
+[30May2025 03:33:05.687] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/big_reset] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/big]
+[30May2025 03:33:05.688] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/item_prevent_elytra_equipping] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/item]
+[30May2025 03:33:05.688] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/item_levitation_immunity] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/item]
+[30May2025 03:33:05.688] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/limbs_jump] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/limbs]
+[30May2025 03:33:05.688] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/limbs_ice_slip] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/limbs]
+[30May2025 03:33:05.688] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/mount_mount] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/mount]
+[30May2025 03:33:05.689] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/mount_grab] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/mount]
+[30May2025 03:33:05.689] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam_resource] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam]
+[30May2025 03:33:05.689] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam_down] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam]
+[30May2025 03:33:05.689] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam_damage] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam]
+[30May2025 03:33:05.689] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam_off] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/slam]
+[30May2025 03:33:05.689] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/strong_damage] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/strong]
+[30May2025 03:33:05.689] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/strong_knockback_deal] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/strong]
+[30May2025 03:33:05.690] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/sturdy_mining_speed] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/sturdy]
+[30May2025 03:33:05.690] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/sturdy_knockback] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/sturdy]
+[30May2025 03:33:05.690] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_speed_1] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[30May2025 03:33:05.690] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_fall_water] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[30May2025 03:33:05.690] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_speed_0] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[30May2025 03:33:05.690] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_water] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[30May2025 03:33:05.690] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_speed_2] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[30May2025 03:33:05.691] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_fall] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[30May2025 03:33:05.691] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim_fall_damage_water] from power ResourceKey[apoli:configured_power / origins-plus-plus:giant/swim]
+[30May2025 03:33:05.691] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player saber3333 was randomly assigned the following Origin: "ResourceKey[origins:origins / origins-plus-plus:giant]" for layer: origins:origin
+[30May2025 03:33:11.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22365ms or 447 ticks behind
+[30May2025 03:33:22.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has reached the goal [Here They Come]
+[30May2025 03:33:30.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported saber3333 to Juab2as]
+[30May2025 03:33:30.387] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=witch;type=entity,ID=bat,posY=#bPosY+#rand(0,2),posOffset=#circleOffset(0,1),amount=64)@luck=-1
+[30May2025 03:33:47.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21157ms or 423 ticks behind
+[30May2025 03:34:18.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16091ms or 321 ticks behind
+[30May2025 03:34:23.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jagaaaaan lost connection: Kicked by an operator
+[30May2025 03:34:23.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jagaaaaan left the game
+[30May2025 03:34:23.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked Jagaaaaan: Kicked by an operator
+[30May2025 03:34:23.107] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30May2025 03:34:29.523] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30May2025 03:34:29.617] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30May2025 03:34:29.709] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30May2025 03:34:29.803] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30May2025 03:34:29.896] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30May2025 03:34:29.988] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30May2025 03:34:30.081] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30May2025 03:34:30.173] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30May2025 03:34:30.265] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30May2025 03:34:30.267] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30May2025 03:34:30.357] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30May2025 03:34:30.450] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30May2025 03:34:32.033] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30May2025 03:34:32.867] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30May2025 03:34:32.869] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30May2025 03:34:32.870] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30May2025 03:34:33.146] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[30May2025 03:34:39.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jagaaaaan[/127.144.244.183:33013] logged in with entity id 11311 at (-314.4034540132455, 67.0, 99.66295961711727)
+[30May2025 03:34:39.268] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Jagaaaaan
+[30May2025 03:34:39.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jagaaaaan joined the game
+[30May2025 03:34:43.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9606ms or 192 ticks behind
