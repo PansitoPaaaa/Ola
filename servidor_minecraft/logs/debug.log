@@ -12064,3 +12064,88 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 18:39:47.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_monstruos moved too quickly! -3.9046372031990586,-0.6455778178064691,-9.468945006664626
 [31May2025 18:39:48.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to El_monstruos]
 [31May2025 18:42:44.489] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=#randList(dandelion,poppy,blue_orchid,allium,azure_bluet,pink_tulip,oxeye_daisy),amount=64@luck=0
+[31May2025 18:43:12.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[31May2025 18:43:12.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[31May2025 18:43:12.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[31May2025 18:43:12.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[31May2025 18:43:12.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[31May2025 18:43:12.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[31May2025 18:43:12.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[31May2025 18:43:12.490] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[31May2025 18:43:12.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[31May2025 18:43:12.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[31May2025 18:43:12.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[31May2025 18:43:12.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[31May2025 18:43:12.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[31May2025 18:43:12.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[31May2025 18:43:12.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[31May2025 18:43:12.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[31May2025 18:43:12.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[31May2025 18:43:12.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[31May2025 18:43:12.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[31May2025 18:43:12.534] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[31May2025 18:43:12.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[31May2025 18:43:12.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[31May2025 18:43:12.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[31May2025 18:43:12.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[31May2025 18:43:12.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[31May2025 18:43:13.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[31May2025 18:43:13.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[31May2025 18:43:13.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[31May2025 18:43:15.138] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[31May2025 18:43:15.138] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md7a363c$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[31May2025 18:43:16.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[31May2025 18:43:16.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[31May2025 18:43:16.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[31May2025 18:43:16.372] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[31May2025 18:43:16.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[31May2025 18:43:16.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[31May2025 18:43:16.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[31May2025 18:43:16.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[31May2025 18:43:19.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prehistoricfauna:geologist_camp
+[31May2025 18:43:19.791] [Worker-Main-3/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[31May2025 18:43:20.814] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[31May2025 18:43:20.815] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[31May2025 18:43:20.815] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[31May2025 18:43:20.815] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[31May2025 18:43:20.819] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[31May2025 18:43:20.819] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[31May2025 18:43:22.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[31May2025 18:43:31.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/townhall
+[31May2025 18:43:31.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/roads_crossroads_01
+[31May2025 18:43:31.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/roads_straight_01
+[31May2025 18:43:31.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/forester1
+[31May2025 18:43:31.641] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/house1
+[31May2025 18:43:31.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/roads_turn_01
+[31May2025 18:43:31.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/tavern1
+[31May2025 18:43:31.654] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/courier1
+[31May2025 18:43:31.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/guardtower1
+[31May2025 18:43:31.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/cook1
+[31May2025 18:43:31.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/terminator_02
+[31May2025 18:43:31.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/terminator_04
+[31May2025 18:43:31.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:caledonia/terminator_03
+[31May2025 18:43:32.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[31May2025 18:43:32.622] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[31May2025 18:43:44.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6830ms or 136 ticks behind
+[31May2025 18:44:03.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prehistoricfauna:time_temple
+[31May2025 18:44:14.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[31May2025 18:44:33.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4533ms or 90 ticks behind
+[31May2025 18:44:40.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has reached the goal [Opposites Attract]
+[31May2025 18:44:51.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[31May2025 18:44:53.678] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[31May2025 18:45:01.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 18:45:01.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 18:45:10.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4392ms or 87 ticks behind
+[31May2025 18:45:28.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
+[31May2025 18:45:33.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_monstruos lost connection: Disconnected
+[31May2025 18:45:33.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos left the game
+[31May2025 18:45:52.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Push and Pull]
+[31May2025 18:46:09.981] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['ZeroTwooo'/15571, l='ServerLevel[world]', x=90.67, y=28.28, z=-1546.56]]
+[31May2025 18:46:10.598] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['ZeroTwooo'/15571, l='ServerLevel[world]', x=90.89, y=27.94, z=-1546.30]]
+[31May2025 18:47:16.385] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[31May2025 18:47:56.955] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=ender_pearl,amount=#rand(1,3);ID=blaze_rod,amount=#rand(1,3);ID=ghast_tear,amount=#rand(1,3);ID=gold_nugget,amount=#rand(1,3);ID=nether_wart,amount=#rand(1,3);ID=spider_eye,amount=#rand(1,3);ID=fermented_spider_eye,amount=#rand(1,3);ID=blaze_powder,amount=#rand(1,3);ID=magma_cream,amount=#rand(1,3);ID=ender_eye,amount=#rand(1,3);ID=glistering_melon_slice,amount=#rand(1,3);ID=rabbit_foot,amount=#rand(1,3);type=particle,ID=splashpotion,potion="fire_resistance")@luck=2
+[31May2025 18:48:29.226] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[31May2025 18:48:54.524] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[31May2025 18:50:05.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 18:50:06.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 18:51:30.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Ice Bucket Challenge]

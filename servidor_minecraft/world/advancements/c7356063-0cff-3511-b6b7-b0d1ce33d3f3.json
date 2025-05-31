@@ -582,9 +582,11 @@
       "orchard": "2025-05-30 06:21:12 +0000",
       "lavender_forest": "2025-05-30 06:21:23 +0000",
       "moor": "2025-05-30 07:11:43 +0000",
+      "spider_nest": "2025-05-31 18:49:41 +0000",
       "redwood_forest": "2025-05-30 06:21:04 +0000",
       "lavender_field": "2025-05-30 06:21:43 +0000",
       "grassland": "2025-05-30 06:06:19 +0000",
+      "glowing_grotto": "2025-05-31 18:48:27 +0000",
       "rainforest": "2025-05-31 02:59:40 +0000"
     },
     "done": false
@@ -6838,6 +6840,24 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-05-31 18:47:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2025-05-31 18:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-31 18:47:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
@@ -6847,6 +6867,12 @@
   "embellishcraft:recipes/embellishcraft_furniture_group/green_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-31 18:47:59 +0000"
     },
     "done": true
   },
@@ -6865,6 +6891,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-31 18:42:44 +0000"
     },
     "done": true
   },
@@ -6892,9 +6924,27 @@
     },
     "done": true
   },
+  "botania:recipes/tools/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-05-31 18:47:59 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_building_group/birch_large_suspended_stairs": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-05-31 18:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-31 18:42:48 +0000"
     },
     "done": true
   },
@@ -6910,15 +6960,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-31 18:42:44 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/lime_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-31 18:42:48 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_blue_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-05-31 18:47:59 +0000"
     },
     "done": true
   },
@@ -6931,6 +6999,18 @@
   "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/incense_stick": {
+    "criteria": {
+      "has_item": "2025-05-31 18:47:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-05-31 18:42:44 +0000"
     },
     "done": true
   },
@@ -6958,6 +7038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-05-31 18:42:44 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/brown_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
@@ -6967,6 +7053,18 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-05-31 18:08:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-05-31 18:47:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-05-31 18:47:59 +0000"
     },
     "done": true
   },
@@ -6997,6 +7095,12 @@
   "embellishcraft:recipes/embellishcraft_furniture_group/white_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-05-31 18:42:44 +0000"
     },
     "done": true
   },
@@ -7033,6 +7137,13 @@
   "embellishcraft:recipes/embellishcraft_furniture_group/gray_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-05-31 18:45:52 +0000",
+      "azure": "2025-05-31 18:44:36 +0000"
     },
     "done": true
   },
@@ -7102,6 +7213,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-31 18:47:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-05-31 18:47:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-05-31 18:05:28 +0000"
@@ -7111,6 +7234,18 @@
   "mca:recipes/decorations/black_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-31 18:42:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 18:47:59 +0000"
     },
     "done": true
   },
@@ -7132,15 +7267,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-31 18:47:59 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-31 18:47:59 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-31 18:47:57 +0000"
     },
     "done": true
   },
@@ -7180,9 +7333,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-31 18:47:59 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_building_group/birch_fancy_door": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-31 18:47:59 +0000"
     },
     "done": true
   },
@@ -7192,9 +7357,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-31 18:42:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-05-31 18:09:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-05-31 18:44:40 +0000"
     },
     "done": true
   },
@@ -7210,6 +7387,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-05-31 18:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-31 18:42:48 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/yellow_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
@@ -7219,6 +7408,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-05-31 18:47:59 +0000"
     },
     "done": true
   },
