@@ -779,6 +779,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 05:30:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-31 04:21:52 +0000"
@@ -3230,6 +3236,7 @@
       "rocky_shrubland": "2025-05-31 05:06:20 +0000",
       "clover_patch": "2025-05-31 04:57:20 +0000",
       "moor": "2025-05-31 05:07:17 +0000",
+      "dune_beach": "2025-05-31 05:37:06 +0000",
       "grassland": "2025-05-31 04:58:08 +0000"
     },
     "done": false
