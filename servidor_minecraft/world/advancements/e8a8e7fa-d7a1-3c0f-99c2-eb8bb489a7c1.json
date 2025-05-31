@@ -6954,6 +6954,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-05-31 21:56:27 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_rocks_group/slate_cobblestone_slab": {
     "criteria": {
       "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"

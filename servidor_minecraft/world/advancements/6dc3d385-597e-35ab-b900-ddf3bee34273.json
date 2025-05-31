@@ -10282,9 +10282,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/ginkgo_sign": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 22:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab_from_gneiss_cobblestone_stonecutting": {
     "criteria": {
       "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/ginkgo_door": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:05:18 +0000"
     },
     "done": true
   },
@@ -10300,9 +10318,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/ginkgo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:05:18 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_from_cobblestone_smelting": {
     "criteria": {
       "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 22:02:55 +0000"
     },
     "done": true
   },
@@ -10324,6 +10360,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 22:02:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 22:02:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
     "criteria": {
       "has_dragonscales_green": "2025-05-31 21:51:19 +0000"
@@ -10333,6 +10381,24 @@
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_orig_recipe": "2025-05-31 21:40:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-05-31 22:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/ginkgo_button": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:05:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 22:02:55 +0000"
     },
     "done": true
   },
@@ -10372,6 +10438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-31 22:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_pressure_plate_from_gneiss_cobblestone_stonecutting": {
     "criteria": {
       "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
@@ -10387,6 +10459,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-05-31 21:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/ginkgo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:05:18 +0000"
     },
     "done": true
   },
@@ -10408,9 +10486,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/ginkgo_fence": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:05:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-05-31 21:40:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 22:02:55 +0000"
     },
     "done": true
   },
@@ -10423,6 +10513,12 @@
   "minecolonies:recipes/food/eggdrop_soup": {
     "criteria": {
       "has_onion": "2025-05-31 21:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_slab": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:05:18 +0000"
     },
     "done": true
   },

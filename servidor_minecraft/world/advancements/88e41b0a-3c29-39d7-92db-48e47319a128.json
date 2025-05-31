@@ -137,6 +137,7 @@
       "minecraft:birch_forest": "2025-05-30 19:23:52 +0000",
       "minecraft:river": "2025-05-31 04:02:40 +0000",
       "minecraft:forest": "2025-05-31 03:19:42 +0000",
+      "minecraft:meadow": "2025-05-31 21:58:33 +0000",
       "minecraft:plains": "2025-05-30 19:25:42 +0000"
     },
     "done": false
@@ -643,7 +644,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-05-31 03:26:53 +0000"
+      "cooked_beef": "2025-05-31 03:26:53 +0000",
+      "rotten_flesh": "2025-05-31 22:04:36 +0000"
     },
     "done": false
   },
@@ -3789,6 +3791,48 @@
   "domum_ornamentum:recipes/decorations/magenta_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-31 22:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-31 22:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-31 22:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-31 22:00:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-31 21:56:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-31 22:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-31 22:04:06 +0000"
     },
     "done": true
   },

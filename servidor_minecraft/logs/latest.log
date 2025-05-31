@@ -891,3 +891,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 21:56:06.052] [Server thread/INFO] [tombstone/]: The player saber3333 has successfully been saved
 [31May2025 21:56:27.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Good Demoman]
 [31May2025 21:56:59.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 has made the advancement [A Strange Grave Dust]
+[31May2025 21:57:40.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 was burnt to a crisp whilst fighting Zombie
+[31May2025 21:57:40.544] [Server thread/INFO] [tombstone/]: The player saber3333 has successfully been saved
+[31May2025 22:00:09.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to saber3333]
+[31May2025 22:01:18.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to 0.500000, 67.000000, 0.500000]
+[31May2025 22:01:20.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
+[31May2025 22:02:46.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
+[31May2025 22:03:23.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to saber3333]
+[31May2025 22:03:40.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to Juab2as]
+[31May2025 22:05:10.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
+[31May2025 22:05:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 has made the advancement [Suit Up]
