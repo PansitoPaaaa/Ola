@@ -5624,6 +5624,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 03:15:38 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/beige_stone_bricks": {
     "criteria": {
       "has_item1_domum_ornamentum_beige_stone_bricks": "2025-05-31 03:01:24 +0000",
