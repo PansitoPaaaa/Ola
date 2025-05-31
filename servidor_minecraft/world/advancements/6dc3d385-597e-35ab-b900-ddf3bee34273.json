@@ -3726,6 +3726,7 @@
       "cooked_mutton": "2025-05-31 05:32:39 +0000",
       "cooked_beef": "2025-05-31 02:56:34 +0000",
       "porkchop": "2025-05-31 03:52:22 +0000",
+      "apple": "2025-05-31 06:59:10 +0000",
       "bread": "2025-05-30 06:23:45 +0000",
       "carrot": "2025-05-31 06:32:27 +0000"
     },
@@ -7971,6 +7972,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2025-05-31 06:55:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-31 06:11:22 +0000"
@@ -8031,6 +8038,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-05-31 06:55:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/livingrock_slab": {
     "criteria": {
       "has_item": "2025-05-31 06:23:28 +0000"
@@ -8058,6 +8071,12 @@
   "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-31 06:18:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-05-31 06:55:29 +0000"
     },
     "done": true
   },
@@ -8202,6 +8221,18 @@
   "botania:recipes/tools/manasteel_shovel": {
     "criteria": {
       "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-05-31 06:59:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-05-31 06:55:29 +0000"
     },
     "done": true
   },

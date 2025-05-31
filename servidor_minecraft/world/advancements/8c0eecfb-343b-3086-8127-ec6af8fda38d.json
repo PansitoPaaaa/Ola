@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-31 06:48:04 +0000"
@@ -395,6 +401,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
     "criteria": {
       "has_birch_planks": "2025-05-31 04:09:59 +0000"
@@ -458,6 +470,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-31 06:10:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -665,9 +683,21 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/blue_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 05:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -803,6 +833,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2025-05-31 04:21:46 +0000"
@@ -836,6 +872,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-31 04:07:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
     },
     "done": true
   },
@@ -875,6 +917,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-31 04:59:09 +0000"
@@ -890,6 +938,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -950,6 +1004,12 @@
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-31 06:48:04 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/yellow_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -1152,6 +1212,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/green_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-05-31 05:51:42 +0000"
@@ -1230,6 +1296,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-05-31 04:33:24 +0000"
@@ -1275,6 +1347,12 @@
   "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-31 06:48:04 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/oak_table": {
+    "criteria": {
+      "has_oak_slab": "2025-05-31 06:54:14 +0000"
     },
     "done": true
   },
@@ -1350,6 +1428,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-05-31 06:48:04 +0000"
@@ -1380,9 +1464,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-31 06:48:04 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/light_blue_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -1479,6 +1575,12 @@
   "minecraft:recipes/transportation/brachyphyllum_boat": {
     "criteria": {
       "in_water": "2025-05-31 04:10:34 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -1602,6 +1704,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
     "criteria": {
       "has_white_wool": "2025-05-31 04:06:16 +0000"
@@ -1611,6 +1719,12 @@
   "domum_ornamentum:recipes/building_blocks/blockbarreldeco_onside": {
     "criteria": {
       "has_planks": "2025-05-31 04:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-31 06:54:14 +0000"
     },
     "done": true
   },
@@ -1683,6 +1797,12 @@
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2025-05-31 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -1779,6 +1899,12 @@
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-05-31 04:09:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -1953,6 +2079,18 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -2184,6 +2322,18 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/white_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/green_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/potato_soup": {
     "criteria": {
       "has_potato": "2025-05-31 04:27:07 +0000"
@@ -2205,6 +2355,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-31 06:15:20 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -2253,6 +2409,12 @@
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-05-31 04:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -2370,15 +2532,33 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/pink_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/light_gray_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-31 04:06:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
     },
     "done": true
   },
@@ -2391,6 +2571,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
     },
     "done": true
   },
@@ -2476,6 +2662,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-05-31 04:10:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
     },
     "done": true
   },
@@ -2623,6 +2815,12 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/cyan_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2025-05-31 04:09:59 +0000"
@@ -2632,6 +2830,12 @@
   "botania:recipes/decorations/apothecary_mossy": {
     "criteria": {
       "has_item": "2025-05-31 04:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2025-05-31 06:50:59 +0000"
     },
     "done": true
   },
@@ -2701,6 +2905,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-31 04:06:16 +0000"
@@ -2740,6 +2950,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -2827,6 +3043,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-05-31 04:07:11 +0000"
@@ -2908,6 +3130,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-31 04:09:59 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/oak_wooden_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -3007,6 +3235,12 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/purple_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-31 06:48:04 +0000"
@@ -3043,6 +3277,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
@@ -3055,6 +3295,12 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/brown_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/knockback_belt": {
     "criteria": {
       "has_item": "2025-05-31 06:43:36 +0000"
@@ -3064,6 +3310,18 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_glass": "2025-05-31 06:48:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-05-31 06:50:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -3104,6 +3362,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_building_group/oak_large_suspended_stairs": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -3239,6 +3503,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
@@ -3302,6 +3572,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-31 06:48:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-05-31 06:50:59 +0000"
     },
     "done": true
   },
@@ -3533,6 +3809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/cobblestone_extra": {
     "criteria": {
       "has_material": "2025-05-31 04:21:52 +0000"
@@ -3593,6 +3875,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-05-31 04:26:22 +0000"
@@ -3605,6 +3893,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/white_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
     "criteria": {
       "has_birch_planks": "2025-05-31 04:09:59 +0000"
@@ -3614,6 +3908,12 @@
   "embellishcraft:recipes/embellishcraft_furniture_group/light_gray_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 04:09:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -3638,6 +3938,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-31 04:22:53 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/oak_chair": {
+    "criteria": {
+      "has_oak_slab": "2025-05-31 06:54:14 +0000"
     },
     "done": true
   },
@@ -3743,6 +4049,18 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/oak_fancy_table": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2025-05-31 04:06:16 +0000"
@@ -3758,6 +4076,18 @@
   "embellishcraft:recipes/embellishcraft_building_group/white_green_wallpaper": {
     "criteria": {
       "has_paper": "2025-05-31 06:17:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
     },
     "done": true
   },
@@ -3821,6 +4151,12 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_building_group/oak_fancy_door": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-05-31 04:09:59 +0000"
@@ -3863,6 +4199,12 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/lime_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
       "has_white_wool": "2025-05-31 04:06:16 +0000"
@@ -3902,6 +4244,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
     },
     "done": true
   },
@@ -3998,6 +4346,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -4217,6 +4571,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-05-31 06:54:14 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/gray_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-05-31 04:09:59 +0000"
@@ -4250,6 +4616,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-05-31 06:10:10 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -4325,6 +4697,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
@@ -4346,6 +4724,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -4400,6 +4784,12 @@
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
     "criteria": {
       "has_item": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/red_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -4511,6 +4901,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-05-31 04:10:34 +0000"
@@ -4583,6 +4979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2025-05-31 04:09:59 +0000"
@@ -4634,6 +5036,12 @@
   "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-31 04:06:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-05-31 06:50:59 +0000"
     },
     "done": true
   },
@@ -4781,6 +5189,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-05-31 06:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-31 04:06:17 +0000"
@@ -4820,6 +5234,18 @@
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/orange_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/pink_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -4898,6 +5324,12 @@
   "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -4985,6 +5417,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/magenta_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_stool": {
     "criteria": {
       "has_white_wool": "2025-05-31 04:06:16 +0000"
@@ -5006,6 +5450,12 @@
   "botania:recipes/redstone/forest_eye": {
     "criteria": {
       "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -5045,9 +5495,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-05-31 06:17:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -5083,6 +5545,12 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-05-31 04:06:16 +0000"
@@ -5104,6 +5572,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2025-05-31 04:09:59 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_building_group/oak_suspended_stairs": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:54:14 +0000"
     },
     "done": true
   },
@@ -5161,6 +5635,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-05-31 06:55:16 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/black_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
@@ -5185,6 +5671,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_blue_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
     "criteria": {
       "has_white_wool": "2025-05-31 04:06:16 +0000"
@@ -5206,6 +5698,12 @@
   "domum_ornamentum:recipes/tools/purple_cobblestone_extra": {
     "criteria": {
       "has_material": "2025-05-31 04:21:52 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:50:46 +0000"
     },
     "done": true
   },
@@ -5242,6 +5740,12 @@
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-31 04:59:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-05-31 06:55:16 +0000"
     },
     "done": true
   },

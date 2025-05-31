@@ -2763,6 +2763,7 @@
       "minecraft:skeleton": "2025-05-30 06:22:28 +0000",
       "minecraft:spider": "2025-05-31 03:17:26 +0000",
       "minecraft:creeper": "2025-05-30 06:43:47 +0000",
+      "minecraft:witch": "2025-05-31 06:54:39 +0000",
       "minecraft:stray": "2025-05-31 02:21:23 +0000",
       "minecraft:zombie": "2025-05-30 06:22:48 +0000"
     },
@@ -5654,6 +5655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
     "criteria": {
       "has_flower": "2025-05-31 05:22:36 +0000"
@@ -5729,6 +5736,12 @@
   "embellishcraft:recipes/embellishcraft_building_group/dark_oak_plain_door": {
     "criteria": {
       "has_dark_oak_log": "2025-05-31 06:41:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
     },
     "done": true
   },
@@ -5816,6 +5829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-05-31 05:08:27 +0000"
@@ -5846,6 +5865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_magenta_wool": "2025-05-31 05:25:14 +0000"
@@ -5855,6 +5880,24 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-05-31 05:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
     },
     "done": true
   },
@@ -5882,9 +5925,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 06:54:39 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/potato_soup": {
     "criteria": {
       "has_potato": "2025-05-31 05:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
     },
     "done": true
   },
@@ -5930,9 +5985,21 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_rocks_group/paving_stones": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-31 05:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
     },
     "done": true
   },
@@ -5945,6 +6012,18 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-31 04:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
     },
     "done": true
   },
@@ -5969,6 +6048,18 @@
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-05-31 05:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
     },
     "done": true
   },
@@ -6116,6 +6207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2025-05-31 05:08:27 +0000"
@@ -6185,6 +6282,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-05-31 06:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:54:05 +0000"
     },
     "done": true
   },
