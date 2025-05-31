@@ -5726,6 +5726,12 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_building_group/dark_oak_plain_door": {
+    "criteria": {
+      "has_dark_oak_log": "2025-05-31 06:41:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-05-31 05:46:26 +0000"
@@ -6146,9 +6152,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-31 06:41:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_magenta_wool": "2025-05-31 05:25:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-31 06:37:57 +0000"
     },
     "done": true
   },
@@ -6161,6 +6179,12 @@
   "ad_astra:recipes/misc/light_gray_flag": {
     "criteria": {
       "has_light_gray_flag": "2025-05-31 05:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 06:41:16 +0000"
     },
     "done": true
   },

@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_white_wool": "2025-05-31 04:06:16 +0000"
@@ -473,6 +479,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-31 04:06:16 +0000"
@@ -536,6 +548,12 @@
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-31 06:28:30 +0000"
     },
     "done": true
   },
@@ -761,6 +779,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-31 05:53:03 +0000"
@@ -854,6 +878,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-05-31 04:03:49 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
     },
     "done": true
   },
@@ -1056,6 +1086,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-31 04:59:09 +0000"
@@ -1152,6 +1188,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-05-31 04:21:52 +0000"
@@ -1218,6 +1260,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
@@ -1260,6 +1308,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-31 06:28:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
@@ -1299,6 +1353,12 @@
   "create:recipes/building_blocks/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-05-31 04:06:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
     },
     "done": true
   },
@@ -1518,6 +1578,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-05-31 04:09:59 +0000"
@@ -1572,6 +1638,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
       "has_white_wool": "2025-05-31 04:06:16 +0000"
@@ -1620,6 +1692,18 @@
     },
     "done": true
   },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-05-31 05:53:03 +0000"
@@ -1665,6 +1749,12 @@
   "refurbished_furniture:recipes/misc/wrench": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
     },
     "done": true
   },
@@ -1890,6 +1980,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-31 04:22:53 +0000"
@@ -1911,6 +2007,12 @@
   "embellishcraft:recipes/embellishcraft_furniture_group/gray_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 04:09:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
     },
     "done": true
   },
@@ -1937,6 +2039,12 @@
       "in_better_zombie_dungeon": "2025-05-31 04:26:22 +0000"
     },
     "done": false
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/coelophysis_skeleton": {
     "criteria": {
@@ -2179,6 +2287,12 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-05-31 06:41:55 +0000"
+    },
+    "done": false
+  },
   "mapperbase:recipes/mapperbase_group/iron_plate": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
@@ -2236,6 +2350,12 @@
   "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-31 04:06:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
     },
     "done": true
   },
@@ -2311,6 +2431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-05-31 06:41:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
@@ -2326,6 +2452,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-31 04:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-31 06:28:30 +0000"
     },
     "done": true
   },
@@ -2455,6 +2587,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-05-31 04:22:16 +0000"
@@ -2500,6 +2638,18 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
     },
     "done": true
   },
@@ -2642,6 +2792,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-05-31 06:41:53 +0000"
     },
     "done": true
   },
@@ -2879,6 +3035,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 05:05:18 +0000"
@@ -2954,6 +3116,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
     },
     "done": true
   },
@@ -3245,6 +3413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-31 06:28:30 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-05-31 04:10:34 +0000"
@@ -3362,6 +3536,12 @@
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-05-31 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
     },
     "done": true
   },
@@ -3611,6 +3791,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-05-31 04:10:34 +0000"
@@ -3653,6 +3839,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_building_group/birch_fancy_door": {
     "criteria": {
       "has_birch_planks": "2025-05-31 04:09:59 +0000"
@@ -3662,6 +3854,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
     },
     "done": true
   },
@@ -3797,6 +3995,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-31 04:21:46 +0000"
@@ -3929,6 +4133,12 @@
     },
     "done": true
   },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-05-31 06:41:55 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
@@ -3950,6 +4160,12 @@
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-31 04:22:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
     },
     "done": true
   },
@@ -4040,6 +4256,12 @@
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
     },
     "done": true
   },
@@ -4196,6 +4418,12 @@
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-05-31 04:21:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/forest_eye": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:36 +0000"
     },
     "done": true
   },

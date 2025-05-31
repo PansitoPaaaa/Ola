@@ -3726,7 +3726,8 @@
       "cooked_mutton": "2025-05-31 05:32:39 +0000",
       "cooked_beef": "2025-05-31 02:56:34 +0000",
       "porkchop": "2025-05-31 03:52:22 +0000",
-      "bread": "2025-05-30 06:23:45 +0000"
+      "bread": "2025-05-30 06:23:45 +0000",
+      "carrot": "2025-05-31 06:32:27 +0000"
     },
     "done": false
   },
@@ -7604,6 +7605,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "prehistoricfauna:prehistoricfauna/general/anti_lorax": {
     "criteria": {
       "ginkgo": "2025-05-31 06:12:42 +0000"
@@ -7622,15 +7629,33 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/white_pavement": {
     "criteria": {
       "has_item": "2025-05-31 06:23:28 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/tiny_planet": {
+    "criteria": {
+      "has_item": "2025-05-31 06:39:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-31 05:55:40 +0000"
+    },
+    "done": true
+  },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "altar": "2025-05-31 06:40:22 +0000"
     },
     "done": true
   },
@@ -7652,6 +7677,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/livingwood_fence_gate": {
     "criteria": {
       "has_item": "2025-05-31 06:17:10 +0000"
@@ -7661,6 +7692,12 @@
   "botania:recipes/redstone/open_crate": {
     "criteria": {
       "has_item": "2025-05-31 06:17:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
     },
     "done": true
   },
@@ -7688,15 +7725,45 @@
     },
     "done": true
   },
+  "botania:recipes/misc/phantom_ink": {
+    "criteria": {
+      "has_item": "2025-05-31 06:39:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-05-31 06:21:21 +0000"
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/oak_table": {
     "criteria": {
       "has_oak_slab": "2025-05-31 06:26:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/crafting_halo": {
+    "criteria": {
+      "has_item": "2025-05-31 06:39:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
     },
     "done": true
   },
@@ -7715,6 +7782,12 @@
   "botania:recipes/decorations/floating_hydroangeas": {
     "criteria": {
       "has_item": "2025-05-31 06:25:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
     },
     "done": true
   },
@@ -7754,6 +7827,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/ginkgo_planks": {
     "criteria": {
       "has_logs": "2025-05-31 06:12:42 +0000"
@@ -7766,9 +7851,27 @@
     },
     "done": true
   },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
     },
     "done": true
   },
@@ -7790,9 +7893,33 @@
     },
     "done": true
   },
+  "botania:recipes/combat/ender_dagger": {
+    "criteria": {
+      "has_item": "2025-05-31 06:39:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/white_petal_block": {
     "criteria": {
       "has_item": "2025-05-31 06:11:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
     },
     "done": true
   },
@@ -7850,6 +7977,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/diluted_pool": {
     "criteria": {
       "has_item": "2025-05-31 06:23:28 +0000"
@@ -7874,6 +8007,30 @@
     },
     "done": true
   },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/abstruse_platform": {
+    "criteria": {
+      "has_item": "2025-05-31 06:39:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/livingrock_slab": {
     "criteria": {
       "has_item": "2025-05-31 06:23:28 +0000"
@@ -7892,6 +8049,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/runic_altar": {
+    "criteria": {
+      "has_item": "2025-05-31 06:39:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-31 06:18:00 +0000"
@@ -7901,6 +8064,12 @@
   "botania:main/mana_pool_pickup": {
     "criteria": {
       "pickup": "2025-05-31 06:23:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mana_tablet": {
+    "criteria": {
+      "has_item": "2025-05-31 06:39:52 +0000"
     },
     "done": true
   },
@@ -7922,6 +8091,18 @@
     },
     "done": true
   },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/building_blocks/green_pavement": {
     "criteria": {
       "has_item": "2025-05-31 06:23:28 +0000"
@@ -7937,6 +8118,12 @@
   "botania:recipes/building_blocks/livingwood_planks": {
     "criteria": {
       "has_item": "2025-05-31 06:15:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
     },
     "done": true
   },
@@ -7970,9 +8157,33 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/livingwood_fence": {
     "criteria": {
       "has_item": "2025-05-31 06:17:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/tiny_planet_block": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 06:39:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
     },
     "done": true
   },
@@ -7988,15 +8199,45 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/incense_plate": {
     "criteria": {
       "has_item": "2025-05-31 06:15:54 +0000"
     },
     "done": true
   },
+  "botania:recipes/building_blocks/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/livingwood_twig": {
     "criteria": {
       "has_item": "2025-05-31 06:15:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-31 06:33:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/invisibility_cloak": {
+    "criteria": {
+      "has_item": "2025-05-31 06:39:52 +0000"
     },
     "done": true
   },
@@ -8024,6 +8265,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/forest_eye": {
+    "criteria": {
+      "has_item": "2025-05-31 06:43:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/floating_pure_daisy": {
     "criteria": {
       "has_item": "2025-05-31 06:11:50 +0000"
@@ -8045,6 +8292,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-31 05:55:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_item": "2025-05-31 06:39:52 +0000"
     },
     "done": true
   },
