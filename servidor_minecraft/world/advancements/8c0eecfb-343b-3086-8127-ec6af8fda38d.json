@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:08:29 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
       "has_white_wool": "2025-05-31 04:06:16 +0000"
@@ -164,6 +170,12 @@
   "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-31 06:48:04 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 07:05:10 +0000"
     },
     "done": true
   },
@@ -296,6 +308,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-31 04:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-05-31 07:08:08 +0000"
     },
     "done": true
   },
@@ -605,6 +623,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:08:29 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-31 04:59:09 +0000"
@@ -899,6 +923,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:08:29 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-05-31 06:48:04 +0000"
@@ -1121,6 +1151,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:08:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-31 04:21:52 +0000"
@@ -1145,6 +1181,12 @@
       "has_glass": "2025-05-31 06:48:04 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:08:29 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
@@ -1644,6 +1686,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:08:29 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
@@ -2034,6 +2082,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:08:29 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_white_wool": "2025-05-31 04:06:16 +0000"
@@ -2099,6 +2153,12 @@
       "has_glass": "2025-05-31 06:48:04 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:08:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
@@ -2262,6 +2322,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:08:29 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_table": {
     "criteria": {
       "has_birch_planks": "2025-05-31 04:09:59 +0000"
@@ -2343,6 +2409,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-31 06:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 07:05:10 +0000"
     },
     "done": true
   },
@@ -3217,6 +3289,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:08:29 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-05-31 04:06:16 +0000"
@@ -3905,6 +3983,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-31 07:05:10 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/light_gray_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 04:09:59 +0000"
@@ -4391,6 +4475,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:08:29 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/tools/mining_ring": {
     "criteria": {
       "has_item": "2025-05-31 06:43:36 +0000"
@@ -4774,6 +4864,12 @@
       "has_string": "2025-05-31 06:10:10 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:08:29 +0000"
+    },
+    "done": false
   },
   "minecolonies:recipes/misc/blockconstructiontape": {
     "criteria": {
@@ -5608,6 +5704,12 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-31 04:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 07:05:10 +0000"
     },
     "done": true
   },
