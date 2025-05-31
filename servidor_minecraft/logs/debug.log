@@ -12041,3 +12041,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 18:31:55.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
 [31May2025 18:32:12.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
 [31May2025 18:32:30.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[31May2025 18:32:51.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5969ms or 119 ticks behind
+[31May2025 18:33:09.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3221ms or 64 ticks behind
+[31May2025 18:33:27.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3051ms or 61 ticks behind
+[31May2025 18:33:39.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to El_monstruos]
+[31May2025 18:34:08.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported El_monstruos to Juab2as]
+[31May2025 18:34:34.908] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[31May2025 18:34:41.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 18:34:41.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 18:35:36.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos has reached the goal [Strong or Careful]
+[31May2025 18:35:36.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos was shot by Dark Vortex
+[31May2025 18:35:36.073] [Server thread/DEBUG] [tombstone/]: A new grave of the player El_monstruos was created at position [x:888, y:67, z:-640, dim:minecraft:overworld]
+[31May2025 18:35:38.620] [Server thread/DEBUG] [twilightforest/]: Player El_monstruos (2339bf3d-b168-3898-b0b4-31394125be78) respawned and received items held in storage
+[31May2025 18:36:00.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_monstruos moved too quickly! -5.007519874992909,-0.2987031463477763,-8.892148948264662
+[31May2025 18:38:20.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported El_monstruos to Juab2as]
+[31May2025 18:38:26.227] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(1,8,1);type=entity,ID=falling_block,posY=#bPosY+7,NBTTag=(BlockState=(Name=diamond_block));type=entity,ID=lightning_bolt)@luck=1
+[31May2025 18:39:13.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_monstruos moved too quickly! -9.410094218966151,0.6661092609382138,-3.927807814012226
+[31May2025 18:39:41.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 18:39:41.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 18:39:42.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juab2as lost connection: Disconnected
+[31May2025 18:39:42.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as left the game
+[31May2025 18:39:47.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_monstruos moved too quickly! -3.9046372031990586,-0.6455778178064691,-9.468945006664626
+[31May2025 18:39:48.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to El_monstruos]
+[31May2025 18:42:44.489] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=#randList(dandelion,poppy,blue_orchid,allium,azure_bluet,pink_tulip,oxeye_daisy),amount=64@luck=0

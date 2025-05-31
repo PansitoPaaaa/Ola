@@ -6946,6 +6946,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-05-31 18:35:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
@@ -7009,6 +7015,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-05-31 18:35:36 +0000"
     },
     "done": true
   },
@@ -7129,6 +7141,12 @@
   "mca:recipes/decorations/red_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-31 18:35:36 +0000"
     },
     "done": true
   },

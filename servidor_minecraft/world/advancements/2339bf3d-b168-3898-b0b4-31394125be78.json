@@ -6247,6 +6247,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 18:35:36 +0000"
+    },
+    "done": true
+  },
   "botania:main/pure_daisy_pickup": {
     "criteria": {
       "daisy": "2025-05-31 18:15:18 +0000"
