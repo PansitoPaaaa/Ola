@@ -9272,5 +9272,11 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2025-05-31 18:03:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
