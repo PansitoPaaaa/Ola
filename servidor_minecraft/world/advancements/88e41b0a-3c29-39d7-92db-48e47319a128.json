@@ -3800,6 +3800,36 @@
     },
     "done": true
   },
+  "prehistoricfauna:prehistoricfauna/general/anti_lorax": {
+    "criteria": {
+      "ginkgo": "2025-05-31 22:07:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/ginkgo_sign": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/ginkgo_door": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/ginkgo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:07:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-31 22:00:18 +0000"
@@ -3812,9 +3842,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/ginkgo_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 22:07:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-31 22:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/ginkgo_button": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 22:07:21 +0000"
     },
     "done": true
   },
@@ -3830,9 +3878,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/ginkgo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_fence": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:07:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-05-31 22:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_slab": {
+    "criteria": {
+      "has_planks": "2025-05-31 22:07:55 +0000"
     },
     "done": true
   },

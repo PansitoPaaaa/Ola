@@ -143,6 +143,7 @@
       "minecraft:ocean": "2025-05-30 06:53:34 +0000",
       "minecraft:flower_forest": "2025-05-31 02:13:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-30 07:02:54 +0000",
+      "minecraft:meadow": "2025-05-31 22:07:21 +0000",
       "minecraft:plains": "2025-05-30 06:53:45 +0000"
     },
     "done": false
@@ -6948,6 +6949,18 @@
     },
     "done": true
   },
+  "prehistoricfauna:prehistoricfauna/general/anti_lorax": {
+    "criteria": {
+      "ginkgo": "2025-05-31 22:07:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-31 22:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-05-31 21:34:05 +0000"
@@ -6966,6 +6979,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-31 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 22:07:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_rocks_group/slate_cobblestone_stairs_from_slate_cobblestone_stonecutting": {
     "criteria": {
       "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
@@ -6975,6 +7000,18 @@
   "embellishcraft:recipes/embellishcraft_rocks_group/slate_cobblestone_pressure_plate": {
     "criteria": {
       "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-31 22:14:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/ginkgo_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 22:07:28 +0000"
     },
     "done": true
   },
@@ -6996,9 +7033,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-31 22:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_rocks_group/slate_cobblestone_wall_from_slate_cobblestone_stonecutting": {
     "criteria": {
       "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-31 22:14:24 +0000"
     },
     "done": true
   },
@@ -7023,6 +7072,12 @@
   "minecraft:recipes/embellishcraft_rocks_group/slate_cobblestone_pressure_plate_from_slate_cobblestone_stonecutting": {
     "criteria": {
       "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-31 22:14:18 +0000"
     },
     "done": true
   },

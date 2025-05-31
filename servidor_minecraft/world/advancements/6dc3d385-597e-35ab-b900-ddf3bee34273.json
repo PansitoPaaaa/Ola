@@ -10324,6 +10324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jurassic_siltstone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-31 22:13:52 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_from_cobblestone_smelting": {
     "criteria": {
       "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
@@ -10360,6 +10366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-31 22:17:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-31 22:02:55 +0000"
@@ -10393,6 +10405,12 @@
   "minecraft:recipes/redstone/ginkgo_button": {
     "criteria": {
       "has_planks": "2025-05-31 22:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_jurassic_siltstone": {
+    "criteria": {
+      "has_stone": "2025-05-31 22:13:52 +0000"
     },
     "done": true
   },
@@ -10456,6 +10474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jurassic_siltstone_wall": {
+    "criteria": {
+      "has_stone": "2025-05-31 22:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-05-31 21:41:09 +0000"
@@ -10471,6 +10495,12 @@
   "minecolonies:recipes/food/baked_salmon": {
     "criteria": {
       "has_garlic": "2025-05-31 21:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_jurassic_siltstone": {
+    "criteria": {
+      "has_stone": "2025-05-31 22:13:52 +0000"
     },
     "done": true
   },
@@ -10501,6 +10531,18 @@
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-31 22:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jurassic_siltstone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-31 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-05-31 22:15:41 +0000"
     },
     "done": true
   },
