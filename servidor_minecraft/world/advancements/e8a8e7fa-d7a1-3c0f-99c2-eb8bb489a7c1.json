@@ -6069,15 +6069,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_helmet": {
+  "botania:recipes/decorations/light_gray_shiny_flower": {
     "criteria": {
-      "has_item": "2025-05-31 06:27:43 +0000"
+      "has_item": "2025-05-31 06:02:25 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/heating/baked_potato": {
+  "botania:recipes/misc/petal_light_gray": {
     "criteria": {
-      "has_ingredient": "2025-05-31 06:05:42 +0000"
+      "has_item": "2025-05-31 06:02:25 +0000"
     },
     "done": true
   },
@@ -6087,15 +6087,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "botania:recipes/decorations/orange_shiny_flower": {
     "criteria": {
-      "has_potato": "2025-05-31 06:05:42 +0000"
+      "has_item": "2025-05-31 06:02:26 +0000"
     },
     "done": true
   },
-  "botania:recipes/decorations/light_gray_shiny_flower": {
+  "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
-      "has_item": "2025-05-31 06:02:25 +0000"
+      "has_ingredient": "2025-05-31 06:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-31 06:05:42 +0000"
     },
     "done": true
   },
@@ -6111,15 +6117,27 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/orange_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-31 06:02:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-05-31 06:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-31 06:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-05-31 06:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-05-31 06:27:43 +0000"
     },
     "done": true
   },
@@ -6135,33 +6153,33 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2025-05-31 06:07:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2025-05-31 06:27:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-05-31 06:05:42 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_light_gray": {
-    "criteria": {
-      "has_item": "2025-05-31 06:02:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-05-31 06:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-31 18:58:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-31 18:56:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 18:56:54 +0000"
     },
     "done": true
   },

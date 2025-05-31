@@ -826,3 +826,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 18:45:52.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Push and Pull]
 [31May2025 18:47:56.955] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=ender_pearl,amount=#rand(1,3);ID=blaze_rod,amount=#rand(1,3);ID=ghast_tear,amount=#rand(1,3);ID=gold_nugget,amount=#rand(1,3);ID=nether_wart,amount=#rand(1,3);ID=spider_eye,amount=#rand(1,3);ID=fermented_spider_eye,amount=#rand(1,3);ID=blaze_powder,amount=#rand(1,3);ID=magma_cream,amount=#rand(1,3);ID=ender_eye,amount=#rand(1,3);ID=glistering_melon_slice,amount=#rand(1,3);ID=rabbit_foot,amount=#rand(1,3);type=particle,ID=splashpotion,potion="fire_resistance")@luck=2
 [31May2025 18:51:30.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Ice Bucket Challenge]
+[31May2025 18:55:37.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PansitoPa[/127.75.92.28:36793] logged in with entity id 72008 at (1192.137499988079, 64.0625, -240.30000001192093)
+[31May2025 18:55:37.153] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player PansitoPa
+[31May2025 18:55:37.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa joined the game
+[31May2025 18:56:48.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [The Most Useful Key]
+[31May2025 18:56:54.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has reached the goal [A Fast Comeback]
+[31May2025 18:57:16.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[31May2025 18:57:33.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[31May2025 18:57:37.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juab2as[/127.165.155.158:55175] logged in with entity id 73414 at (898.5, 67.5625, -663.5)
+[31May2025 18:57:38.004] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Juab2as
+[31May2025 18:57:38.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as joined the game
+[31May2025 18:57:49.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to ZeroTwooo]
+[31May2025 18:57:50.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
+[31May2025 18:58:20.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Cover Me with Diamonds]
+[31May2025 18:58:57.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
