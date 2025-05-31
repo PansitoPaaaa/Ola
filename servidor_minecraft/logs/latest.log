@@ -880,3 +880,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 21:44:51.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo left the game
 [31May2025 21:45:33.894] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f0e1991[id=<null>,name=saber3333,properties={},legacy=false] (/127.252.161.211:46399) lost connection: Disconnected
 [31May2025 21:46:25.722] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id bwrtherain:rosemary
+[31May2025 21:50:48.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: saber3333[/127.252.161.211:37817] logged in with entity id 13567 at (921.3000000119209, 53.0, -655.6999999880791)
+[31May2025 21:50:48.175] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player saber3333
+[31May2025 21:50:48.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 joined the game
+[31May2025 21:52:07.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 was slain by Zombie
+[31May2025 21:55:59.689] [Server thread/INFO] [tombstone/]: The player saber3333 has successfully been saved
+[31May2025 21:56:02.542] [Server thread/INFO] [tombstone/]: The player saber3333 has successfully been saved
+[31May2025 21:56:04.400] [Server thread/INFO] [tombstone/]: The player saber3333 has successfully been saved
+[31May2025 21:56:06.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 was slain by Nightmare Stalker
+[31May2025 21:56:06.052] [Server thread/INFO] [tombstone/]: The player saber3333 has successfully been saved
+[31May2025 21:56:27.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Good Demoman]
+[31May2025 21:56:59.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saber3333 has made the advancement [A Strange Grave Dust]

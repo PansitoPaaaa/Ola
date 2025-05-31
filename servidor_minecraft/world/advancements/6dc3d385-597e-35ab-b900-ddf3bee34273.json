@@ -10276,6 +10276,60 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-05-31 21:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-05-31 21:51:19 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_paving_stones": {
+    "criteria": {
+      "has_gneiss_cobblestones": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_from_cobblestone_smelting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_wall_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-05-31 21:51:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-31 21:51:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-05-31 21:51:19 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_orig_recipe": "2025-05-31 21:40:03 +0000"
@@ -10288,15 +10342,93 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_pressure_plate": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "azure": "2025-05-31 21:51:46 +0000"
+    },
+    "done": false
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-05-31 21:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_stairs_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_pressure_plate_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_bricks": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-05-31 21:41:09 +0000"
     },
     "done": true
   },
+  "minecolonies:recipes/food/baked_salmon": {
+    "criteria": {
+      "has_garlic": "2025-05-31 21:51:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-05-31 21:49:14 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_stairs": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-05-31 21:40:03 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_wall": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 21:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/eggdrop_soup": {
+    "criteria": {
+      "has_onion": "2025-05-31 21:48:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-05-31 21:51:19 +0000"
     },
     "done": true
   },

@@ -2586,12 +2586,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 04:30:09 +0000"
-    },
-    "done": false
-  },
   "mapperbase:recipes/mapperbase_group/ferrite": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
@@ -2634,12 +2628,6 @@
     },
     "done": true
   },
-  "domum_ornamentum:recipes/decorations/green_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
@@ -2655,18 +2643,6 @@
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/orange_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
     },
     "done": true
   },
@@ -2688,12 +2664,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
@@ -2711,12 +2681,6 @@
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 04:30:09 +0000"
-    },
-    "done": false
   },
   "mapperbase:recipes/mapperbase_group/iron_rod": {
     "criteria": {
@@ -2808,12 +2772,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 04:30:09 +0000"
-    },
-    "done": false
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
@@ -2844,24 +2802,6 @@
     },
     "done": true
   },
-  "mca:recipes/misc/bouquet": {
-    "criteria": {
-      "has_item": "2025-05-31 04:05:47 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 04:30:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 04:30:09 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-05-31 04:03:17 +0000"
@@ -2889,12 +2829,6 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/light_gray_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
     },
     "done": true
   },
@@ -2934,12 +2868,6 @@
     },
     "done": true
   },
-  "domum_ornamentum:recipes/decorations/lime_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-05-31 04:03:17 +0000"
@@ -2970,23 +2898,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 04:30:09 +0000"
-    },
-    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
@@ -3066,12 +2982,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 04:30:09 +0000"
-    },
-    "done": false
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
@@ -3084,18 +2994,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-05-31 04:05:47 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 04:30:09 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
@@ -3105,12 +3003,6 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/pink_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
     },
     "done": true
   },
@@ -3150,23 +3042,11 @@
     },
     "done": true
   },
-  "domum_ornamentum:recipes/decorations/light_blue_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 04:30:09 +0000"
-    },
-    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/orange_grill": {
     "criteria": {
@@ -3231,12 +3111,6 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/purple_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
     },
     "done": true
   },
@@ -3342,18 +3216,6 @@
     },
     "done": true
   },
-  "domum_ornamentum:recipes/decorations/gray_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 04:30:09 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2025-05-31 04:03:17 +0000"
@@ -3396,12 +3258,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-05-31 04:05:47 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
@@ -3423,12 +3279,6 @@
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-05-31 04:03:17 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/cyan_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
     },
     "done": true
   },
@@ -3510,12 +3360,6 @@
     },
     "done": true
   },
-  "domum_ornamentum:recipes/decorations/yellow_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
@@ -3534,21 +3378,9 @@
     },
     "done": true
   },
-  "domum_ornamentum:recipes/decorations/red_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-05-31 04:03:17 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/brown_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
     },
     "done": true
   },
@@ -3561,12 +3393,6 @@
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-05-31 04:03:17 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/decorations/black_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
     },
     "done": true
   },
@@ -3642,12 +3468,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 04:30:09 +0000"
-    },
-    "done": false
-  },
   "embellishcraft:recipes/embellishcraft_industrial_group/iron_beam": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
@@ -3666,12 +3486,6 @@
     },
     "done": true
   },
-  "domum_ornamentum:recipes/decorations/white_floating_carpet": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
@@ -3681,12 +3495,6 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
     },
     "done": true
   },
@@ -3713,18 +3521,6 @@
       "has_iron_ingot": "2025-05-31 04:03:17 +0000"
     },
     "done": true
-  },
-  "travelersbackpack:recipes/misc/spider": {
-    "criteria": {
-      "has_string": "2025-05-31 04:13:20 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 04:30:09 +0000"
-    },
-    "done": false
   },
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
     "criteria": {
@@ -3822,6 +3618,156 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-31 04:03:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-31 04:03:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-31 04:03:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-05-31 04:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-31 04:05:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-31 04:05:47 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/green_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/orange_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/light_gray_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/lime_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/pink_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/light_blue_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/purple_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/gray_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/cyan_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/yellow_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/red_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/brown_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/black_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/white_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-05-31 04:13:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-31 04:13:20 +0000"
@@ -3834,33 +3780,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 04:03:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-31 04:13:20 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 04:03:17 +0000"
-    },
-    "done": true
-  },
   "domum_ornamentum:recipes/decorations/magenta_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 04:13:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 04:03:17 +0000"
     },
     "done": true
   },

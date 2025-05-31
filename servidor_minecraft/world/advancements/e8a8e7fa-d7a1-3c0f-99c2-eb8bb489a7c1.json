@@ -6942,15 +6942,81 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_rocks_group/slate_cobblestone_bricks": {
+    "criteria": {
+      "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-05-31 21:34:05 +0000"
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_rocks_group/slate_cobblestone_slab": {
+    "criteria": {
+      "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/slate_cobblestone_stairs_from_slate_cobblestone_stonecutting": {
+    "criteria": {
+      "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/slate_cobblestone_pressure_plate": {
+    "criteria": {
+      "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/slate_cobblestone_stairs": {
+    "criteria": {
+      "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/slate_paving_stones": {
+    "criteria": {
+      "has_slate_cobblestones": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/slate_cobblestone_wall": {
+    "criteria": {
+      "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/slate_cobblestone_wall_from_slate_cobblestone_stonecutting": {
+    "criteria": {
+      "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/slate_from_cobblestone_smelting": {
+    "criteria": {
+      "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-05-31 21:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/slate_cobblestone_slab_from_slate_cobblestone_stonecutting": {
+    "criteria": {
+      "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/slate_cobblestone_pressure_plate_from_slate_cobblestone_stonecutting": {
+    "criteria": {
+      "has_slate_cobblestone": "2025-05-31 21:45:13 +0000"
     },
     "done": true
   },
