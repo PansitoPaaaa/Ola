@@ -21064,3 +21064,36 @@ java.lang.Exception: null
 [31May2025 06:44:35.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
 [31May2025 06:44:35.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9871ms or 197 ticks behind
 [31May2025 06:44:56.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5523ms or 110 ticks behind
+[31May2025 06:45:17.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6454ms or 129 ticks behind
+[31May2025 06:45:22.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to warrior97lucky]
+[31May2025 06:45:37.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4154ms or 83 ticks behind
+[31May2025 06:45:56.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4520ms or 90 ticks behind
+[31May2025 06:46:15.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4054ms or 81 ticks behind
+[31May2025 06:46:34.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3729ms or 74 ticks behind
+[31May2025 06:46:52.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3411ms or 68 ticks behind
+[31May2025 06:47:04.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_monstruos lost connection: Disconnected
+[31May2025 06:47:04.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos left the game
+[31May2025 06:47:10.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3299ms or 65 ticks behind
+[31May2025 06:47:29.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
+[31May2025 06:47:42.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Kicked PansitoPa: Kicked by an operator]
+[31May2025 06:47:43.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PansitoPa lost connection: Kicked by an operator
+[31May2025 06:47:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa left the game
+[31May2025 06:47:47.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2851ms or 57 ticks behind
+[31May2025 06:48:05.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2892ms or 57 ticks behind
+[31May2025 06:48:23.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
+[31May2025 06:48:41.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
+[31May2025 06:48:59.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3112ms or 62 ticks behind
+[31May2025 06:49:16.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[31May2025 06:49:34.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2663ms or 53 ticks behind
+[31May2025 06:49:52.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2989ms or 59 ticks behind
+[31May2025 06:50:10.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2987ms or 59 ticks behind
+[31May2025 06:50:28.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2916ms or 58 ticks behind
+[31May2025 06:50:35.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 06:50:35.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 06:50:46.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3424ms or 68 ticks behind
+[31May2025 06:51:04.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2712ms or 54 ticks behind
+[31May2025 06:51:22.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2816ms or 56 ticks behind
+[31May2025 06:51:40.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3058ms or 61 ticks behind
+[31May2025 06:51:57.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2695ms or 53 ticks behind
+[31May2025 06:52:03.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 06:54:39.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Ambush]
