@@ -576,6 +576,7 @@
       "rocky_shrubland": "2025-05-30 06:59:07 +0000",
       "highland": "2025-05-31 05:07:53 +0000",
       "clover_patch": "2025-05-30 06:19:39 +0000",
+      "mystic_grove": "2025-05-31 05:22:26 +0000",
       "orchard": "2025-05-30 06:21:12 +0000",
       "lavender_forest": "2025-05-30 06:21:23 +0000",
       "moor": "2025-05-30 07:11:43 +0000",
@@ -1628,6 +1629,7 @@
     "criteria": {
       "cooked_mutton": "2025-05-30 07:14:14 +0000",
       "beef": "2025-05-30 06:18:18 +0000",
+      "apple": "2025-05-31 05:17:00 +0000",
       "potato": "2025-05-31 05:11:25 +0000",
       "bread": "2025-05-30 06:23:08 +0000",
       "cod": "2025-05-30 06:18:15 +0000",
@@ -5620,6 +5622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-31 05:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-05-31 05:04:19 +0000"
@@ -5632,9 +5640,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
+    "criteria": {
+      "has_flower": "2025-05-31 05:22:36 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-05-31 04:24:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-31 05:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-05-31 05:24:51 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_light_group/light_blue_table_lamp": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-31 05:25:20 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_light_group/light_gray_table_lamp": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-31 05:24:25 +0000"
     },
     "done": true
   },
@@ -5644,9 +5688,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-31 05:24:25 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/gray_pillow": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:24:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-05-31 05:10:58 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_light_group/purple_table_lamp": {
+    "criteria": {
+      "has_purple_wool": "2025-05-31 05:24:51 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-05-31 05:17:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_building_group/dark_oak_suspended_stairs": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-31 05:17:54 +0000"
     },
     "done": true
   },
@@ -5662,9 +5742,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:24:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-05-31 04:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-31 05:24:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-05-31 05:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-05-31 05:24:33 +0000"
     },
     "done": true
   },
@@ -5680,9 +5784,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-05-31 05:17:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-05-31 04:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-31 05:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-31 05:25:14 +0000"
     },
     "done": true
   },
@@ -5692,9 +5814,21 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/light_blue_pillow": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-31 05:25:20 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
       "anger_wizard": "2025-05-31 05:13:52 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gray_flag": {
+    "criteria": {
+      "has_gray_flag": "2025-05-31 05:24:37 +0000"
     },
     "done": true
   },
@@ -5716,15 +5850,63 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/light_blue_flag": {
+    "criteria": {
+      "has_light_blue_flag": "2025-05-31 05:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-05-31 05:24:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_blue_sleeping_bag": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-31 05:25:20 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_light_group/magenta_table_lamp": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-31 05:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-31 05:24:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-31 05:14:01 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-05-31 05:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-31 04:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-31 05:25:02 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_light_group/black_table_lamp": {
+    "criteria": {
+      "has_black_wool": "2025-05-31 05:25:02 +0000"
     },
     "done": true
   },
@@ -5752,9 +5934,81 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_light_group/gray_table_lamp": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-31 05:25:02 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/wheat_extra": {
     "criteria": {
       "has_material": "2025-05-31 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/blue_flag": {
+    "criteria": {
+      "has_blue_flag": "2025-05-31 05:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-31 05:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-05-31 05:24:33 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/magenta_couch": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-31 05:25:14 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/magenta_flag": {
+    "criteria": {
+      "has_magenta_flag": "2025-05-31 05:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-31 05:25:20 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/purple_flag": {
+    "criteria": {
+      "has_purple_flag": "2025-05-31 05:24:51 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-05-31 05:17:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_orange_double": {
+    "criteria": {
+      "has_item": "2025-05-31 05:25:31 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_light_group/blue_table_lamp": {
+    "criteria": {
+      "has_blue_wool": "2025-05-31 05:24:33 +0000"
     },
     "done": true
   },
@@ -5764,9 +6018,27 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/light_blue_couch": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-31 05:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-31 05:10:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/magenta_sleeping_bag": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-31 05:25:14 +0000"
     },
     "done": true
   },
@@ -5776,15 +6048,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-31 05:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-31 05:25:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2025-05-31 05:08:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-05-31 05:24:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-05-31 05:24:51 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/apple_pie": {
     "criteria": {
       "has_apple": "2025-05-31 05:10:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-05-31 05:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-31 05:25:14 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2025-05-31 05:24:25 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2025-05-31 05:25:02 +0000"
     },
     "done": true
   },
@@ -5803,6 +6123,18 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-31 05:08:18 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/gray_couch": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:24:37 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/magenta_pillow": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-31 05:25:14 +0000"
     },
     "done": true
   },

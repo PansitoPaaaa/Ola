@@ -809,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 05:19:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-05-31 04:22:53 +0000"
@@ -1853,6 +1859,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 05:22:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_birch_planks": "2025-05-31 04:09:59 +0000"
@@ -1904,6 +1916,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_stool": {
     "criteria": {
       "has_white_wool": "2025-05-31 04:06:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-31 05:18:32 +0000"
     },
     "done": true
   },
@@ -2177,6 +2195,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 05:19:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_white_wool": "2025-05-31 04:06:16 +0000"
@@ -2246,6 +2270,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-31 05:13:13 +0000",
+      "minecraft:spider": "2025-05-31 05:21:03 +0000",
+      "minecraft:creeper": "2025-05-31 05:16:21 +0000",
       "minecraft:zombie": "2025-05-31 04:26:42 +0000"
     },
     "done": false
@@ -2397,6 +2423,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-05-31 04:49:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 05:22:21 +0000"
     },
     "done": true
   },
@@ -3003,6 +3035,12 @@
   "embellishcraft:recipes/embellishcraft_industrial_group/iron_beam": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-05-31 05:22:44 +0000"
     },
     "done": true
   },
@@ -3761,6 +3799,7 @@
       "minecraft:river": "2025-05-31 04:10:55 +0000",
       "minecraft:dripstone_caves": "2025-05-31 04:23:25 +0000",
       "minecraft:forest": "2025-05-31 04:29:33 +0000",
+      "minecraft:flower_forest": "2025-05-31 05:21:20 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-31 04:56:44 +0000",
       "minecraft:plains": "2025-05-31 04:05:21 +0000"
     },
@@ -3799,6 +3838,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 05:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 05:19:10 +0000"
     },
     "done": true
   },

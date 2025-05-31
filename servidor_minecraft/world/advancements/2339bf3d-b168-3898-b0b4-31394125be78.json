@@ -4381,6 +4381,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 05:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_wall_from_gneiss_cobblestone_stonecutting": {
     "criteria": {
       "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"

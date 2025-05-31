@@ -2195,8 +2195,11 @@
     "criteria": {
       "minecraft:pillager": "2025-05-31 05:14:44 +0000",
       "minecraft:skeleton": "2025-05-30 06:26:47 +0000",
+      "minecraft:ravager": "2025-05-31 05:15:11 +0000",
+      "minecraft:vindicator": "2025-05-31 05:16:43 +0000",
       "minecraft:spider": "2025-05-30 06:33:31 +0000",
       "minecraft:creeper": "2025-05-30 06:08:51 +0000",
+      "minecraft:evoker": "2025-05-31 05:16:04 +0000",
       "minecraft:cave_spider": "2025-05-31 02:19:41 +0000",
       "minecraft:zombie": "2025-05-30 06:28:25 +0000"
     },
@@ -7095,15 +7098,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-05-31 05:25:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-31 05:25:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-31 05:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-05-31 05:26:13 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/cyan_flag": {
+    "criteria": {
+      "has_cyan_flag": "2025-05-31 05:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-31 05:25:30 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_light_group/light_gray_table_lamp": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-31 05:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-31 05:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-31 05:25:30 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/gray_pillow": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:25:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-05-31 05:27:25 +0000"
+    },
+    "done": false
+  },
+  "embellishcraft:recipes/embellishcraft_light_group/purple_table_lamp": {
+    "criteria": {
+      "has_purple_wool": "2025-05-31 05:26:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:25:34 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/mint_tea": {
     "criteria": {
       "has_mint": "2025-05-31 04:14:35 +0000"
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-05-31 05:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-31 05:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-05-31 05:25:49 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/mint_jelly": {
     "criteria": {
       "has_mint": "2025-05-31 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gray_flag": {
+    "criteria": {
+      "has_gray_flag": "2025-05-31 05:25:34 +0000"
     },
     "done": true
   },
@@ -7119,9 +7236,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-31 05:25:38 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/orange_pillow": {
+    "criteria": {
+      "has_orange_wool": "2025-05-31 05:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-31 04:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-05-31 05:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-05-31 05:25:49 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_light_group/gray_table_lamp": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:25:34 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/orange_couch": {
+    "criteria": {
+      "has_orange_wool": "2025-05-31 05:25:49 +0000"
     },
     "done": true
   },
@@ -7131,15 +7284,93 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/purple_flag": {
+    "criteria": {
+      "has_purple_flag": "2025-05-31 05:26:13 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/orange_flag": {
+    "criteria": {
+      "has_orange_flag": "2025-05-31 05:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-05-31 05:27:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-05-31 04:37:40 +0000"
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-05-31 05:18:46 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper_smithing": {
     "criteria": {
       "has_creeper": "2025-05-31 04:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-31 05:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-05-31 05:26:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-05-31 05:26:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/orange_sleeping_bag": {
+    "criteria": {
+      "has_orange_wool": "2025-05-31 05:25:49 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_light_group/cyan_table_lamp": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-31 05:25:30 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2025-05-31 05:25:38 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/gray_couch": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 05:25:34 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_light_group/orange_table_lamp": {
+    "criteria": {
+      "has_orange_wool": "2025-05-31 05:25:49 +0000"
     },
     "done": true
   },
