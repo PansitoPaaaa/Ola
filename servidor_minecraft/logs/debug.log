@@ -12873,3 +12873,87 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 19:08:10.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
 [31May2025 19:10:12.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31May2025 19:10:12.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 19:15:12.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 19:15:12.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 19:15:21.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 19:18:22.797] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[31May2025 19:18:22.823] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[31May2025 19:18:22.851] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[31May2025 19:18:22.887] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[31May2025 19:18:22.913] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[31May2025 19:18:22.936] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[31May2025 19:18:22.941] [Worker-Main-63/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[31May2025 19:18:23.699] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[31May2025 19:18:24.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [We Need to Go Deeper]
+[31May2025 19:18:24.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Incendium]
+[31May2025 19:18:26.347] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[31May2025 19:18:26.417] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[31May2025 19:18:26.442] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[31May2025 19:18:26.459] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[31May2025 19:18:26.465] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[31May2025 19:18:26.467] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[31May2025 19:18:31.017] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[31May2025 19:18:31.019] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[31May2025 19:18:31.021] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[31May2025 19:18:31.023] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[31May2025 19:18:31.024] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[31May2025 19:18:31.025] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[31May2025 19:18:31.025] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[31May2025 19:18:31.026] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[31May2025 19:18:31.027] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[31May2025 19:18:31.027] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[31May2025 19:18:31.028] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[31May2025 19:18:31.029] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[31May2025 19:18:31.029] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[31May2025 19:18:31.029] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[31May2025 19:18:31.030] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[31May2025 19:18:31.031] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[31May2025 19:18:31.031] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[31May2025 19:18:31.032] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[31May2025 19:18:31.033] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[31May2025 19:18:31.033] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[31May2025 19:18:31.034] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[31May2025 19:18:31.034] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[31May2025 19:18:31.035] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[31May2025 19:18:31.036] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[31May2025 19:18:31.037] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[31May2025 19:18:31.039] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[31May2025 19:18:32.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13182ms or 263 ticks behind
+[31May2025 19:18:48.544] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:shire/townhall1
+[31May2025 19:18:48.545] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=376, y=192, z=200}
+[31May2025 19:18:48.683] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:warpednetherlands/townhall1
+[31May2025 19:18:48.685] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atMutableBlockPos{x=352, y=82, z=176}
+[31May2025 19:18:48.703] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:medieval_oak/townhall
+[31May2025 19:18:48.705] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=376, y=192, z=200}
+[31May2025 19:18:48.726] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:lostmesacity/townhall1
+[31May2025 19:18:48.729] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=376, y=192, z=200}
+[31May2025 19:18:48.765] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:desertoasis/townhall1
+[31May2025 19:18:48.771] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=376, y=192, z=200}
+[31May2025 19:18:48.820] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:incan/townhall1
+[31May2025 19:18:48.825] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=376, y=192, z=200}
+[31May2025 19:18:48.847] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:asian/townhall
+[31May2025 19:18:48.849] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=376, y=192, z=200}
+[31May2025 19:18:48.863] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:medieval_dark_oak/townhall
+[31May2025 19:18:48.865] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=376, y=192, z=200}
+[31May2025 19:18:48.874] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=376, y=192, z=200}
+[31May2025 19:18:48.906] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:colonial/townhall1
+[31May2025 19:18:48.909] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=376, y=192, z=200}
+[31May2025 19:18:48.926] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:medieval_birch/townhall
+[31May2025 19:18:48.928] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=376, y=192, z=200}
+[31May2025 19:18:48.945] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecolonies:medieval_spruce/townhall
+[31May2025 19:18:48.946] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=376, y=192, z=200}
+[31May2025 19:19:39.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [We Need to Go Deeper]
+[31May2025 19:19:39.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [Incendium]
+[31May2025 19:19:39.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
+[31May2025 19:19:39.801] [Worker-Main-15/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/quartz_tower3 is being run through DFU (hash c473be0f20a42082c30df0b316976c6bd4c3b1ce3fc9ba6a33ea1b65da5efef8), this will cause launch time delays
+[31May2025 19:19:44.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [We Need to Go Deeper]
+[31May2025 19:19:44.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Incendium]
+[31May2025 19:19:44.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to PansitoPa]
+[31May2025 19:19:44.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4947ms or 98 ticks behind
+[31May2025 19:20:05.118] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/85505, l='ServerLevel[world]', x=-85.00, y=31.00, z=34.00] as it would cause deadlock
+[31May2025 19:20:30.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 19:20:30.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 19:21:41.282] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=block,ID=chest,tileEntity=(Items=#chestLootTable("chests/stronghold_corridor"))@luck=1
+[31May2025 19:21:41.282] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[31May2025 19:23:06.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 19:23:55.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]

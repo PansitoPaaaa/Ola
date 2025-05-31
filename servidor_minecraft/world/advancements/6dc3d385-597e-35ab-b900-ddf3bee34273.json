@@ -2223,6 +2223,7 @@
     "criteria": {
       "shrubland": "2025-05-30 06:58:16 +0000",
       "rocky_shrubland": "2025-05-30 06:59:06 +0000",
+      "erupting_inferno": "2025-05-31 19:19:44 +0000",
       "highland": "2025-05-31 07:02:48 +0000",
       "clover_patch": "2025-05-30 06:19:50 +0000",
       "mystic_grove": "2025-05-31 07:09:52 +0000",
@@ -9287,6 +9288,24 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-05-31 18:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-31 19:19:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-31 19:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-31 19:19:39 +0000"
     },
     "done": true
   },
