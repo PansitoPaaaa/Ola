@@ -4148,6 +4148,12 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-05-31 03:48:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-31 02:54:50 +0000"
@@ -4280,6 +4286,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-05-31 03:48:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 02:19:36 +0000"
@@ -4349,6 +4361,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-31 03:49:29 +0000"
     },
     "done": true
   },
@@ -4469,6 +4487,12 @@
   "mca:recipes/decorations/light_gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-05-31 03:48:34 +0000"
     },
     "done": true
   },
@@ -4754,6 +4778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-31 03:49:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-31 02:54:50 +0000"
@@ -4886,6 +4916,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-05-31 03:49:29 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/brown_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2025-05-31 02:54:45 +0000"
@@ -4985,6 +5021,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-05-31 03:48:34 +0000"
     },
     "done": true
   },
@@ -5135,6 +5177,12 @@
   "embellishcraft:recipes/embellishcraft_furniture_group/lime_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/yellow_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-31 03:48:34 +0000"
     },
     "done": true
   },
@@ -5363,6 +5411,12 @@
   "minecraft:recipes/embellishcraft_rocks_group/andesite_ornament_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_yellow": {
+    "criteria": {
+      "has_item": "2025-05-31 03:48:34 +0000"
     },
     "done": true
   },

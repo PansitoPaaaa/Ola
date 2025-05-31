@@ -3718,6 +3718,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-30 07:00:33 +0000",
       "cooked_beef": "2025-05-31 02:56:34 +0000",
+      "porkchop": "2025-05-31 03:52:22 +0000",
       "bread": "2025-05-30 06:23:45 +0000"
     },
     "done": false
@@ -5962,6 +5963,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/fish_n_chips": {
+    "criteria": {
+      "has_durum": "2025-05-31 03:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-05-31 03:02:21 +0000"
@@ -6370,6 +6377,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/pasta_plain": {
+    "criteria": {
+      "has_durum": "2025-05-31 03:51:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/orange_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-31 02:01:28 +0000"
@@ -6556,6 +6569,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/pasta_tomato": {
+    "criteria": {
+      "has_durum": "2025-05-31 03:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2025-05-31 02:25:00 +0000"
@@ -6661,6 +6680,12 @@
   "refurbished_furniture:recipes/decorations/blue_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-31 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/chicken_broth": {
+    "criteria": {
+      "has_durum": "2025-05-31 03:51:52 +0000"
     },
     "done": true
   },
@@ -6832,6 +6857,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/veggie_ravioli": {
+    "criteria": {
+      "has_durum": "2025-05-31 03:51:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/light_gray_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-31 03:02:19 +0000"
@@ -6853,6 +6884,12 @@
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-05-31 02:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/cheese_ravioli": {
+    "criteria": {
+      "has_durum": "2025-05-31 03:51:52 +0000"
     },
     "done": true
   },
@@ -6990,9 +7027,21 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/pottage": {
+    "criteria": {
+      "has_durum": "2025-05-31 03:51:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-05-31 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/raw_noodle": {
+    "criteria": {
+      "has_durum": "2025-05-31 03:51:52 +0000"
     },
     "done": true
   },
@@ -7023,6 +7072,12 @@
   "refurbished_furniture:recipes/decorations/blue_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-31 03:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/meat_ravioli": {
+    "criteria": {
+      "has_durum": "2025-05-31 03:51:52 +0000"
     },
     "done": true
   },

@@ -1295,6 +1295,7 @@
       "shrubland": "2025-05-31 02:35:28 +0000",
       "rocky_shrubland": "2025-05-31 03:02:35 +0000",
       "orchard": "2025-05-31 03:33:12 +0000",
+      "lavender_forest": "2025-05-31 03:50:32 +0000",
       "redwood_forest": "2025-05-31 03:34:09 +0000",
       "dune_beach": "2025-05-31 03:27:59 +0000",
       "lavender_field": "2025-05-31 03:32:48 +0000",
@@ -3676,6 +3677,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 03:52:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-05-31 03:44:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-31 03:28:23 +0000"
@@ -3760,6 +3773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 03:52:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/purple_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-31 03:28:07 +0000"
@@ -3790,9 +3809,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 03:41:56 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/light_gray_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-05-31 03:51:30 +0000"
     },
     "done": true
   },
@@ -3886,9 +3917,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-05-31 03:51:30 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-05-31 03:39:51 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-05-31 03:50:43 +0000"
     },
     "done": true
   },
@@ -3904,6 +3947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-31 03:47:04 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/white_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-31 03:23:58 +0000"
@@ -3916,15 +3965,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 03:41:56 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/gray_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-31 03:43:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-05-31 03:39:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lime_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-31 03:49:56 +0000"
     },
     "done": true
   },
@@ -3994,6 +4061,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-05-31 03:43:38 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/red_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
@@ -4030,6 +4103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-31 03:51:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-31 03:39:23 +0000"
@@ -4048,6 +4127,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-31 03:52:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_lime": {
+    "criteria": {
+      "has_item": "2025-05-31 03:49:56 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/white_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
@@ -4057,6 +4148,12 @@
   "botania:recipes/misc/petal_light_gray": {
     "criteria": {
       "has_item": "2025-05-31 03:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-31 03:43:38 +0000"
     },
     "done": true
   },
@@ -4105,6 +4202,12 @@
   "domum_ornamentum:recipes/decorations/blue_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 03:41:56 +0000"
     },
     "done": true
   },
