@@ -5606,6 +5606,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-31 04:24:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-05-31 04:10:49 +0000"

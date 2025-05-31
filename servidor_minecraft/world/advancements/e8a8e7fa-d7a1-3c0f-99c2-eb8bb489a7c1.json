@@ -5106,6 +5106,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 04:23:19 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 04:22:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-05-31 04:08:56 +0000"
@@ -5127,6 +5139,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 04:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 04:23:19 +0000"
     },
     "done": true
   },
@@ -5190,6 +5208,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-31 04:22:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-31 04:08:56 +0000"
@@ -5211,6 +5235,18 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-05-31 04:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-31 04:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-31 04:23:19 +0000"
     },
     "done": true
   },
@@ -5241,6 +5277,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-31 04:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 04:22:14 +0000"
     },
     "done": true
   },
