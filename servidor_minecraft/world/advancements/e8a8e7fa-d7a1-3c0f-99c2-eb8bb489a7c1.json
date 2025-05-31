@@ -773,6 +773,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-05-31 21:40:40 +0000",
       "cooked_beef": "2025-05-30 19:37:50 +0000",
       "apple": "2025-05-30 06:06:52 +0000",
       "bread": "2025-05-30 06:23:52 +0000",
@@ -6938,6 +6939,18 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-05-31 20:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-31 21:34:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-05-31 21:36:49 +0000"
     },
     "done": true
   },
