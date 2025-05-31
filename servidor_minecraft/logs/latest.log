@@ -756,3 +756,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 18:10:16.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_monstruos lost connection: Disconnected
 [31May2025 18:10:16.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos left the game
 [31May2025 18:10:53.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 18:12:01.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[31May2025 18:13:01.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [A Throwaway Joke]
+[31May2025 18:13:10.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: El_monstruos[/127.64.185.181:44245] logged in with entity id 42711 at (866.2402784066659, 67.0, -676.0460808308292)
+[31May2025 18:13:10.580] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player El_monstruos
+[31May2025 18:13:10.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos joined the game
+[31May2025 18:13:18.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[31May2025 18:13:35.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[31May2025 18:13:53.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[31May2025 18:14:10.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[31May2025 18:14:13.797] [Server thread/INFO] [tombstone/]: The player ZeroTwooo has successfully been saved
+[31May2025 18:14:27.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[31May2025 18:14:28.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has reached the goal [Arachnophobe's Nightmare]
+[31May2025 18:14:36.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 18:17:10.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo died because of Vapor
+[31May2025 18:17:10.893] [Server thread/INFO] [tombstone/]: The player ZeroTwooo has successfully been saved
+[31May2025 18:19:34.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to El_monstruos]
+[31May2025 18:20:36.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 18:20:47.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to El_monstruos]
+[31May2025 18:20:58.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]

@@ -6826,78 +6826,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:07:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:07:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:07:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:07:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:07:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:07:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:07:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:07:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:07:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:07:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:07:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:07:50 +0000"
-    },
-    "done": false
-  },
   "mca:recipes/decorations/purple_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
@@ -7006,6 +6934,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 18:09:49 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/cyan_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
@@ -7021,6 +6955,12 @@
   "embellishcraft:recipes/embellishcraft_furniture_group/brown_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-31 18:08:33 +0000"
     },
     "done": true
   },
@@ -7132,6 +7072,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-05-31 18:14:28 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/blue_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
@@ -7165,6 +7111,12 @@
   "embellishcraft:recipes/embellishcraft_furniture_group/light_gray_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-31 18:09:49 +0000"
     },
     "done": true
   },
@@ -7213,6 +7165,18 @@
   "embellishcraft:recipes/embellishcraft_building_group/birch_fancy_door": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-31 18:09:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 18:09:49 +0000"
     },
     "done": true
   },

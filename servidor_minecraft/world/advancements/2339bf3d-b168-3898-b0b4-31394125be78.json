@@ -6223,77 +6223,53 @@
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "botania:recipes/decorations/green_shiny_flower": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 18:10:14 +0000"
+      "has_item": "2025-05-31 18:18:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "botania:main/pure_daisy_pickup": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 18:10:14 +0000"
+      "daisy": "2025-05-31 18:15:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "botania:recipes/decorations/white_petal_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 18:10:14 +0000"
+      "has_item": "2025-05-31 18:14:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 18:10:14 +0000"
+      "has_item": "2025-05-31 18:14:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "botania:recipes/misc/dye_white": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 18:10:14 +0000"
+      "has_item": "2025-05-31 18:14:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "botania:recipes/misc/petal_green": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 18:10:14 +0000"
+      "has_item": "2025-05-31 18:18:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "botania:recipes/misc/petal_white_double": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 18:10:14 +0000"
+      "has_alt_item": "2025-05-31 18:14:53 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "botania:recipes/decorations/floating_pure_daisy": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 18:10:14 +0000"
+      "has_item": "2025-05-31 18:15:18 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:10:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:10:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:10:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-31 18:10:14 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
