@@ -137,6 +137,7 @@
       "minecraft:birch_forest": "2025-05-31 02:24:42 +0000",
       "minecraft:river": "2025-05-31 02:48:48 +0000",
       "minecraft:forest": "2025-05-31 02:27:19 +0000",
+      "minecraft:ocean": "2025-05-31 03:28:03 +0000",
       "minecraft:flower_forest": "2025-05-31 02:35:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-31 02:49:06 +0000",
       "minecraft:plains": "2025-05-31 02:27:48 +0000"
@@ -1293,6 +1294,10 @@
     "criteria": {
       "shrubland": "2025-05-31 02:35:28 +0000",
       "rocky_shrubland": "2025-05-31 03:02:35 +0000",
+      "orchard": "2025-05-31 03:33:12 +0000",
+      "redwood_forest": "2025-05-31 03:34:09 +0000",
+      "dune_beach": "2025-05-31 03:27:59 +0000",
+      "lavender_field": "2025-05-31 03:32:48 +0000",
       "grassland": "2025-05-31 02:48:40 +0000"
     },
     "done": false
@@ -1931,6 +1936,7 @@
     "criteria": {
       "cooked_mutton": "2025-05-31 02:43:44 +0000",
       "baked_potato": "2025-05-31 02:55:58 +0000",
+      "potato": "2025-05-31 03:23:04 +0000",
       "rotten_flesh": "2025-05-31 02:38:03 +0000"
     },
     "done": false
@@ -2873,7 +2879,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-05-31 02:46:25 +0000"
+      "minecraft:skeleton": "2025-05-31 02:46:25 +0000",
+      "minecraft:spider": "2025-05-31 03:37:33 +0000"
     },
     "done": false
   },
@@ -3663,6 +3670,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-31 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 03:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-31 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 03:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/green_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
@@ -3687,9 +3736,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-31 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-05-31 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-31 03:28:07 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-05-31 03:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-31 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-05-31 03:28:23 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/light_gray_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 03:39:51 +0000"
     },
     "done": true
   },
@@ -3699,9 +3808,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-05-31 03:39:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/light_gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-31 03:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-31 03:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 03:39:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 03:39:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 03:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-31 03:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
     },
     "done": true
   },
@@ -3717,9 +3874,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 03:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-31 03:25:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 03:39:51 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/purple_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-05-31 03:23:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-31 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
     },
     "done": true
   },
@@ -3729,9 +3922,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-31 03:39:51 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/cyan_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-05-31 03:35:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 03:35:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-05-31 03:35:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple_double": {
+    "criteria": {
+      "has_item": "2025-05-31 03:28:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white": {
+    "criteria": {
+      "has_item": "2025-05-31 03:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-31 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
     },
     "done": true
   },
@@ -3741,9 +3988,27 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-31 03:22:51 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/red_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2025-05-31 03:28:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
     },
     "done": true
   },
@@ -3759,9 +4024,51 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-31 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-31 03:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 03:39:51 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/white_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_light_gray": {
+    "criteria": {
+      "has_item": "2025-05-31 03:23:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 03:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-31 03:35:27 +0000"
     },
     "done": true
   },
@@ -3771,9 +4078,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-05-31 03:30:45 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-05-31 03:39:23 +0000"
     },
     "done": true
   },
@@ -3789,9 +4108,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 03:22:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-31 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 03:28:23 +0000"
     },
     "done": true
   },

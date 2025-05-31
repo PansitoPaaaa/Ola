@@ -4196,6 +4196,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/brown_flag": {
+    "criteria": {
+      "has_brown_flag": "2025-05-31 03:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-31 02:54:50 +0000"
@@ -4334,6 +4340,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-05-31 03:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-31 02:54:45 +0000"
@@ -4403,6 +4415,12 @@
   "mca:recipes/decorations/green_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 03:37:52 +0000"
     },
     "done": true
   },
@@ -4562,6 +4580,12 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_light_group/brown_table_lamp": {
+    "criteria": {
+      "has_brown_wool": "2025-05-31 03:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 02:19:36 +0000"
@@ -4601,6 +4625,12 @@
   "domum_ornamentum:recipes/decorations/light_blue_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-31 03:38:47 +0000"
     },
     "done": true
   },
@@ -4742,6 +4772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-05-31 03:28:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
       "has_stick": "2025-05-31 02:54:50 +0000"
@@ -4769,6 +4805,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-05-31 03:28:00 +0000"
     },
     "done": true
   },
@@ -4994,6 +5036,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-05-31 03:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-31 02:54:50 +0000"
@@ -5090,6 +5138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-31 03:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-05-31 02:35:30 +0000"
@@ -5099,6 +5153,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_cooler": {
     "criteria": {
       "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-05-31 03:28:00 +0000"
     },
     "done": true
   },
