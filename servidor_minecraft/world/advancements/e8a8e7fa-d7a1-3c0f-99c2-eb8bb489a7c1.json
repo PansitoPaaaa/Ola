@@ -801,6 +801,7 @@
       "lavender_forest": "2025-05-30 06:21:52 +0000",
       "moor": "2025-05-30 07:14:23 +0000",
       "redwood_forest": "2025-05-30 07:12:07 +0000",
+      "pasture": "2025-05-31 04:55:50 +0000",
       "lavender_field": "2025-05-30 06:24:19 +0000",
       "grassland": "2025-05-30 06:08:19 +0000"
     },
@@ -5365,6 +5366,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 05:02:25 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-05-31 04:08:56 +0000"
@@ -5377,6 +5384,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-05-31 04:47:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-05-31 04:55:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-05-31 04:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-31 04:34:27 +0000"
@@ -5386,6 +5411,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-05-31 04:55:17 +0000"
     },
     "done": true
   },
@@ -5485,9 +5516,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-05-31 04:55:17 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_gray_cherry_crib": {
     "criteria": {
       "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-31 04:51:39 +0000"
     },
     "done": true
   },
@@ -5749,6 +5792,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-05-31 04:47:28 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_cherry_crib": {
     "criteria": {
       "has_cherry_planks": "2025-05-31 04:34:27 +0000"
@@ -5764,6 +5813,12 @@
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-05-31 04:47:28 +0000"
     },
     "done": true
   },
@@ -5830,6 +5885,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-31 04:08:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-31 04:55:17 +0000"
     },
     "done": true
   },

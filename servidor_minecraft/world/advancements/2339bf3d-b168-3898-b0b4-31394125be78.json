@@ -134,6 +134,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-05-31 03:01:12 +0000",
+      "minecraft:sunflower_plains": "2025-05-31 04:59:54 +0000",
       "minecraft:birch_forest": "2025-05-31 02:24:42 +0000",
       "minecraft:river": "2025-05-31 02:48:48 +0000",
       "minecraft:forest": "2025-05-31 02:27:19 +0000",
@@ -1299,6 +1300,7 @@
       "lavender_forest": "2025-05-31 03:50:32 +0000",
       "redwood_forest": "2025-05-31 03:34:09 +0000",
       "dune_beach": "2025-05-31 03:27:59 +0000",
+      "pasture": "2025-05-31 04:55:56 +0000",
       "lavender_field": "2025-05-31 03:32:48 +0000",
       "grassland": "2025-05-31 02:48:40 +0000"
     },
@@ -1939,6 +1941,7 @@
       "cooked_mutton": "2025-05-31 02:43:44 +0000",
       "baked_potato": "2025-05-31 02:55:58 +0000",
       "potato": "2025-05-31 03:23:04 +0000",
+      "mutton": "2025-05-31 04:55:38 +0000",
       "bread": "2025-05-31 04:08:53 +0000",
       "rotten_flesh": "2025-05-31 02:38:03 +0000",
       "cooked_chicken": "2025-05-31 04:14:12 +0000"
@@ -4322,6 +4325,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-05-31 04:48:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-05-31 04:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab_from_gneiss_cobblestone_stonecutting": {
     "criteria": {
       "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
@@ -4337,6 +4352,12 @@
   "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_paving_stones": {
     "criteria": {
       "has_gneiss_cobblestones": "2025-05-31 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/purple_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-31 04:48:17 +0000"
     },
     "done": true
   },
@@ -4370,9 +4391,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-31 04:54:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-05-31 04:48:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_spectral_potion": {
+    "criteria": {
+      "brew_spectral_potion": "2025-05-31 05:02:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_purple": {
+    "criteria": {
+      "has_item": "2025-05-31 04:48:17 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_pressure_plate": {
     "criteria": {
       "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-05-31 04:48:17 +0000"
     },
     "done": true
   },
@@ -4394,6 +4445,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-31 04:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_stairs_from_gneiss_cobblestone_stonecutting": {
     "criteria": {
       "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
@@ -4406,9 +4463,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/purple_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-31 04:48:17 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_bricks": {
     "criteria": {
       "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-05-31 04:48:17 +0000"
     },
     "done": true
   },
