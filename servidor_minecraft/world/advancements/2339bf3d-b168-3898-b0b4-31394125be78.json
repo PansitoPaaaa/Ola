@@ -6223,9 +6223,27 @@
     },
     "done": false
   },
+  "botania:recipes/decorations/green_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-31 18:18:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/green_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-31 18:18:28 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/green_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-31 18:18:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2025-05-31 18:20:14 +0000"
     },
     "done": true
   },
@@ -6241,6 +6259,18 @@
     },
     "done": true
   },
+  "botania:recipes/combat/livingwood_bow": {
+    "criteria": {
+      "has_twig": "2025-05-31 18:20:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2025-05-31 18:20:14 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-31 18:14:53 +0000"
@@ -6253,9 +6283,63 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_green_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 18:18:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_green": {
+    "criteria": {
+      "has_item": "2025-05-31 18:18:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_item": "2025-05-31 18:20:14 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_green": {
     "criteria": {
       "has_item": "2025-05-31 18:18:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2025-05-31 18:20:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_spreader": {
+    "criteria": {
+      "has_item": "2025-05-31 18:20:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2025-05-31 18:20:14 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2025-05-31 18:19:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2025-05-31 18:20:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2025-05-31 18:20:14 +0000"
     },
     "done": true
   },
