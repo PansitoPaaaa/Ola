@@ -580,6 +580,7 @@
       "highland": "2025-05-31 05:07:53 +0000",
       "clover_patch": "2025-05-30 06:19:39 +0000",
       "mystic_grove": "2025-05-31 05:22:26 +0000",
+      "crystalline_chasm": "2025-05-31 19:51:45 +0000",
       "orchard": "2025-05-30 06:21:12 +0000",
       "lavender_forest": "2025-05-30 06:21:23 +0000",
       "moor": "2025-05-30 07:11:43 +0000",
@@ -6873,6 +6874,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-05-31 19:51:28 +0000",
       "minecraft:basalt_deltas": "2025-05-31 19:21:58 +0000"
     },
     "done": false
@@ -7346,6 +7348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-31 19:51:29 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/ender_hand": {
     "criteria": {
       "has_alt_item": "2025-05-31 18:47:59 +0000"
@@ -7421,6 +7429,12 @@
   "embellishcraft:recipes/embellishcraft_building_group/weared_bricks": {
     "criteria": {
       "has_netherrack": "2025-05-31 19:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-31 19:51:29 +0000"
     },
     "done": true
   },
@@ -7529,6 +7543,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-31 19:51:29 +0000"
     },
     "done": true
   },

@@ -917,3 +917,53 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 19:42:46.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to Juab2as]
 [31May2025 19:43:23.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Oh Shiny]
 [31May2025 19:43:52.207] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/97872, l='ServerLevel[world]', x=332.00, y=113.00, z=-565.00] as it would cause deadlock
+[31May2025 19:45:27.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [Straddle My Ol' Saddle]
+[31May2025 19:45:37.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 19:45:37.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to Juab2as]
+[31May2025 19:46:40.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 19:47:11.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 19:47:11.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo fell from a high place
+[31May2025 19:47:11.480] [Server thread/INFO] [tombstone/]: The player ZeroTwooo has successfully been saved
+[31May2025 19:47:20.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 19:48:12.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: El_monstruos[/127.64.185.181:37357] logged in with entity id 100303 at (733.0318885278037, 63.0, -879.4748110523716)
+[31May2025 19:48:12.345] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player El_monstruos
+[31May2025 19:48:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos joined the game
+[31May2025 19:48:32.383] [Server thread/WARN] [tombstone/]: The death event of the player Juab2as was canceled by another mod
+[31May2025 19:48:32.383] [Server thread/INFO] [tombstone/]: The player Juab2as has successfully been saved
+[31May2025 19:49:05.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 19:50:26.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos has made the advancement [We Need to Go Deeper]
+[31May2025 19:50:26.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos has made the advancement [Incendium]
+[31May2025 19:50:29.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported PansitoPa to Juab2as]
+[31May2025 19:50:43.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported El_monstruos to Juab2as]
+[31May2025 19:50:46.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as was doomed to fall by ZeroTwooo
+[31May2025 19:50:46.584] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Juab2as with unique ID travelersbackpack.creeper_31.05.2025-19.50.46.dat
+[31May2025 19:50:46.586] [Server thread/INFO] [tombstone/]: The player Juab2as has successfully been saved
+[31May2025 19:50:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 19:51:00.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 19:53:34.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
+[31May2025 19:53:40.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as fell from a high place
+[31May2025 19:53:40.821] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Juab2as with unique ID travelersbackpack.creeper_31.05.2025-19.53.40.dat
+[31May2025 19:53:40.823] [Server thread/INFO] [tombstone/]: The player Juab2as has successfully been saved
+[31May2025 19:53:43.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
+[31May2025 19:53:52.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 19:53:52.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo fell from a high place
+[31May2025 19:53:52.691] [Server thread/INFO] [tombstone/]: The player ZeroTwooo has successfully been saved
+[31May2025 19:53:54.524] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(group:1:(ID=#randColor_wool,amount=#rand(32,64);ID=#randColor_terracotta,amount=#rand(32,64);ID=#randColor_dye,amount=#rand(32,64));type=particle,ID=splashpotion,potion=#randPotion,amount=10)@luck=1
+[31May2025 19:53:58.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 19:54:33.121] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=sheep,NBTTag=(CustomName=#jsonStr(text="$cM$6r. $eR$aa$2i$bn$3b$5o$dw"),CustomNameVisible=true,Color=#rand(0,15)),posOffset=#circleOffset(4),amount=16@luck=1
+[31May2025 19:54:35.841] [Worker-Main-92/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/104988, l='ServerLevel[world]', x=-248.00, y=31.00, z=-179.00] as it would cause deadlock
+[31May2025 19:54:40.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/104974, l='ServerLevel[world]', x=-146.38, y=71.00, z=-385.45] died: Mr. Rainbow was slain by Juab2as using [Hero's Sword]
+[31May2025 19:54:40.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa fell from a high place
+[31May2025 19:54:41.129] [Server thread/INFO] [tombstone/]: The player PansitoPa has successfully been saved
+[31May2025 19:54:49.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to ZeroTwooo]
+[31May2025 19:54:57.394] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/105457, l='ServerLevel[world]', x=-415.10, y=31.00, z=-575.10] as it would cause deadlock
+[31May2025 19:55:08.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos fell from a high place
+[31May2025 19:55:08.209] [Server thread/INFO] [tombstone/]: The player El_monstruos has successfully been saved
+[31May2025 19:55:09.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 19:55:11.041] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/104966, l='ServerLevel[world]', x=-138.16, y=75.13, z=-361.36] died: Mr. Rainbow tried to swim in lava
+[31May2025 19:55:13.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/104975, l='ServerLevel[world]', x=-156.35, y=80.22, z=-358.39] died: Mr. Rainbow tried to swim in lava
+[31May2025 19:55:22.159] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/104977, l='ServerLevel[world]', x=-156.34, y=80.01, z=-358.41] died: Mr. Rainbow tried to swim in lava
+[31May2025 19:55:23.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported El_monstruos to PansitoPa]
+[31May2025 19:55:27.472] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['Mr. Rainbow'/104973, l='ServerLevel[world]', x=-139.23, y=75.28, z=-361.32] died: Mr. Rainbow tried to swim in lava
+[31May2025 19:55:41.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo died
+[31May2025 19:55:41.585] [Server thread/INFO] [tombstone/]: The player ZeroTwooo has successfully been saved
