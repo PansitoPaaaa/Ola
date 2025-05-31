@@ -2193,6 +2193,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-31 05:14:44 +0000",
       "minecraft:skeleton": "2025-05-30 06:26:47 +0000",
       "minecraft:spider": "2025-05-30 06:33:31 +0000",
       "minecraft:creeper": "2025-05-30 06:08:51 +0000",
@@ -7103,6 +7104,12 @@
   "minecolonies:recipes/food/mint_jelly": {
     "criteria": {
       "has_mint": "2025-05-31 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 05:14:44 +0000"
     },
     "done": true
   },

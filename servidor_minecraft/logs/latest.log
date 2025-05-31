@@ -989,3 +989,38 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 05:10:44.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Double Trouble]
 [31May2025 05:11:05.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13367ms or 267 ticks behind
 [31May2025 05:11:34.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13424ms or 268 ticks behind
+[31May2025 05:12:07.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18257ms or 365 ticks behind
+[31May2025 05:12:37.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15035ms or 300 ticks behind
+[31May2025 05:12:45.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [The Wind Darkening]
+[31May2025 05:13:06.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14099ms or 281 ticks behind
+[31May2025 05:13:38.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17065ms or 341 ticks behind
+[31May2025 05:13:52.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [A Fool's Folly]
+[31May2025 05:14:01.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Into Fire]
+[31May2025 05:14:12.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19127ms or 382 ticks behind
+[31May2025 05:14:15.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 05:14:37.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 05:14:44.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [Ambush]
+[31May2025 05:14:48.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20804ms or 416 ticks behind
+[31May2025 05:14:54.783] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=diamond_sword,NBTTag=(Enchantments=#luckySwordEnchantments,display=(Name=#jsonStr(text="Hero's Sword",color=blue,bold=true)))@luck=2
+[31May2025 05:15:26.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23017ms or 460 ticks behind
+[31May2025 05:16:04.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22687ms or 453 ticks behind
+[31May2025 05:16:42.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23908ms or 478 ticks behind
+[31May2025 05:17:19.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21128ms or 422 ticks behind
+[31May2025 05:17:44.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos has made the advancement [Funeral Theft]
+[31May2025 05:17:56.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22252ms or 445 ticks behind
+[31May2025 05:18:32.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21646ms or 432 ticks behind
+[31May2025 05:18:33.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 05:18:46.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [Tools of the Trade]
+[31May2025 05:19:10.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22555ms or 451 ticks behind
+[31May2025 05:19:44.885] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=cake@luck=0
+[31May2025 05:19:47.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22538ms or 450 ticks behind
+[31May2025 05:20:15.713] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=block,ID=chest,tileEntity=(Items=#chestLootTable("chests/simple_dungeon"))@luck=1
+[31May2025 05:20:28.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26037ms or 520 ticks behind
+[31May2025 05:20:29.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 05:20:59.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 05:21:05.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21601ms or 432 ticks behind
+[31May2025 05:21:28.469] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:1:(group(ID=porkchop,amount=#rand(8,16);ID=cooked_porkchop,amount=#rand(4,8));group(ID=salmon,amount=#rand(8,16);ID=cooked_salmon,amount=#rand(4,8));group(ID=beef,amount=#rand(8,16);ID=cooked_beef,amount=#rand(4,8));group(ID=chicken,amount=#rand(8,16);ID=cooked_chicken,amount=#rand(4,8));group(ID=mutton,amount=#rand(8,16);ID=cooked_mutton,amount=#rand(4,8));group(ID=rabbit,amount=#rand(8,16);ID=cooked_rabbit,amount=#rand(4,8)))@luck=1
+[31May2025 05:21:38.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18133ms or 362 ticks behind
+[31May2025 05:21:45.419] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=#randList(potion,splash_potion),NBTTag=(Potion=#randPotion),amount=#rand(4,8)@luck=1
+[31May2025 05:21:47.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [Minecraft Comes Alive]
+[31May2025 05:22:12.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18520ms or 370 ticks behind

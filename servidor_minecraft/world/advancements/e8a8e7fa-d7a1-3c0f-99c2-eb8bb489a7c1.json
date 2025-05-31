@@ -5312,6 +5312,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-05-31 05:10:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-31 04:06:00 +0000"
@@ -5717,6 +5723,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-05-31 05:12:45 +0000"
     },
     "done": true
   },
