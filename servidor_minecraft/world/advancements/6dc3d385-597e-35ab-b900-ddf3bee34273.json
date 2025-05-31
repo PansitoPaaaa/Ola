@@ -2198,11 +2198,13 @@
       "minecraft:pillager": "2025-05-31 05:14:44 +0000",
       "minecraft:skeleton": "2025-05-30 06:26:47 +0000",
       "minecraft:ravager": "2025-05-31 05:15:11 +0000",
+      "minecraft:ghast": "2025-05-31 19:33:08 +0000",
       "minecraft:vindicator": "2025-05-31 05:16:43 +0000",
       "minecraft:spider": "2025-05-30 06:33:31 +0000",
       "minecraft:piglin_brute": "2025-05-31 19:26:26 +0000",
       "minecraft:creeper": "2025-05-30 06:08:51 +0000",
       "minecraft:evoker": "2025-05-31 05:16:04 +0000",
+      "minecraft:witch": "2025-05-31 19:37:16 +0000",
       "minecraft:cave_spider": "2025-05-31 02:19:41 +0000",
       "minecraft:piglin": "2025-05-31 19:27:25 +0000",
       "minecraft:zombie": "2025-05-30 06:28:25 +0000"
@@ -9311,6 +9313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 19:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-05-31 19:23:04 +0000"
@@ -9497,6 +9505,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 19:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-31 19:23:04 +0000"
@@ -9518,6 +9532,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-31 19:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 19:39:32 +0000"
     },
     "done": true
   },

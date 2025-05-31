@@ -2767,12 +2767,14 @@
     "criteria": {
       "minecraft:pillager": "2025-05-31 07:02:35 +0000",
       "minecraft:skeleton": "2025-05-30 06:22:28 +0000",
+      "minecraft:ghast": "2025-05-31 19:33:09 +0000",
       "minecraft:hoglin": "2025-05-31 19:28:53 +0000",
       "minecraft:spider": "2025-05-31 03:17:26 +0000",
       "minecraft:piglin_brute": "2025-05-31 19:26:20 +0000",
       "minecraft:creeper": "2025-05-30 06:43:47 +0000",
       "minecraft:zombified_piglin": "2025-05-31 19:21:00 +0000",
       "minecraft:witch": "2025-05-31 06:54:39 +0000",
+      "minecraft:cave_spider": "2025-05-31 19:37:16 +0000",
       "minecraft:piglin": "2025-05-31 19:27:16 +0000",
       "minecraft:stray": "2025-05-31 02:21:23 +0000",
       "minecraft:zombie": "2025-05-30 06:22:48 +0000"
@@ -6881,6 +6883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 19:40:10 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/green_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
@@ -7055,6 +7063,12 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_building_group/old_bricks": {
+    "criteria": {
+      "has_netherrack": "2025-05-31 19:34:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-05-31 18:35:36 +0000"
@@ -7064,6 +7078,18 @@
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-31 19:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-31 19:31:00 +0000"
     },
     "done": true
   },
@@ -7136,6 +7162,12 @@
   "embellishcraft:recipes/embellishcraft_furniture_group/white_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/melon_slice_from_melon": {
+    "criteria": {
+      "has_melon": "2025-05-31 19:37:15 +0000"
     },
     "done": true
   },
@@ -7320,6 +7352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 19:40:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
@@ -7362,6 +7400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 19:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-05-31 18:47:59 +0000"
@@ -7371,6 +7415,12 @@
   "mca:recipes/decorations/red_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_building_group/weared_bricks": {
+    "criteria": {
+      "has_netherrack": "2025-05-31 19:34:55 +0000"
     },
     "done": true
   },
@@ -7491,6 +7541,12 @@
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2025-05-31 18:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 19:37:29 +0000"
     },
     "done": true
   },

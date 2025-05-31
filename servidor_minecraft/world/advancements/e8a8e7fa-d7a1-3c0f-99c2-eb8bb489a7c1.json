@@ -6188,6 +6188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 19:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-05-31 19:08:01 +0000"
@@ -6266,6 +6272,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-31 19:35:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-31 19:08:01 +0000"
@@ -6299,6 +6311,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2025-05-31 19:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-31 19:31:59 +0000"
     },
     "done": true
   },
@@ -6374,9 +6392,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-31 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-31 19:35:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
     "criteria": {
       "has_blue_dye": "2025-05-31 19:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-31 19:37:36 +0000"
     },
     "done": true
   },
@@ -6389,6 +6425,12 @@
   "domum_ornamentum:recipes/tools/paper_extra": {
     "criteria": {
       "has_material": "2025-05-31 19:07:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-31 19:35:20 +0000"
     },
     "done": true
   },
@@ -6500,6 +6542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 19:37:52 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/blue_brick_extra": {
     "criteria": {
       "has_dye": "2025-05-31 19:08:01 +0000"
@@ -6524,6 +6572,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-05-31 19:31:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2025-05-31 19:21:06 +0000"
@@ -6545,6 +6599,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-05-31 19:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 19:37:34 +0000"
     },
     "done": true
   },
@@ -6647,6 +6707,12 @@
   "botania:recipes/building_blocks/azulejo_0": {
     "criteria": {
       "has_item": "2025-05-31 19:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-31 19:37:34 +0000"
     },
     "done": true
   },

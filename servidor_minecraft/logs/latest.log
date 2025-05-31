@@ -878,3 +878,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 19:34:03.235] [Worker-Main-63/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/92283, l='ServerLevel[world]', x=390.00, y=135.00, z=-396.00] as it would cause deadlock
 [31May2025 19:34:20.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
 [31May2025 19:34:41.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to ZeroTwooo]
+[31May2025 19:35:09.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 19:35:19.433] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=iron_horse_armor;ID=golden_horse_armor;ID=diamond_horse_armor)@luck=2
+[31May2025 19:35:21.876] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=wither)@chance=0.1@luck=-2
+[31May2025 19:35:39.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 19:36:08.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa withered away
+[31May2025 19:36:08.730] [Server thread/INFO] [tombstone/]: The player PansitoPa has successfully been saved
+[31May2025 19:36:57.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to 136.500000, 55.000000, 8.500000]
+[31May2025 19:36:59.191] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [10, -16], pos: BlockPos{x=160, y=59, z=-251}, status: minecraft:surface
+[31May2025 19:36:59.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juab2as moved too quickly! -52.366139215793254,17.0,249.59499942553037
+[31May2025 19:36:59.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[31May2025 19:37:01.735] [Worker-Main-63/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 0], pos: BlockPos{x=259, y=57, z=15}, status: minecraft:surface
+[31May2025 19:37:01.735] [Worker-Main-63/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 0], pos: BlockPos{x=260, y=55, z=15}, status: minecraft:surface
+[31May2025 19:37:01.735] [Worker-Main-63/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 0], pos: BlockPos{x=265, y=56, z=15}, status: minecraft:surface
+[31May2025 19:37:02.047] [Worker-Main-63/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [2, -8], pos: BlockPos{x=32, y=59, z=-123}, status: minecraft:surface
+[31May2025 19:37:04.093] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [8, 10], pos: BlockPos{x=143, y=53, z=166}, status: minecraft:surface
+[31May2025 19:37:04.093] [Worker-Main-15/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [8, 10], pos: BlockPos{x=143, y=54, z=167}, status: minecraft:surface
+[31May2025 19:37:10.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 19:37:12.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to Juab2as]
+[31May2025 19:37:28.489] [Worker-Main-63/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [24, 8], pos: BlockPos{x=387, y=57, z=143}, status: minecraft:surface
+[31May2025 19:37:28.489] [Worker-Main-63/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [24, 8], pos: BlockPos{x=388, y=55, z=143}, status: minecraft:surface
+[31May2025 19:37:28.490] [Worker-Main-63/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [24, 8], pos: BlockPos{x=393, y=56, z=143}, status: minecraft:surface
+[31May2025 19:37:46.317] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [10, 16], pos: BlockPos{x=160, y=59, z=261}, status: minecraft:surface
+[31May2025 19:37:46.330] [Worker-Main-92/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [2, 16], pos: BlockPos{x=32, y=59, z=261}, status: minecraft:surface
+[31May2025 19:38:33.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as was killed by Witch using magic
+[31May2025 19:38:33.168] [Server thread/INFO] [tombstone/]: The player Juab2as has successfully been saved
+[31May2025 19:38:36.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
+[31May2025 19:39:05.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has reached the goal [Fortuitous Militia]
+[31May2025 19:39:51.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to 188.500000, 38.000000, -241.500000]
+[31May2025 19:39:51.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juab2as moved too quickly! 38.70111037592494,-15.0,-279.5490773957806
+[31May2025 19:39:54.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
+[31May2025 19:40:42.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to 0.500000, 0.000000, 0.500000]
+[31May2025 19:40:43.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PansitoPa moved too quickly! -150.68066505097673,-53.0,-38.82199403052091
+[31May2025 19:40:48.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to ZeroTwooo]
+[31May2025 19:42:38.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to 188.500000, 38.000000, -241.500000]
+[31May2025 19:42:38.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juab2as moved too quickly! 38.350327317291715,-15.0,-278.5492079591521
+[31May2025 19:42:44.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 19:42:46.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to Juab2as]
+[31May2025 19:43:23.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Oh Shiny]
+[31May2025 19:43:52.207] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/97872, l='ServerLevel[world]', x=332.00, y=113.00, z=-565.00] as it would cause deadlock
