@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-31 05:53:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
@@ -854,6 +860,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 05:51:42 +0000"
     },
     "done": true
   },
@@ -1460,6 +1472,12 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-05-31 04:33:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-31 05:53:03 +0000"
     },
     "done": true
   },
