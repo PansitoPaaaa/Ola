@@ -138,6 +138,7 @@
       "minecraft:beach": "2025-05-30 06:21:22 +0000",
       "minecraft:river": "2025-05-30 06:17:16 +0000",
       "minecraft:stony_shore": "2025-05-31 03:43:47 +0000",
+      "minecraft:dripstone_caves": "2025-05-31 04:37:47 +0000",
       "minecraft:forest": "2025-05-30 06:01:34 +0000",
       "minecraft:ocean": "2025-05-30 06:53:34 +0000",
       "minecraft:flower_forest": "2025-05-31 02:13:26 +0000",
@@ -5106,9 +5107,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-31 04:23:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/granite_rooftiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
     },
     "done": true
   },
@@ -5118,9 +5155,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_mail_box": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-05-31 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
     },
     "done": true
   },
@@ -5130,9 +5197,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_building_group/spruce_plain_door": {
+    "criteria": {
+      "has_spruce_log": "2025-05-31 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_light_group/light_gray_table_lamp": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 04:15:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
     },
     "done": true
   },
@@ -5142,15 +5269,45 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_building_group/dark_oak_plain_door": {
+    "criteria": {
+      "has_dark_oak_log": "2025-05-31 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-05-31 04:23:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-31 04:16:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
     },
     "done": true
   },
@@ -5172,15 +5329,105 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_rocks_group/smooth_granite_from_smelting": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 04:28:56 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-05-31 04:08:56 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-05-31 04:06:00 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
     },
     "done": true
   },
@@ -5196,9 +5443,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-05-31 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
     },
     "done": true
   },
@@ -5214,9 +5485,63 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/granite_button_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/granite_ornament_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-31 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
     },
     "done": true
   },
@@ -5226,9 +5551,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/granite_rooftiles_from_granite": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/wheat_extra": {
     "criteria": {
       "has_material": "2025-05-31 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
     },
     "done": true
   },
@@ -5238,9 +5605,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-31 04:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/granite_button": {
+    "criteria": {
+      "has_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:34:27 +0000"
     },
     "done": true
   },
@@ -5250,15 +5695,93 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-05-31 04:16:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_storage_jar": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2025-05-31 04:08:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-31 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-31 04:34:27 +0000"
     },
     "done": true
   },
@@ -5274,15 +5797,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 04:39:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-05-31 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-31 04:08:51 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/blue_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-31 04:22:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-31 04:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 04:36:55 +0000"
     },
     "done": true
   },

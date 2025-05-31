@@ -137,6 +137,7 @@
       "minecraft:birch_forest": "2025-05-30 05:57:11 +0000",
       "minecraft:beach": "2025-05-30 06:08:09 +0000",
       "minecraft:river": "2025-05-30 06:09:05 +0000",
+      "minecraft:dripstone_caves": "2025-05-31 04:28:04 +0000",
       "minecraft:forest": "2025-05-30 05:59:24 +0000",
       "minecraft:ocean": "2025-05-30 06:45:04 +0000",
       "minecraft:flower_forest": "2025-05-31 02:13:39 +0000",
@@ -7102,6 +7103,30 @@
   "minecolonies:recipes/food/mint_jelly": {
     "criteria": {
       "has_mint": "2025-05-31 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-31 04:26:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-31 04:37:40 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-31 04:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-05-31 04:37:40 +0000"
     },
     "done": true
   },

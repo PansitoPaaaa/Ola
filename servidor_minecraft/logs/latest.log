@@ -870,3 +870,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 04:30:43.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to warrior97lucky]
 [31May2025 04:30:51.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
 [31May2025 04:30:59.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported warrior97lucky to Juab2as]
+[31May2025 04:32:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported warrior97lucky to Juab2as]
+[31May2025 04:32:13.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior97lucky has made the advancement [Sweet Dreams]
+[31May2025 04:33:24.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior97lucky has made the advancement [Acquire Hardware]
+[31May2025 04:33:57.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: El_monstruos[/127.64.185.181:58077] logged in with entity id 23944 at (861.7376255488241, 66.7531999805212, -871.4325585176501)
+[31May2025 04:33:58.050] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player El_monstruos
+[31May2025 04:33:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos joined the game
+[31May2025 04:35:45.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 04:36:00.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos died
+[31May2025 04:36:00.878] [Server thread/INFO] [tombstone/]: The player El_monstruos has successfully been saved
+[31May2025 04:36:55.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Diamonds!]
+[31May2025 04:39:00.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: El_monstruos has made the advancement [Bring Home the Beacon]
+[31May2025 04:39:26.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to warrior97lucky]
+[31May2025 04:41:25.236] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:#rand(2,3):(ID=iron_helmet;ID=iron_chestplate;ID=iron_leggings;ID=iron_boots;ID=iron_horse_armor)@luck=1
+[31May2025 04:42:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 04:42:34.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[31May2025 04:42:55.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5927ms or 118 ticks behind
+[31May2025 04:43:17.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7107ms or 142 ticks behind
+[31May2025 04:43:18.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: warrior97lucky has made the advancement [Deceived Hopes]
+[31May2025 04:43:37.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5488ms or 109 ticks behind
+[31May2025 04:43:58.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5912ms or 118 ticks behind
+[31May2025 04:44:21.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8071ms or 161 ticks behind
+[31May2025 04:44:44.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8144ms or 162 ticks behind
+[31May2025 04:45:00.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 04:45:06.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6773ms or 135 ticks behind
+[31May2025 04:45:21.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to ZeroTwooo]
+[31May2025 04:45:26.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5301ms or 106 ticks behind
+[31May2025 04:45:45.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3719ms or 74 ticks behind
+[31May2025 04:45:54.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to warrior97lucky]
+[31May2025 04:45:56.694] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=nether_star@luck=2
+[31May2025 04:46:03.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[31May2025 04:47:02.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo was sliced and diced by a Barbarian
+[31May2025 04:47:07.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 04:47:17.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 04:47:28.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PansitoPa: Teleported PansitoPa to warrior97lucky]
+[31May2025 04:48:31.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported ZeroTwooo to Juab2as]
+[31May2025 04:49:08.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: El_monstruos moved too quickly! -8.95676429549701,-0.7531999805212024,-4.524563496905898
+[31May2025 04:49:50.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]
+[31May2025 04:50:39.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to ZeroTwooo]

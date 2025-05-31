@@ -1294,6 +1294,7 @@
     "criteria": {
       "shrubland": "2025-05-31 02:35:28 +0000",
       "rocky_shrubland": "2025-05-31 03:02:35 +0000",
+      "clover_patch": "2025-05-31 04:42:25 +0000",
       "orchard": "2025-05-31 03:33:12 +0000",
       "lavender_forest": "2025-05-31 03:50:32 +0000",
       "redwood_forest": "2025-05-31 03:34:09 +0000",
@@ -4321,78 +4322,113 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab_from_gneiss_cobblestone_stonecutting": {
     "criteria": {
-      "requirement": "2025-05-31 04:29:24 +0000",
-      "log_spam_fixer": "2025-05-31 04:29:11 +0000"
+      "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "embellishcraft:recipes/embellishcraft_building_group/birch_plain_door": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 04:29:11 +0000"
+      "has_birch_log": "2025-05-31 04:36:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_paving_stones": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 04:29:11 +0000"
+      "has_gneiss_cobblestones": "2025-05-31 04:36:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_from_cobblestone_smelting": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 04:29:11 +0000"
+      "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 04:29:11 +0000"
+      "has_logs": "2025-05-31 04:36:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "securitycraft:recipes/tools/codebreaker": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 04:29:11 +0000"
+      "has_nether_star": "2025-05-31 04:45:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_wall_from_gneiss_cobblestone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 04:29:11 +0000"
+      "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 04:29:11 +0000"
+      "has_nether_star": "2025-05-31 04:45:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 04:29:11 +0000"
+      "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 04:29:11 +0000"
+      "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "mca:recipes/misc/staff_of_life": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 04:29:11 +0000"
+      "has_item": "2025-05-31 04:45:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 04:29:11 +0000"
+      "has_log": "2025-05-31 04:36:23 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_stairs_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_pressure_plate_from_gneiss_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_bricks": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_stairs": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-05-31 04:39:00 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_wall": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
