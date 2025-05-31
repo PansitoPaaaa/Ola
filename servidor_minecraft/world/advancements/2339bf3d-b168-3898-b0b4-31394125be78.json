@@ -4483,6 +4483,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blue_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-31 06:25:26 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/red_industrial_lamp": {
     "criteria": {
       "has_red_industrial_lamp": "2025-05-31 05:35:15 +0000"
@@ -4552,6 +4558,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2025-05-31 05:56:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/cyan_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-31 06:25:29 +0000"
     },
     "done": true
   },
@@ -4645,6 +4657,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/cyan_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-31 06:25:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-31 05:35:09 +0000"
@@ -4726,6 +4744,12 @@
   "ad_astra:recipes/misc/white_industrial_lamp": {
     "criteria": {
       "has_white_industrial_lamp": "2025-05-31 05:56:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 06:12:13 +0000"
     },
     "done": true
   },
@@ -4831,6 +4855,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/floating_hydroangeas": {
+    "criteria": {
+      "has_item": "2025-05-31 06:25:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 06:25:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
     "criteria": {
       "has_red_dye": "2025-05-31 05:35:15 +0000"
@@ -4840,6 +4876,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
     "criteria": {
       "has_yellow_dye": "2025-05-31 05:35:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-31 06:25:19 +0000"
     },
     "done": true
   },
@@ -4948,6 +4990,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
     "criteria": {
       "has_yellow_dye": "2025-05-31 05:35:09 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/corn_chowder": {
+    "criteria": {
+      "has_corn": "2025-05-31 06:03:15 +0000"
     },
     "done": true
   },
@@ -5065,6 +5113,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_blue": {
+    "criteria": {
+      "has_item": "2025-05-31 06:25:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-05-31 05:35:15 +0000"
@@ -5098,6 +5152,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_basin": {
     "criteria": {
       "has_red_dye": "2025-05-31 05:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/cornmeal": {
+    "criteria": {
+      "has_corn": "2025-05-31 06:03:15 +0000"
     },
     "done": true
   },
@@ -5170,6 +5230,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2025-05-31 05:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/soy_corn_chowder": {
+    "criteria": {
+      "has_corn": "2025-05-31 06:03:15 +0000"
     },
     "done": true
   },
@@ -5272,6 +5338,12 @@
   "embellishcraft:recipes/embellishcraft_rocks_group/gneiss_cobblestone_slab": {
     "criteria": {
       "has_gneiss_cobblestone": "2025-05-31 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/polenta": {
+    "criteria": {
+      "has_corn": "2025-05-31 06:03:15 +0000"
     },
     "done": true
   },
@@ -5449,6 +5521,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/dye_cyan": {
+    "criteria": {
+      "has_item": "2025-05-31 06:25:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/light_gray_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-31 05:35:04 +0000"
@@ -5488,6 +5566,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-05-31 05:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/tortillas": {
+    "criteria": {
+      "has_corn": "2025-05-31 06:03:15 +0000"
     },
     "done": true
   },
@@ -5635,6 +5719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-31 06:12:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2025-05-31 05:35:15 +0000"
@@ -5725,6 +5815,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-05-31 06:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-31 05:35:04 +0000"
@@ -5776,6 +5872,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_storage_cabinet": {
     "criteria": {
       "has_magenta_dye": "2025-05-31 05:33:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-05-31 06:25:19 +0000"
     },
     "done": true
   },
@@ -5905,6 +6007,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-31 06:12:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_white_dye": "2025-05-31 05:56:19 +0000"
@@ -5953,6 +6061,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 06:12:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
     "criteria": {
       "has_yellow_dye": "2025-05-31 05:35:09 +0000"
@@ -5998,6 +6112,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_storage_cabinet": {
     "criteria": {
       "has_light_gray_dye": "2025-05-31 05:35:04 +0000"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2025-05-31 06:25:45 +0000"
     },
     "done": true
   },
@@ -6064,6 +6184,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2025-05-31 05:56:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-31 06:25:26 +0000"
     },
     "done": true
   },

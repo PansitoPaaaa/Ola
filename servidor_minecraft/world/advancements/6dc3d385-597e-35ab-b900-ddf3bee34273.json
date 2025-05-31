@@ -141,6 +141,7 @@
       "minecraft:forest": "2025-05-30 05:59:24 +0000",
       "minecraft:ocean": "2025-05-30 06:45:04 +0000",
       "minecraft:flower_forest": "2025-05-31 02:13:39 +0000",
+      "minecraft:meadow": "2025-05-31 06:12:38 +0000",
       "minecraft:plains": "2025-05-30 06:08:14 +0000"
     },
     "done": false
@@ -7591,15 +7592,453 @@
     },
     "done": true
   },
+  "botania:recipes/misc/livingrock_wall": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/redstone_spreader": {
+    "criteria": {
+      "has_item": "2025-05-31 06:24:37 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/anti_lorax": {
+    "criteria": {
+      "ginkgo": "2025-05-31 06:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/mossy_livingwood_planks": {
+    "criteria": {
+      "has_item": "2025-05-31 06:17:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/white_pavement": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-31 05:55:40 +0000"
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_void": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/polished_livingrock": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/livingwood_fence_gate": {
+    "criteria": {
+      "has_item": "2025-05-31 06:17:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/open_crate": {
+    "criteria": {
+      "has_item": "2025-05-31 06:17:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/pattern_framed_livingwood": {
+    "criteria": {
+      "has_item": "2025-05-31 06:17:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/horn_grass": {
+    "criteria": {
+      "has_item": "2025-05-31 06:15:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_relay": {
+    "criteria": {
+      "has_base_block": "2025-05-31 06:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/oak_table": {
+    "criteria": {
+      "has_oak_slab": "2025-05-31 06:26:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_pool": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_livingrock": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_hydroangeas": {
+    "criteria": {
+      "has_item": "2025-05-31 06:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-31 06:26:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blue_pavement": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/framed_livingwood": {
+    "criteria": {
+      "has_item": "2025-05-31 06:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "daisy": "2025-05-31 06:11:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-31 06:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/red_pavement": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/white_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-31 06:11:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/black_pavement": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slate": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/livingwood_bow": {
+    "criteria": {
+      "has_twig": "2025-05-31 06:17:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks_slab": {
+    "criteria": {
+      "has_item": "2025-05-31 06:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ginkgo_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 06:12:42 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_rocks_group/paving_stones": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood": {
+    "criteria": {
+      "has_log": "2025-05-31 06:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/white_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-31 06:11:22 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/diluted_pool": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_white": {
+    "criteria": {
+      "has_item": "2025-05-31 06:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_slab": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/red_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-31 06:18:00 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2025-05-31 06:23:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/yellow_pavement": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 06:18:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-05-31 05:55:40 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/green_pavement": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/oak_chair": {
+    "criteria": {
+      "has_oak_slab": "2025-05-31 06:26:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks": {
+    "criteria": {
+      "has_item": "2025-05-31 06:15:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/mana_spreader": {
+    "criteria": {
+      "has_item": "2025-05-31 06:15:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/mossy_livingwood_planks_vine": {
+    "criteria": {
+      "has_item": "2025-05-31 06:17:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-05-31 06:26:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingwood_planks_stairs": {
+    "criteria": {
+      "has_item": "2025-05-31 06:17:10 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2025-05-31 06:23:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_fence": {
+    "criteria": {
+      "has_item": "2025-05-31 06:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/glimmering_livingwood_log": {
+    "criteria": {
+      "has_item": "2025-05-31 06:15:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/incense_plate": {
+    "criteria": {
+      "has_item": "2025-05-31 06:15:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/livingwood_twig": {
+    "criteria": {
+      "has_item": "2025-05-31 06:15:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_white_double": {
+    "criteria": {
+      "has_item": "2025-05-31 06:09:59 +0000"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2025-05-31 06:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-31 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "pickup": "2025-05-31 06:23:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_pure_daisy": {
+    "criteria": {
+      "has_item": "2025-05-31 06:11:50 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_building_group/oak_suspended_stairs": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 06:26:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_red": {
+    "criteria": {
+      "has_item": "2025-05-31 06:18:00 +0000"
     },
     "done": true
   },
