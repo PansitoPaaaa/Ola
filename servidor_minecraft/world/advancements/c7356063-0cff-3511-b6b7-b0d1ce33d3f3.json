@@ -2767,9 +2767,13 @@
     "criteria": {
       "minecraft:pillager": "2025-05-31 07:02:35 +0000",
       "minecraft:skeleton": "2025-05-30 06:22:28 +0000",
+      "minecraft:hoglin": "2025-05-31 19:28:53 +0000",
       "minecraft:spider": "2025-05-31 03:17:26 +0000",
+      "minecraft:piglin_brute": "2025-05-31 19:26:20 +0000",
       "minecraft:creeper": "2025-05-30 06:43:47 +0000",
+      "minecraft:zombified_piglin": "2025-05-31 19:21:00 +0000",
       "minecraft:witch": "2025-05-31 06:54:39 +0000",
+      "minecraft:piglin": "2025-05-31 19:27:16 +0000",
       "minecraft:stray": "2025-05-31 02:21:23 +0000",
       "minecraft:zombie": "2025-05-30 06:22:48 +0000"
     },
@@ -6865,6 +6869,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-05-31 19:21:58 +0000"
+    },
+    "done": false
+  },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2025-05-31 18:51:30 +0000"
@@ -6892,6 +6902,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-05-31 19:25:58 +0000"
     },
     "done": true
   },
@@ -7015,6 +7031,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-05-31 19:25:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-05-31 18:42:44 +0000"
@@ -7042,6 +7064,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-05-31 19:25:58 +0000"
     },
     "done": true
   },
@@ -7153,9 +7181,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-05-31 19:25:58 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/gray_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2025-05-31 18:05:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-05-31 19:25:58 +0000"
     },
     "done": true
   },
@@ -7298,6 +7338,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-05-31 19:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-31 18:09:49 +0000"
@@ -7376,6 +7422,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-05-31 19:25:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-05-31 18:47:59 +0000"
@@ -7439,6 +7491,12 @@
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2025-05-31 18:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-31 19:26:09 +0000"
     },
     "done": true
   },
