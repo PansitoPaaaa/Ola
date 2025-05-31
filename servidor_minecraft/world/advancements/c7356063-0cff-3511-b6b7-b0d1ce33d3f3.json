@@ -5614,6 +5614,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:19:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-31 05:46:26 +0000"
@@ -5635,6 +5641,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_crate": {
     "criteria": {
       "has_cherry_planks": "2025-05-31 07:05:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-05-31 07:18:11 +0000"
     },
     "done": true
   },
@@ -5759,6 +5771,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:19:35 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2025-05-31 07:05:29 +0000"
@@ -5849,6 +5867,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:19:35 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_cutting_board": {
     "criteria": {
       "has_cherry_planks": "2025-05-31 07:05:24 +0000"
@@ -5915,6 +5939,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:19:35 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
     "criteria": {
       "has_blue_wool": "2025-05-31 05:24:33 +0000"
@@ -5933,6 +5963,12 @@
       "has_blue_wool": "2025-05-31 05:24:33 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:19:35 +0000"
+    },
+    "done": false
   },
   "mca:recipes/decorations/lime_cherry_crib": {
     "criteria": {
@@ -6000,6 +6036,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:19:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-31 05:17:54 +0000"
@@ -6048,6 +6090,18 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:19:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:19:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-31 06:54:05 +0000"
@@ -6072,15 +6126,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-31 07:13:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_table": {
     "criteria": {
       "has_cherry_planks": "2025-05-31 07:05:24 +0000"
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:19:35 +0000"
+    },
+    "done": false
+  },
   "embellishcraft:recipes/embellishcraft_furniture_group/light_blue_pillow": {
     "criteria": {
       "has_light_blue_wool": "2025-05-31 05:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-31 07:13:06 +0000"
     },
     "done": true
   },
@@ -6299,6 +6371,12 @@
       "has_item": "2025-05-31 05:07:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:19:35 +0000"
+    },
+    "done": false
   },
   "embellishcraft:recipes/embellishcraft_rocks_group/slate_paving_stones": {
     "criteria": {
@@ -6522,6 +6600,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:19:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-05-31 05:46:26 +0000"
@@ -6593,6 +6677,12 @@
       "has_black_wool": "2025-05-31 05:25:02 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 07:19:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {

@@ -21163,3 +21163,13 @@ java.lang.Exception: null
 [31May2025 07:12:57.566] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=witch;type=entity,ID=bat,posY=#bPosY+#rand(0,2),posOffset=#circleOffset(0,1),amount=64)@luck=-1
 [31May2025 07:13:10.316] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=armor_stand,NBTTag=(Small=true,NoBasePlate=true,ShowArms=true,HandItems=[(id=stone_pickaxe,Count=1)],ArmorItems=[(id=leather_boots,Count=1,tag=(display=(color=#randColor))),(id=leather_leggings,Count=1,tag=(display=(color=#randColor))),(id=leather_chestplate,Count=1,tag=(display=(color=#randColor))),(id=player_head,Count=1,tag=(SkullOwner=#pName))],Rotation=[#pYaw+180f,0f],CustomName=#jsonStr(text="Baby #pName"),CustomNameVisible=true)@luck=0
 [31May2025 07:13:15.465] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=cake@luck=0
+[31May2025 07:17:35.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 07:17:35.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 07:18:11.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has reached the goal [Big Boy]
+[31May2025 07:18:28.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as has made the advancement [Drop Pop Candy]
+[31May2025 07:20:00.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juab2as lost connection: Disconnected
+[31May2025 07:20:00.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juab2as left the game
+[31May2025 07:20:03.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeroTwooo lost connection: Disconnected
+[31May2025 07:20:03.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo left the game
+[31May2025 07:22:35.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 07:22:35.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
