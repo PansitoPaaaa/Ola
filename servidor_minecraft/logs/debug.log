@@ -12868,3 +12868,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 18:58:57.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
 [31May2025 19:00:12.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31May2025 19:00:12.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 19:05:12.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 19:05:12.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 19:08:10.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
+[31May2025 19:10:12.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 19:10:12.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
