@@ -3716,6 +3716,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-30 07:00:33 +0000",
+      "cooked_beef": "2025-05-31 02:56:34 +0000",
       "bread": "2025-05-30 06:23:45 +0000"
     },
     "done": false
@@ -5508,6 +5509,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-05-31 03:01:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 02:53:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
       "has_item": "2025-05-31 02:10:14 +0000"
@@ -5580,6 +5593,13 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/beige_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_beige_stone_bricks": "2025-05-31 03:01:24 +0000",
+      "has_item2_domum_ornamentum_beige_stone_bricks": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-05-31 02:46:53 +0000"
@@ -5616,6 +5636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-31 02:40:52 +0000"
@@ -5640,9 +5666,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_light_group/white_table_lamp": {
     "criteria": {
       "has_white_wool": "2025-05-31 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 02:53:58 +0000"
     },
     "done": true
   },
@@ -5706,6 +5744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-05-31 02:18:26 +0000"
@@ -5724,9 +5768,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 02:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-31 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
     },
     "done": true
   },
@@ -5763,6 +5825,12 @@
   "botania:recipes/decorations/blue_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-31 02:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
     },
     "done": true
   },
@@ -5856,6 +5924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
     "criteria": {
       "has_wool": "2025-05-31 02:34:01 +0000"
@@ -5928,6 +6002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:19:19 +0000"
@@ -5952,6 +6032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/orange_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-31 02:01:28 +0000"
@@ -5967,6 +6053,12 @@
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-05-31 02:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
     },
     "done": true
   },
@@ -6018,6 +6110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2025-05-31 02:25:00 +0000"
@@ -6066,6 +6164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_green": {
     "criteria": {
       "has_item": "2025-05-31 02:16:36 +0000"
@@ -6075,6 +6179,18 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-05-31 02:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
     },
     "done": true
   },
@@ -6096,9 +6212,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-31 02:53:58 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_lime": {
     "criteria": {
       "has_item": "2025-05-31 02:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
     },
     "done": true
   },
@@ -6222,6 +6356,13 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/beige_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_beige_bricks": "2025-05-31 03:01:24 +0000",
+      "has_item2_domum_ornamentum_beige_bricks": "2025-05-31 03:01:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2025-05-31 02:26:39 +0000"
@@ -6231,6 +6372,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-05-31 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-05-31 03:01:24 +0000"
     },
     "done": true
   },

@@ -580,7 +580,8 @@
       "moor": "2025-05-30 07:11:43 +0000",
       "redwood_forest": "2025-05-30 06:21:04 +0000",
       "lavender_field": "2025-05-30 06:21:43 +0000",
-      "grassland": "2025-05-30 06:06:19 +0000"
+      "grassland": "2025-05-30 06:06:19 +0000",
+      "rainforest": "2025-05-31 02:59:40 +0000"
     },
     "done": false
   },
@@ -4140,9 +4141,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_rocks_group/smooth_andesite_from_smelting": {
     "criteria": {
       "has_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4167,6 +4192,24 @@
   "iceandfire:recipes/combat/armor_green_leggings": {
     "criteria": {
       "has_item": "2025-05-31 02:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-31 02:52:02 +0000"
     },
     "done": true
   },
@@ -4200,9 +4243,69 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-31 02:53:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/blue_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-31 02:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4212,9 +4315,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-05-31 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4224,9 +4345,75 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/yellow_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/paraglider": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-31 02:59:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
     },
     "done": true
   },
@@ -4236,9 +4423,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
     },
     "done": true
   },
@@ -4248,9 +4447,33 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/light_blue_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/lime_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4266,15 +4489,87 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
       "has_item": "2025-05-31 02:10:22 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/building_blocks/blockbarreldeco_onside": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-31 02:53:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4308,9 +4603,39 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/white_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/green_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4320,9 +4645,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4332,9 +4669,63 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/light_gray_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/building_blocks/blockbarreldeco_standing": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-05-31 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
     },
     "done": true
   },
@@ -4344,9 +4735,51 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/cyan_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-31 02:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4368,6 +4801,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-05-31 02:19:36 +0000"
@@ -4380,9 +4819,45 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/oak_wooden_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/gray_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/purple_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/brown_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_building_group/oak_large_suspended_stairs": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4392,9 +4867,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/cyan_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4434,9 +4933,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
     },
     "done": true
   },
@@ -4446,9 +4969,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/red_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
     },
     "done": true
   },
@@ -4476,6 +5023,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/oak_fancy_table": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 02:19:36 +0000"
@@ -4494,9 +5065,39 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_building_group/oak_fancy_door": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-05-31 02:59:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/lime_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-05-31 02:35:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4512,6 +5113,24 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/shapetool": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/gray_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 02:19:36 +0000"
@@ -4524,9 +5143,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/purple_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
     },
     "done": true
   },
@@ -4536,9 +5167,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-31 02:59:43 +0000"
     },
     "done": true
   },
@@ -4554,6 +5209,18 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_furniture_group/red_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-05-31 02:10:23 +0000"
@@ -4566,9 +5233,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
     },
     "done": true
   },
@@ -4584,9 +5281,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/embellishcraft_rocks_group/andesite_ornament_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/orange_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/pink_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4602,9 +5323,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-31 02:19:36 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
     },
     "done": true
   },
@@ -4614,9 +5353,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-31 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/magenta_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4626,9 +5383,39 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/brown_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/blue_floating_carpet": {
     "criteria": {
       "has_string": "2025-05-31 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
     },
     "done": true
   },
@@ -4650,9 +5437,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_furniture_group/black_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-31 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_oak_crib": {
+    "criteria": {
+      "has_oak_planks": "2025-05-31 02:54:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 02:54:50 +0000"
     },
     "done": true
   },
