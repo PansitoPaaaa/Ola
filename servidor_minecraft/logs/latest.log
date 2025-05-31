@@ -738,3 +738,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 21:25:34.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PansitoPa[/127.75.92.28:49821] logged in with entity id 4686 at (906.1809832270958, 67.0, -665.9371851694657)
 [31May2025 21:25:34.350] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player PansitoPa
 [31May2025 21:25:34.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa joined the game
+[31May2025 21:28:22.849] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/c7356063-0cff-3511-b6b7-b0d1ce33d3f3.json: Don't know what bwrtherain:vapor is
+[31May2025 21:28:22.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZeroTwooo[/127.89.75.183:59817] logged in with entity id 5837 at (-228.16190727905158, 9.0, -719.1948233496256)
+[31May2025 21:28:22.936] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ZeroTwooo
+[31May2025 21:28:22.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo joined the game
+[31May2025 21:29:18.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juab2as: Teleported Juab2as to PansitoPa]
+[31May2025 21:29:43.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 21:31:56.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Hot Stuff]
+[31May2025 21:31:58.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 21:34:05.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PansitoPa has made the advancement [Best Friends Forever]
+[31May2025 21:34:46.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeroTwooo: Teleported ZeroTwooo to Juab2as]
+[31May2025 21:35:08.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeroTwooo has made the advancement [Life turned out to be a comedy]
+[31May2025 21:36:00.514] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=structure,ID=wishing_well;type=message,ID="A wishing well? Maybe you should throw in a coin...";type=command,ID=/give #pName gold_nugget{display:{Name:"{\"text\":\"Coin\",\"color\":\"gold\"}"}};type=block,ID=lucky:lucky_block,posY=#bPosY-3,NBTTag=(Drops=["group(type=message,ID=\"$eYour wish came true! (If you like potatoes)\";type=block,ID=air,posY='#'bPosY+3;type=block,ID=beacon,posY='#'bPosY+2;ID=potato,amount=128,posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=baked_potato,amount=64,posY='#'bPosY+10,posOffset='#'circleOffset(2);ID=poisonous_potato,amount=32,posY='#'bPosY+10,posOffset='#'circleOffset(2))"]))@luck=1
+[31May2025 21:36:03.237] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=message,ID="Your wish came true! (If you like potatoes)";type=block,ID=air,posY=#bPosY+3;type=block,ID=beacon,posY=#bPosY+2;ID=potato,amount=128,posY=#bPosY+10,posOffset=#circleOffset(2);ID=baked_potato,amount=64,posY=#bPosY+10,posOffset=#circleOffset(2);ID=poisonous_potato,amount=32,posY=#bPosY+10,posOffset=#circleOffset(2))
+[31May2025 21:36:11.903] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=#randList(dandelion,poppy,blue_orchid,allium,azure_bluet,pink_tulip,oxeye_daisy),amount=64@luck=0
